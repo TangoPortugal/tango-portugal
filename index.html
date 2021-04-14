@@ -29,21 +29,437 @@ urchinTracker();
 </script>
 </head>
 
-<frameset rows="140,*" frameborder="NO" border="0" framespacing="0" cols="*" align="center"> 
+<style> 
 
-  <frame name="topFrame" scrolling="NO" noresize src="menu.htm" >
 
-  <frame name="mainFrame" src="main.htm">
 
-</frameset>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 
-<noframes> 
+body {
 
-<body bgcolor="#FFFFFF" text="#000000">
+  margin: 0;
 
-</body>
+  padding: 0;
 
-</noframes> 
+  font-family: 'Open Sans', sans-serif;
+
+  color: #333;
+
+}
+
+
+
+header {
+
+  background: #111;
+
+}
+
+
+
+.headline {
+
+  position: relative;
+
+  height: 950px;
+
+  color: #fff;
+
+  text-align: center;
+
+  background: url("http://www.embajadadominicana.pt/Banerhoy.jpg") no-repeat center center;
+
+  background-size: cover;
+
+}
+
+	
+
+.headline2 {
+
+  position: relative;
+
+  height: 950px;
+
+  color: #fff;
+
+  text-align: center;
+
+  background: url("http://www.embajadadominicana.pt/barraca.jpg") no-repeat center center;
+
+  background-size: cover;
+
+}
+
+	
+
+.headline:after {
+
+  position: absolute;
+
+  content: '';
+
+  top: 0;
+
+  left: 0;
+
+  width: 100%;
+
+  height: 100%;
+
+  background: rgba(17, 17, 17, 0.5);
+
+}
+
+
+
+.inner {
+
+  position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  opacity: 0;
+
+  z-index: 10;
+
+  -webkit-transform: translateX(-50%) translateY(-50%);
+
+          transform: translateX(-50%) translateY(-50%);
+
+  -webkit-animation: fade-in 0.75s 0.25s ease-in forwards;
+
+          animation: fade-in 0.75s 0.25s ease-in forwards;
+
+}
+
+.inner h1 {
+
+  margin: 0;
+
+  font-size: 4em;
+
+  line-height: 1.2em;
+
+}
+
+.inner p {
+
+  margin: 0;
+
+  font-size: 1.4em;
+
+  font-style: italic;
+
+  font-family: serif;
+
+}
+
+
+
+nav {
+
+  position: fixed;
+
+  width: 100%;
+
+  z-index: 10;
+
+}
+
+nav.scrolled {
+
+  background: rgba(17, 17, 17, 0.9);
+
+}
+
+nav ul {
+
+  float: right;
+
+  list-style: none;
+
+  padding: 25px;
+
+  margin: 0;
+
+}
+
+nav li {
+
+  float: left;
+
+}
+
+nav a {
+
+  font-size: 0.9em;
+
+  color: #fff;
+
+  text-decoration: none;
+
+  margin: 5px 0 0 20px;
+
+  display: block;
+
+}
+
+nav a:hover {
+
+  color: #ededed;
+
+}
+
+
+
+.logo {
+
+  height: 75px;
+
+  float: left;
+
+}
+
+	/*
+
+.logo:before, .logo:after {
+
+  position: absolute;
+
+  font-size: 7em;
+
+  font-weight: 300;
+
+  line-height: 0;
+
+  color: #fff;
+
+  top: 25px;
+
+}
+
+.logo:before {
+
+  content: '\00BB';
+
+  left: 20px;
+
+}
+
+.logo:after {
+
+  content: '\00AB';
+
+  left: 34px;
+
+}
+
+*/
+
+section {
+
+  width: 100%;
+
+  margin: 25px auto;
+
+  padding: 20px;
+
+  max-width: 800px;
+
+  font-size: 1.2em;
+
+  line-height: 1.6em;
+
+  box-sizing: border-box;
+
+}
+
+
+
+@-webkit-keyframes fade-in {
+
+  0% {
+
+    opacity: 0;
+
+  }
+
+  100% {
+
+    opacity: 1;
+
+  }
+
+}
+
+
+
+@keyframes fade-in {
+
+  0% {
+
+    opacity: 0;
+
+  }
+
+  100% {
+
+    opacity: 1;
+
+  }
+
+}
+
+
+
+</style>
+
+
+
+<body ALIGN=center>
+
+
+
+<nav>
+
+  <div class="logo"></div>
+
+  <ul>
+
+    <li><a href="https://www.instagram.com/milongabarraca/" target="_blank">Instagram</a></li>
+
+    <li><a href="https://www.facebook.com/MilongadaBarraca/" target="_blank">Facebook</a></li>
+
+    <li><a href="https://goo.gl/maps/1Byb1RGNK5v7azm69" target="_blank">Localization</a></li>
+
+  </ul>
+
+</nav>
+
+
+
+<header>
+
+  <div class="headline">
+
+    <div class="inner">
+
+      <h1>Tango en Portugal</h1>
+
+      <p>ARGENTINO</p>
+
+    </div>
+
+  </div>
+
+</header>
+
+<section>
+
+  <h2>Tango en Portugal</h2>
+
+  <p>
+
+During the month of April, 2021 we will be under construction<br> We apologize
+
+ 
+
+<h3>MILONGA  d' A BARRACA</h3>
+
+<p>LISBOA since1999<br>
+
+"One of the oldest traditional argentine milonga in Europe."
+
+March 8, 2020 was the milonga nÂº 1042</p>
+
+
+
+<h3>LEARN TANGO</h3>
+
+Traditional style<br>
+
+Sundays between 7pm and 9:30 pm<br>
+
+
+
+<p>We continue to wait for the authorization of the general
+
+direction of health (DGS) to restart the presential Tango classes.<br>
+
+
+
+For Private lessons, please contact:
+
+<b>milongabarraca@gmail.com</b></p>
+
+
+
+</section>
+
+
+
+<div class="headline2">
+
+
+
+</div>
+
+
+
+<script>
+
+
+
+var $headline = $('.headline'),
+
+    $inner = $('.inner'),
+
+    $nav = $('nav'),
+
+    navHeight = 75;
+
+
+
+$(window).scroll(function() {
+
+  var scrollTop = $(this).scrollTop(),
+
+      headlineHeight = $headline.outerHeight() - navHeight,
+
+      navOffset = $nav.offset().top;
+
+
+
+  $headline.css({
+
+    'opacity': (1 - scrollTop / headlineHeight)
+
+  });
+
+  $inner.children().css({
+
+    'transform': 'translateY('+ scrollTop * 0.4 +'px)'
+
+  });
+
+  if (navOffset > headlineHeight) {
+
+    $nav.addClass('scrolled');
+
+  } else {
+
+    $nav.removeClass('scrolled');
+
+  }
+
+});
+
+
+
+</script>
 
 </html>
 
