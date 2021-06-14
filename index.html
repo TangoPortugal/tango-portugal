@@ -58,7 +58,7 @@ header {
 
   text-align: center;
 
-  background: url("http://www.embajadadominicana.pt/barraca1.jpg") no-repeat center center;
+  background: url("barraca1.jpg") no-repeat center center;
 
   background-size: cover;
 
@@ -76,7 +76,7 @@ header {
 
   text-align: center;
 
-  background: url("http://www.embajadadominicana.pt/barraca2.jpg") no-repeat center center;
+  background: url("barraca2.jpg") no-repeat center center;
 
   background-size: cover;
 
@@ -114,7 +114,7 @@ header {
 
   opacity: 0;
 
-  z-index: 10;
+  z-index: 0;
 
   -webkit-transform: translateX(-50%) translateY(-50%);
 
@@ -582,6 +582,102 @@ h1 span:nth-child(17) {
 
 	
 
+/*	ventana modal*/
+
+.modal {
+
+	position: absolute;
+
+	top: 0;
+
+	left: 0;
+
+	
+
+	display: flex;
+
+	
+
+	animation: modal 2s 3s forwards;
+
+	visibility: hidden;
+
+	opacity: 0;
+
+}
+
+
+
+#cerrar {
+
+	display: none;
+
+}
+
+
+
+#cerrar + label {
+
+	position: fixed;
+
+	color: #fff;
+
+	font-size: 25px;
+
+	z-index: 1000;
+
+	background: darkred;
+
+	height: 40px;
+
+	width: 40px;
+
+	line-height: 40px;
+
+	border-radius: 50%;
+
+	right: 390px;
+
+	top: 200px;
+
+	cursor: pointer;
+
+	
+
+	animation: modal 2s 3s forwards;
+
+	visibility: hidden;
+
+	opacity: 0;
+
+}
+
+
+
+#cerrar:checked + label, #cerrar:checked ~ .modal {
+
+	display: none;
+
+}
+
+
+
+@keyframes modal {
+
+	100% {
+
+		visibility: visible;
+
+		opacity: 1;
+
+	}
+
+}
+
+/*	fin ventana modal*/
+
+	
+
 </style>
 
 
@@ -596,7 +692,7 @@ h1 span:nth-child(17) {
 
   <ul>
 
-  <li><a href="http://www.embajadadominicana.pt/Biography%20Alejandro.pdf" target="_blank">Biography Alejandro</a></li>
+<li><a href="Biography%20Alejandro.pdf" target="_blank">Biography Alejandro</a></li>
 
 <!--    <li><a href="https://www.facebook.com/MilongadaBarraca/" target="_blank">Facebook</a></li>-->
 
@@ -632,27 +728,25 @@ h1 span:nth-child(17) {
 
             <span>&nbsp;</span>
 
-            <span>e</span>
-
-            <span>m</span>
-
             <span>&nbsp;</span>
-
-            <span>P</span>
-
-            <span>O</span>
-
-            <span>R</span>
-
-            <span>T</span>
-
-            <span>U</span>
-
-            <span>G</span>
 
             <span>A</span>
 
             <span>L</span>
+
+            <span>E</span>
+
+            <span>J</span>
+
+            <span>A</span>
+
+            <span>N</span>
+
+            <span>D</span>
+
+            <span>R</span>
+
+            <span>O</span>
 
         </h1>
 
@@ -712,8 +806,53 @@ h1 span:nth-child(17) {
 
   
 
-<p align="center">Site under construction.<br> 
+  <!--ventana moda-->
 
+<input type="checkbox" id="cerrar">
+
+		<label for="cerrar" id="btn-cerrar">X</label>
+
+		<div class="modal">
+
+			<div class="contenido">
+
+				<img src="aulas-alejandro.jpg" alt="" width="50%" height="">
+
+			</div>
+
+		</div>
+
+		
+
+		<main>
+
+			
+
+		</main>
+
+<!--fin ventana modal-->
+
+  
+
+<p align="center">After 15 months of exhaustive work in my tango laboratory and still waiting for the return to our beloved Milonga d'A Barraca no Bar do Teatro A Barraca, it is time to resume training and update learning.
+
+The workshop consists of an intensive body work based on the results of my most recent research "roots and foundations of traditional tango understood from modernity" thematic that I have presented at universities in Mexico and Portugal.<br><br> 
+
+
+
+Open level (Including beginners)
+
+Nível aberto (Inclusive principiantes.)
+
+Preferência de assistência em par, embora não é condição obrigatória para a inscrição. 
+
+Sábado 19 e Domingo 20 de Junho das 19h30 às 21h30. 
+
+As inscrições são limitadas, e o Workshop é realizado mantendo distanciamento entre pares e /u pessoas. Obrigatório utilização de máscara. 
+
+Inscrições: abertas até o dia 16 Junho inclusive. 
+
+Info: milongabarraca@gmail.com
 
  
 
@@ -722,16 +861,28 @@ h1 span:nth-child(17) {
 <p>LISBOA since 1999<br>
 
 "One of the oldest traditional argentine milonga in Europe."<br>
-</p>
+
+March 8, 2020 was the milonga numero 1042</p>
+
+
+
+<h3>LEARN TANGO</h3>
+
+Traditional style<br>
+
+Sundays between 7pm and 9:30 pm<br>
+
+
+
 <p>We continue to wait for the authorization of the general
-  
-  direction of health (DGS) to restart the Milonga and presential Tango classes.<br>
-  
-  
-  
-  For Private lessons, please contact:
-  
-  <b>milongabarraca@gmail.com</b></p>
+
+direction of health (DGS) to restart the presential Tango classes.<br>
+
+
+
+For Private lessons, please contact:
+
+<b>milongabarraca@gmail.com</b></p>
 
 
 
@@ -817,7 +968,7 @@ $(window).scroll(function() {
 
 <div class="footer">
 
-  <p>Actualizado 01-6-2021</p>
+  <p>Actualizado 14-6-2021</p>
 
 	  </div>
 
