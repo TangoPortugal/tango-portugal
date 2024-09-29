@@ -1,6 +1,0 @@
-# TODO: Lo resstructuro para dejarlo prolijo
-# TODO: Arreglamos algunas partes del sitio que están rotas
-# TODO: Actualizamos los links para que lo de actualizar el CV lo pudas hacer de otra manera más fácil vos solo
-# TODO: Vemos de actualizar contenido que quieras actualizar
-# TODO: Vemos de buscar algún estilo de sitio copado y se lo aplicamos para que quede más coquetos
-# TODO: Podemos agregarle chiches facilmente
