@@ -1,1056 +1,269 @@
 <!DOCTYPE html>
 
 <html lang="en">
-
-
-
-<head>
-
-<title>Tango em Portugal</title>
-
-
-
-<meta charset="utf-8">
-
-<meta name="description" content="tango lisboa, argentino tango, tango portugal, dansas portugal, milonga barraca, alejandro tango" />
-
-<meta name="viewpor" content="width=device-width, user-scalable=no, initial-scale=1, maximun-scale=1, minimun-scale=1">
-
-<meta name="author" content="Tomás Oleo">
-
-</head>
-
-
-
-<style> 
-
-
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
-
-body {
-
-  margin: 0;
-
-  padding: 0;
-
-  font-family: 'Open Sans', sans-serif;
-
-  color: #333;
-
-}
-
-
-
-header {
-
-  background: #111;
-
-}
-
-
-
-.headline {
-
-  position: relative;
-
-  height: 950px;
-
-  color: #fff;
-
-  text-align: center;
-
-  background: url("barraca1.jpg") no-repeat center center;
-
-  background-size: cover;
-
-}
-
-	
-
-.headline2 {
-
-  position: relative;
-
-  height: 950px;
-
-  color: #fff;
-
-  text-align: center;
-
-  background: url("barraca2.jpg") no-repeat center center;
-
-  background-size: cover;
-
-}
-
-	
-
-.headline:after {
-
-  position: absolute;
-
-  content: '';
-
-  top: 0;
-
-  left: 0;
-
-  width: 100%;
-
-  height: 100%;
-
-  background: rgba(17, 17, 17, 0.5);
-
-}
-
-
-
-.inner {
-
-  position: absolute;
-
-  top: 50%;
-
-  left: 50%;
-
-  opacity: 0;
-
-  z-index: 0;
-
-  -webkit-transform: translateX(-50%) translateY(-50%);
-
-          transform: translateX(-50%) translateY(-50%);
-
-  -webkit-animation: fade-in 0.75s 0.25s ease-in forwards;
-
-          animation: fade-in 0.75s 0.25s ease-in forwards;
-
-}
-
-.inner h1 {
-
-  margin: 0;
-
-  font-size: 4em;
-
-  line-height: 1.2em;
-
-}
-
-.inner p {
-
-  margin: 0;
-
-  font-size: 1.4em;
-
-  font-style: italic;
-
-  font-family: serif;
-
-}
-
-
-
-nav {
-
-  position: fixed;
-
-  width: 100%;
-
-  z-index: 10;
-
-}
-
-nav.scrolled {
-
-  background: rgba(17, 17, 17, 0.9);
-
-}
-
-nav ul {
-
-  float: right;
-
-  list-style: none;
-
-  padding: 25px;
-
-  margin: 0;
-
-}
-
-nav li {
-
-  float: left;
-
-}
-
-nav a {
-
-  font-size: 0.9em;
-
-  color: #fff;
-
-  text-decoration: none;
-
-  margin: 5px 0 0 20px;
-
-  display: block;
-
-}
-
-nav a:hover {
-
-  color: #ededed;
-
-}
-
-
-
-.logo {
-
-  height: 75px;
-
-  float: left;
-
-}
-
-	/*
-
-.logo:before, .logo:after {
-
-  position: absolute;
-
-  font-size: 7em;
-
-  font-weight: 300;
-
-  line-height: 0;
-
-  color: #fff;
-
-  top: 25px;
-
-}
-
-.logo:before {
-
-  content: '\00BB';
-
-  left: 20px;
-
-}
-
-.logo:after {
-
-  content: '\00AB';
-
-  left: 34px;
-
-}
-
-*/
-
-section {
-
-  width: 100%;
-
-  margin: 25px auto;
-
-  padding: 20px;
-
-  max-width: 800px;
-
-  font-size: 1.2em;
-
-  line-height: 1.6em;
-
-  box-sizing: border-box;
-
-}
-
-
-
-@-webkit-keyframes fade-in {
-
-  0% {
-
-    opacity: 0;
-
-  }
-
-  100% {
-
-    opacity: 1;
-
-  }
-
-}
-
-
-
-@keyframes fade-in {
-
-  0% {
-
-    opacity: 0;
-
-  }
-
-  100% {
-
-    opacity: 1;
-
-  }
-
-}
-
-
-
-/*Redes Sociales*/	
-
-	.redes-sociales{
-
-    padding:0px;
-
-    margin:0px;
-
-    position:fixed;
-
-    right:-130px;
-
-    top:230px;
-
-    width:210px;
-
-    z-index: 1100;
-
-}
-
-.sticky li{
-
-    list-style-type:none;
-
-    background-color:#fff;
-
-    color:#efefef;
-
-    height:43px;
-
-    padding:0px;
-
-    margin:0px 0px 1px 0px;
-
-    -webkit-transition:all 0.25s ease-in-out;
-
-    -moz-transition:all 0.25s ease-in-out;
-
-    -o-transition:all 0.25s ease-in-out;
-
-    transition:all 0.25s ease-in-out;
-
-    cursor:pointer;
-
-}
-
-.sticky li:hover{
-
-    margin-left:-15px;
-
-}
-
-.sticky li img{
-
-    float:left;
-
-    margin:5px 4px;
-
-    margin-right:5px;
-
-}
-
-.sticky li p{
-
-    padding-top:5px;
-
-    margin:0px;
-
-    line-height:16px;
-
-    font-size:11px;
-
-}
-
-.sticky li p a{
-
-    text-decoration:none;
-
-    color:#2C3539;
-
-}
-
-.sticky li p a:hover{
-
-    text-decoration:underline;
-
-}
-
-/*Fin redes sociales*/	
-
-	
-
-.footer {
-
-   bottom: 0;
-
-   width: 99,99%;
-
-   color: #333;
-
-   background-color: #111;
-
-   text-align: center;
-
-   padding: 1px;
-
-}
-
-	
-
-	/*Comienso Animacion tango portugal	*/
-
-  h1 {
-
-  margin: 0;
-
-  padding: 0;
-
-  color: #111;
-
-  font-size: 16em;
-
-}
-
-h1 span {
-
-  display: table-cell;
-
-  margin: 0;
-
-  padding: 0;
-
-  animation: textEffect 5s linear infinite;
-
-}
-
-h1 span:nth-child(1) {
-
-  animation-delay: 0s;
-
-}
-
-h1 span:nth-child(2) {
-
-  animation-delay: 0.5s;
-
-}
-
-h1 span:nth-child(3) {
-
-  animation-delay: 1s;
-
-}
-
-h1 span:nth-child(4) {
-
-  animation-delay: 1.5s;
-
-}
-
-h1 span:nth-child(5) {
-
-  animation-delay: 2s;
-
-}
-
-h1 span:nth-child(6) {
-
-  animation-delay: 2.5s;
-
-}
-
-h1 span:nth-child(7) {
-
-  animation-delay: 3s;
-
-}
-
-h1 span:nth-child(8) {
-
-  animation-delay: 3.5s;
-
-}
-
-h1 span:nth-child(9) {
-
-  animation-delay: 4s;
-
-}
-
-h1 span:nth-child(10) {
-
-  animation-delay: 4.5s;
-
-}
-
-	
-
-h1 span:nth-child(11) {
-
-  animation-delay: 5s;
-
-}
-
-h1 span:nth-child(12) {
-
-  animation-delay: 5.5s;
-
-}
-
-	
-
-h1 span:nth-child(13) {
-
-  animation-delay: 6s;
-
-}
-
-h1 span:nth-child(14) {
-
-  animation-delay: 6.5s;
-
-}
-
-h1 span:nth-child(15) {
-
-  animation-delay: 7s;
-
-}
-
-h1 span:nth-child(16) {
-
-  animation-delay: 7.5s;
-
-}
-
-h1 span:nth-child(17) {
-
-  animation-delay: 8s;
-
-}
-
-
-
-@keyframes textEffect {
-
-  0%,
-
-  100% {
-
-    color: #fff;
-
-    filter: blur(2px);
-
-    text-shadow: 0 0 10px #2a28a8, 0 0 20px #2a28a8, 0 0 40px #2a28a8, 0 0 80px #2a28a8, 0 0 120px #2a28a8, 0 0 200px #2a28a8, 0 0 300px #2a28a8, 0 0 400px #2a28a8;
-
-  }
-
-  5%,
-
-  95% {
-
-    color: #111;
-
-    filter: blur(0px);
-
-    text-shadow: 0 0 10px #00b3ff;
-
-  }
-
-}
-
-/*fin Animacion tango portugal	*/
-
-	
-
-/*	ventana modal*/
-
-.modal {
-
-	position: absolute;
-
-	top: 0;
-
-	left: 0;
-
-	
-
-	display: flex;
-
-	
-
-	animation: modal 2s 3s forwards;
-
-	visibility: hidden;
-
-	opacity: 0;
-
-}
-
-
-
-#cerrar {
-
-	display: none;
-
-}
-
-
-
-#cerrar + label {
-
-	position: fixed;
-
-	color: #fff;
-
-	font-size: 25px;
-
-	z-index: 1000;
-
-	background: darkred;
-
-	height: 40px;
-
-	width: 40px;
-
-	line-height: 40px;
-
-	border-radius: 50%;
-
-	right: 390px;
-
-	top: 200px;
-
-	cursor: pointer;
-
-	
-
-	animation: modal 2s 3s forwards;
-
-	visibility: hidden;
-
-	opacity: 0;
-
-}
-
-
-
-#cerrar:checked + label, #cerrar:checked ~ .modal {
-
-	display: none;
-
-}
-
-
-
-@keyframes modal {
-
-	100% {
-
-		visibility: visible;
-
-		opacity: 1;
-
-	}
-
-}
-
-/*	fin ventana modal*/
-
-	
-
-</style>
-
-
-
-<body>
-
-
-
-<strong>
-  <nav>
-    
-  </nav>
-
-<nav>
-</nav>
-</strong>
-<nav>
-  <div class="logo"></div>
-
-  <ul>
-
-<li><strong><a href="Biography%20Alejandro.pdf" target="_blank">Biography Alejandro</a></strong></li>
-
-<li><strong><a href="video-tango.mp4" target="_blank">Fado and Tango</a></strong></li>
-
-<li><strong><a href="Tango%20Scientific%20Publications.pdf" target="_blank">Scientific Publications</a></strong></li>
-
-<li><strong><a href="XV%20Aniversario%20Milonga%20d'A%20Barraca.%20Miguel%20Ramos.mp4" target="_blank">Anniversary of the Milonga d'A Barraca</a></strong></li>
-
-  </ul>
-
-</nav>
-
-
-
-<strong>
-  <header>
-    
-  </header>
-
-<header>
-</header>
-</strong>
-<header>
-  <div class="headline">
-
-    <div class="inner">
-
-     
-
-     <strong>
-
-     <!--Comienso Animacion tango portugal-->
-
-     </strong>
-     <h1><strong>&nbsp;
-       
-       <span>&nbsp;</span>
-       
-       <span>&nbsp;</span>
-       
-       <span>&nbsp;</span>
-       
-       <span>&nbsp;</span>
-       
-       <span>T</span>
-       
-       <span>A</span>
-       
-       <span>N</span>
-       
-       <span>G</span>
-       
-       <span>O</span>
-       
-       <span>&nbsp;</span>
-       
-       <span>&nbsp;</span>
-       
-       
-       
-       <!--Fin Animacion tango portugal-->
-       
-       
-       
-      </strong></h1>
-     <h1><strong><font size="5" style="color:#fff;">ARGENTINO em LISBOA</font></strong></h1>
-     <h1><strong>
-       
-       <span>A</span>
-       
-       <span>L</span>
-       
-       <span>E</span>
-       
-       <span>J</span>
-       
-       <span>A</span>
-       
-       <span>N</span>
-       
-       <span>D</span>
-       
-       <span>R</span>
-       
-       <span>O</span>
-       
-     </strong></h1>
-
-      
-
-      
-
-    </div>
-
-    
-
-  </div>
-
-  
-
-</header>
-
-
-
-<strong>
-  <section align="center">
-    
-    
-    
-    
-    
-    <!--Redes Sociales-->
-    
-  </section>
-
-<section align="center">
-</section>
-</strong>
-<section align="center">
-  <div class="redes-sociales">
-
-    <ul class="sticky">
-
-        <li>
-
-            <strong><a href="https://www.facebook.com/MilongadaBarraca/" target="_blank"><img src="http://www.embajadadominicana.pt/imagenes/Icones/Fcebook.ico" width="32" height="32"></a>
-
-        </strong></li>
-
-        <li>
-
-            <strong><a href="https://www.instagram.com/milongabarraca/" target="_blank"><img src="http://www.embajadadominicana.pt/imagenes/Icones/instagran.ico" width="32" height="32"></a>
-
-        </strong></li>
-
-        <li>
-
-            <strong><a href="https://goo.gl/maps/1Byb1RGNK5v7azm69" target="_blank"><img src="https://p.kindpng.com/picc/s/216-2163075_location-pointer-circle-hd-png-download.png" width="32" height="32"></a>
-
-        </strong></li>
-
-    </ul>
-
-</div>
-
-  <strong>
-  <!--Fin Redes Sociales-->
-
-  
-
-  <!--ventana moda
-
-<input type="checkbox" id="cerrar">
-
-		<label for="cerrar" id="btn-cerrar">X</label>
-
-		<div class="modal">
-
-			<div class="contenido">
-
-				<img src="aulas-alejandro.jpg" alt="" width="50%" height="">
-
-			</div>
-
-		</div>
-
-		
-
-		<main>
-
-			
-
-		</main>
-
-fin ventana modal-->
-  </strong>
-  <h4 align="left">There is a privileged space in Lisbon for learning &amp; dance Social and Argentine T A N G O in the Santos neighborhood. It is Teatro CINEARTE and its iconic Bar A BARRACA, insparable parts of a beautiful 'Art Deco' building from the 30s that was designed by the architect Cassiano Branco and later declared of public interest.<strong><br>
-  </strong></h4>
-  <h4 align="left"><strong>LEARN TANGO (Classes. Work Shop)<br>
-    <br>
-    </strong>SUNDAYS [7.15 - 9 p.m.] Group Classes. <br>
-    Beginners and Open Level with professor Alejandro Laguna. <br>
-    <br>
-    Venue: Teatro A Barraca Bar. Largo de Santos, 2. Santos Lisboa. <strong><br>
-    <br>
-    </strong>WEDNESDAY [9 p.m.] Group Classes. <br>
-    Beginners. Alejandro Laguna &amp; Camila Delphim. <br>
-    Venue: Padaría do Povo. Rua Luís Derouet 20A. Campo de Ourique Lisboa<strong><br>
-    </strong><br>
-    For supplementary info, write to milongabarraca@gmail.com <strong><br>
-    </strong><br>
-    —&gt;PRIVATE LESSONS with  Alejandro Laguna are available.<br>
-BIO: <a href="https://tangoportugal.com/Biography%20Alejandro.pdf">https://tangoportugal.com/Biography%20Alejandro.pdf</a><br>
-    Please write to milongabarraca@gmail.com<br>
-    <br>
-    —&gt; Performances <br>
-    Tango Dance (Tango, Vals and milonga) <br>
-&quot;Um Abraço Dançado em Fado&quot; exibitions. For this presentation Fado Live is available too.<br>
-    FADO DANCE is an Alejandro practice created in 1999 in Madragoa neiborhood and developed for 25 years.<br>
-    Since 2023, Alejandro begins to dance and develop the artistic project &quot;A embrace danced in Fado&quot; with Camila Delphim, a relevant Brazilian professional dancer.<br>
-  </h4>
-  <h4 align="left"><strong><img src="Screen Shot 2023-02-02 at 23.49.55.png" width="641" height="190"><br>
-    </strong>M I L O N G A&nbsp; d 'A&nbsp;&nbsp; B A R R A C A<br>
-    When?&nbsp;Every Sundays <br>
-What time?&nbsp;9:00 pm the doors open | 00:45 am&nbsp;<br>
-Where?&nbsp;Teatro Cinearte-Bar. Largo de Santos, 2, 1200-808 Lisbon. <br>
-Collaboration 7 tangos 
-<strong>
-<!--<video autoplay controls>
-=======
-  <h4 align="left"><img src="Screen Shot 2023-02-02 at 23.49.55.png" width="582" height="173"><br>
-    M I L O N G A&nbsp; d 'A&nbsp;&nbsp; B A R R A C A<br>
-    The project is directed by Professor Alejandro Laguna a PhD researcher and professional dancer from Buenos Aires. <br>
-    Created in July 1999. It is the oldest milonga in Portugal and probably the oldest weekly milonga in Europe organized by an argentine. <br>
-    Its mission is to disseminate the fundamentals and roots of Traditional Argentine Social Tango and the experiences of the Buenos Aires milonga in Portugal. <br>
-    The milonga d'A Barraca promotes the link between the environments of the Fado houses and the milonga, through regular concerts in which important Fadistas have performed.&nbsp;<strong><br>
-    </strong>A set of memorable experiences since its creation that have known how to value the cultural roots of both countries without ever losing their commitment to the public distinguishes the quality of the Milonga d'A Barraca.&nbsp;<br>
-    The Pista, the Bar and the Sala are already prepared to continue along the Tanguero path that Milonga d'A Barraca started at the end of the last century...<br>
-    Looking forward to meet you again and continue to have your preference. <br>
-    Invite your friends for a memorable experience!!</h4>
-  <h4 align="left"><strong><br>
-    </strong>WHEN?&nbsp;Every Sundays <br>
-    WHAT TIME?&nbsp;9:00 pm the doors open | 00:45 am&nbsp;<br>
-    WHERE?&nbsp;Santos Neighborhood. Teatro Cinearte. Largo de Santos, 2, 1200-808 Lisbon. <br>
-    7 TANGOS
-    
-    
-    
-    
-    
-    
-    
-    
+  <head>
+    <title>Tango em Portugal</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/scroll.js"></script>
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="tango lisboa, argentino tango, tango portugal, dansas portugal, milonga barraca, alejandro tango"
+    />
+
+    <meta
+      name="viewpor"
+      content="width=device-width, user-scalable=no, initial-scale=1, maximun-scale=1, minimun-scale=1"
+    />
+
+    <meta name="author" content="Tomás Oleo" />
+  </head>
+
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+  </style>
+  <link rel="stylesheet" href="assets/styles/general.css" />
+
+  <body>
     <strong>
+      <nav></nav>
 
-  <!--<video autoplay controls>
->>>>>>> parent of f3bb326 (Update index.html)
+      <nav></nav>
+    </strong>
+    <nav>
+      <div class="logo"></div>
 
-  <source src="video-tango.mp4" type="video/mp4">
+      <ul>
+        <li>
+          <strong
+            ><a href="assets/docs/biography-alejandro.pdf" target="_blank"
+              >Biography Alejandro</a
+            ></strong
+          >
+        </li>
 
-  <source src="video.webm" type="video/webm">
+        <li>
+          <strong
+            ><a href="assets/video/video-tango.mp4" target="_blank"
+              >Fado and Tango</a
+            ></strong
+          >
+        </li>
 
-  <track src="legendas_pt.vtt" kind="subtitles" srclang="pt" label="Português">
+        <li>
+          <strong
+            ><a
+              href="assets/docs/tango-scientific-publications.pdf"
+              target="_blank"
+              >Scientific Publications</a
+            ></strong
+          >
+        </li>
 
-  <track src="legendas_es.vtt" kind="subtitles" srclang="es" label="Español">
+        <li>
+          <strong
+            ><a
+              href="XV%20Aniversario%20Milonga%20d'A%20Barraca.%20Miguel%20Ramos.mp4"
+              target="_blank"
+              >Anniversary of the Milonga d'A Barraca</a
+            ></strong
+          >
+        </li>
+      </ul>
+    </nav>
+    <header>
+      <div class="headline">
+        <div class="inner">
+          <strong> </strong>
+          <h1>
+            <strong
+              >&nbsp;
 
-  <track src="legendas_en.vtt" kind="subtitles" srclang="en" label="English">
+              <span>&nbsp;</span>
 
-</video>-->
-    
-    
-    
-  <!--para dar like
+              <span>&nbsp;</span>
 
-  <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.devmedia.com.br&layout=button_count&
+              <span>&nbsp;</span>
 
-show_faces=true&width=380&action=like&colorscheme=light&height=30&locale=pt_BR" scrolling="no" frameborder="0"
+              <span>&nbsp;</span>
 
-style="border:none; overflow:hidden; width:100px; height:25px;" allowTransparency="true">
+              <span>T</span>
 
-</iframe>
+              <span>A</span>
 
-<<<<<<< HEAD
-  para dar like-->
-  </strong></h4>
-  <h4 align="left"><strong><br>
-    </strong>The project is directed by Professor Alejandro Laguna, a PhD researcher and professional dancer from Buenos Aires. <br>
-    Created in July 1999. It is the oldest milonga in Portugal and probably the oldest weekly milonga in Europe organized by an argentine tango dancer. <br>
-    Its mission is to disseminate the fundamentals and roots of Traditional Argentine Social Tango and the experiences of the Buenos Aires milonga in Portugal. <br>
-    The milonga d'A Barraca promotes the link between the environments of the Fado houses and the milonga, through regular concerts in which important Fadistas have performed.&nbsp;<br>
-    A set of memorable experiences since its creation that have known how to value the cultural roots of both countries without ever losing their commitment to the public distinguishes the quality of the Milonga d'A Barraca.&nbsp;<strong><br>
-    The Pista, the Bar and the Sala are already prepared to continue along the Tanguero path that Milonga d'A </strong>Barraca started at the end of the last century...<br>
-    Looking forward to meet you again and continue to have your preference. <br>
-    Invite your friends for a memorable experience!!</h4>
-</section>
+              <span>N</span>
 
+              <span>G</span>
 
+              <span>O</span>
 
-<div class="headline2">
+              <span>&nbsp;</span>
 
+              <span>&nbsp;</span>
+            </strong>
+          </h1>
+          <h1>
+            <strong
+              ><font size="5" style="color: #fff"
+                >ARGENTINO em LISBOA</font
+              ></strong
+            >
+          </h1>
+          <h1>
+            <strong>
+              <span>A</span>
 
+              <span>L</span>
 
-</div>
+              <span>E</span>
 
+              <span>J</span>
 
+              <span>A</span>
 
-<strong>
-<script>
+              <span>N</span>
 
+              <span>D</span>
 
+              <span>R</span>
 
-var $headline = $('.headline'),
+              <span>O</span>
+            </strong>
+          </h1>
+        </div>
+      </div>
+    </header>
+    <section align="center">
+      <div class="redes-sociales">
+        <ul class="sticky">
+          <li>
+            <strong
+              ><a
+                href="https://www.facebook.com/MilongadaBarraca/"
+                target="_blank"
+                ><img
+                  src="assets/img/facebook-icon.webp"
+                  width="32"
+                  height="32"
+              /></a>
+            </strong>
+          </li>
 
-    $inner = $('.inner'),
+          <li>
+            <strong
+              ><a
+                href="https://www.instagram.com/milongabarraca/"
+                target="_blank"
+                ><img
+                  src="assets/img/instagram-icon.webp"
+                  width="32"
+                  height="32"
+              /></a>
+            </strong>
+          </li>
 
-    $nav = $('nav'),
+          <li>
+            <strong
+              ><a
+                href="http://maps.google.com/?q=Teatro%20A%20Barraca%E2%80%94Bar%20A%20Barraca%E2%80%94Largo%20de%20Santos%2C%202%2C%20Lisboa"
+                target="_blank"
+                ><img
+                  src="assets/img/google-maps-icon.webp"
+                  width="32"
+                  height="32"
+              /></a>
+            </strong>
+          </li>
+        </ul>
+      </div>
+      <h4 align="left">
+        There is a privileged space in Lisbon for learning &amp; dance Social
+        and Argentine T A N G O in the Santos neighborhood. It is Teatro
+        CINEARTE and its iconic Bar A BARRACA, insparable parts of a beautiful
+        'Art Deco' building from the 30s that was designed by the architect
+        Cassiano Branco and later declared of public interest.<strong
+          ><br />
+        </strong>
+      </h4>
+      <h4 align="left">
+        <strong
+          >LEARN TANGO (Classes. Work Shop)<br />
+          <br /> </strong
+        >SUNDAYS [7.15 - 9 p.m.] Group Classes. <br />
+        Beginners and Open Level with professor Alejandro Laguna. <br />
+        <br />
+        Venue: Teatro A Barraca Bar. Largo de Santos, 2. Santos Lisboa.
+        <strong
+          ><br />
+          <br /> </strong
+        >WEDNESDAY [9 p.m.] Group Classes. <br />
+        Beginners. Alejandro Laguna &amp; Camila Delphim. <br />
+        Venue: Padaría do Povo. Rua Luís Derouet 20A. Campo de Ourique
+        Lisboa<strong><br /> </strong><br />
+        For supplementary info, write to milongabarraca@gmail.com
+        <strong><br /> </strong><br />
+        —&gt;PRIVATE LESSONS with Alejandro Laguna are available.<br />
+        BIO:
+        <a href="https://tangoportugal.com/biography-alejandro.pdf"
+          >https://tangoportugal.com/biography-alejandro.pdf</a
+        ><br />
+        Please write to
+        <a href="mailto:milongabarraca@gmail.com">milongabarraca@gmail.com</a>
+        <br />
+        —&gt; Performances <br />
+        Tango Dance (Tango, Vals and milonga) <br />
+        &quot;Um Abraço Dançado em Fado&quot; exibitions. For this presentation
+        Fado Live is available too.<br />
+        FADO DANCE is an Alejandro practice created in 1999 in Madragoa
+        neiborhood and developed for 25 years.<br />
+        Since 2023, Alejandro begins to dance and develop the artistic project
+        &quot;A embrace danced in Fado&quot; with Camila Delphim, a relevant
+        Brazilian professional dancer.<br />
+      </h4>
+      <h4 align="left">
+        <strong
+          ><img
+            src="assets/img/wall.png"
+            width="641"
+            height="190"
+          /><br /> </strong
+        >M I L O N G A&nbsp; d 'A&nbsp;&nbsp; B A R R A C A<br />
+        When?&nbsp;Every Sundays <br />
+        What time?&nbsp;9:00 pm the doors open | 00:45 am&nbsp;<br />
+        Where?&nbsp;Teatro Cinearte-Bar. Largo de Santos, 2, 1200-808 Lisbon.
+        <br />
+        Collaboration 7 tangos
+      </h4>
+      <h4 align="left">
+        <strong><br /> </strong>The project is directed by Professor Alejandro
+        Laguna, a PhD researcher and professional dancer from Buenos Aires.
+        <br />
+        Created in July 1999. It is the oldest milonga in Portugal and probably
+        the oldest weekly milonga in Europe organized by an argentine tango
+        dancer. <br />
+        Its mission is to disseminate the fundamentals and roots of Traditional
+        Argentine Social Tango and the experiences of the Buenos Aires milonga
+        in Portugal. <br />
+        The milonga d'A Barraca promotes the link between the environments of
+        the Fado houses and the milonga, through regular concerts in which
+        important Fadistas have performed.&nbsp;<br />
+        A set of memorable experiences since its creation that have known how to
+        value the cultural roots of both countries without ever losing their
+        commitment to the public distinguishes the quality of the Milonga d'A
+        Barraca.&nbsp;<strong
+          ><br />
+          The Pista, the Bar and the Sala are already prepared to continue along
+          the Tanguero path that Milonga d'A </strong
+        >Barraca started at the end of the last century...<br />
+        Looking forward to meet you again and continue to have your preference.
+        <br />
+        Invite your friends for a memorable experience!!
+      </h4>
+    </section>
 
-    navHeight = 75;
-
-
-
-$(window).scroll(function() {
-
-  var scrollTop = $(this).scrollTop(),
-
-      headlineHeight = $headline.outerHeight() - navHeight,
-
-      navOffset = $nav.offset().top;
-
-
-
-  $headline.css({
-
-    'opacity': (1 - scrollTop / headlineHeight)
-
-  });
-
-  $inner.children().css({
-
-    'transform': 'translateY('+ scrollTop * 0.4 +'px)'
-
-  });
-
-  if (navOffset > headlineHeight) {
-
-    $nav.addClass('scrolled');
-
-  } else {
-
-    $nav.removeClass('scrolled');
-
-  }
-
-});
-
-
-
-</script>
-
-
-
-</strong>
-<div class="footer">
-
-  <p><strong>Actualizado 22-7-2021</strong></p>
-
-	  </div>
-
-
-
-</body>
-
+    <div class="headline2"></div>
+    <div class="footer">
+      <p><strong>Actualizado 30-09-2024</strong></p>
+    </div>
+  </body>
 </html>
