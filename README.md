@@ -24,7 +24,3 @@ You can also find us on social media:
 - Instagram: [milongabarraca](https://www.instagram.com/milongabarraca/)
 - Facebook: [MilongadaBarraca](https://www.facebook.com/MilongadaBarraca/)
 - Google Maps: [Theater A Barraca](http://maps.google.com/?q=Teatro%20A%20Barraca%E2%80%94Bar%20A%20Barraca%E2%80%94Largo%20de%20Santos%2C%202%2C%20Lisboa)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
