@@ -28,7 +28,7 @@ Para mais informações, contacte [milongabarraca@gmail.com](mailto:milongabarra
 
 Aulas privadas com Alejandro Laguna estão disponíveis (marcação prévia).
 
-**BIO:** [Biografia Alejandro](/about)
+**BIO:** [Biografia Alejandro](../about)
 
 Para marcar, envie email para [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 

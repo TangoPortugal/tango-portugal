@@ -26,7 +26,7 @@ Para información complementaria, escriba a [milongabarraca@gmail.com](mailto:mi
 
 Clases privadas con Alejandro Laguna están disponibles bajo petición.
 
-**Biografía:** [Descargar PDF](/assets/docs/biography-alejandro.pdf)
+**Biografía:** [Descargar PDF](assets/docs/biography-alejandro.pdf)
 
 Para reservar, por favor escriba a [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 

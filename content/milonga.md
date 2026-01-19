@@ -4,7 +4,7 @@ date: 2024-01-19
 draft: false
 weight: 3
 cover:
-  image: "/assets/img/wall.png"
+  image: "assets/img/wall.png"
   alt: "Milonga d'A Barraca"
 description: "A milonga mais antiga de Portugal"
 ---

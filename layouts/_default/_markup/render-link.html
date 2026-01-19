@@ -1,0 +1,12 @@
+{{- $dest := .Destination -}}
+{{- $u := urls.Parse .Destination -}}
+{{- if not $u.IsAbs -}}
+  {{- /* Check if it looks like a static asset path */ -}}
+  {{- if strings.HasPrefix $u.Path "assets/" -}}
+    {{- $dest = $dest | relURL -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end -}}
+  >{{ .Text | safeHTML }}</a>

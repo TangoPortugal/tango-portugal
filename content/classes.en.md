@@ -26,7 +26,7 @@ For supplementary info, please write to [milongabarraca@gmail.com](mailto:milong
 
 Private lessons with Alejandro Laguna are available upon request.
 
-**Biography:** [Download PDF](/assets/docs/biography-alejandro.pdf)
+**Biography:** [Download PDF](assets/docs/biography-alejandro.pdf)
 
 To book, please write to [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 

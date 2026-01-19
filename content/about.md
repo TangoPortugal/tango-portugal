@@ -4,7 +4,7 @@ date: 2024-01-19T00:00:00.000Z
 draft: false
 weight: 1
 cover:
-  image: /assets/img/alejandro-biography.png
+  image: assets/img/alejandro-biography.png
   alt: Alejandro Laguna
 description: Curriculum Vitae e Biografia de Alejandro Laguna
 ---
@@ -25,7 +25,7 @@ Aos 18 anos, iniciei os meus estudos de música e guitarra no Conservatório Sup
 
 Em 1998 fundei a primeira Milonga em Portugal, seguida um ano depois pela Milonga d'A Barraca, a partir de onde comecei a promover a dança do Tango baseada na música do Fado. Em 2024, a milonga da Barraca celebrará o seu 25.º aniversário.
 
-![Alejandro Laguna](/assets/img/alejandro-biography-2.png)
+![Alejandro Laguna](assets/img/alejandro-biography-2.png)
 
 Em 2007, iniciei os meus estudos de doutoramento, obtendo o grau de Doutor no início de 2013 pela Universidade de Évora. Os meus estudos foram financiados por uma bolsa internacional da Fundação para a Ciência e a Tecnologia de Portugal (FCT). Em 2015 foi-me atribuída uma bolsa internacional da FCT para realizar investigação de Pós-Doutoramento durante 7 anos, especializando-me no movimento corporal de dança (em contextos com música), nas suas emoções e nas formas não verbais e intersubjetivas da sua comunicação com os outros. Publiquei 30 trabalhos em revistas científicas de arte.
 
@@ -45,7 +45,7 @@ Alejandro foi o primeiro professor a dar aulas regulares de Tango em Lisboa (mai
 
 Em julho de 1999, fundou a icónica **Milonga d'A Barraca**, no bairro de Santos. Este projeto dedicou-se à divulgação da cultura de Buenos Aires de milonga “porteña” e dança social de tango. É considerada uma das milongas regulares tradicionais mais antigas da Europa, organizada por um bailarino argentino, no mesmo espaço, todos os domingos.
 
-![Alejandro Laguna](/assets/img/alejandro-biography-3.png)
+![Alejandro Laguna](assets/img/alejandro-biography-3.png)
 
 ### Tango & Fado
 
@@ -53,8 +53,8 @@ Através da Milonga d'A Barraca, Alejandro promoveu encontros entre **Tango** e 
 
 Em 2024, Camila e Alejandro apresentam a sua interpretação, denominada “um abraço dançado em Fado”, no Got Talent Portugal (semifinalistas).
 
-{{\< youtube X0qDhRLkigY >}}
-{{\< youtube E7RscmeMrTE >}}
+{{< youtube X0qDhRLkigY >}}
+{{< youtube E7RscmeMrTE >}}
 
 ### Principais Publicações
 
