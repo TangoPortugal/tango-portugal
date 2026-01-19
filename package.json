@@ -1,0 +1,20 @@
+{
+  "name": "tango-portugal",
+  "version": "1.0.0",
+  "description": "Tango Portugal website with Hugo and TinaCMS",
+  "scripts": {
+    "dev": "tinacms dev --datalayer-port 18765 -c \"hugo server -D\"",
+    "build": "tinacms build && hugo --minify",
+    "start": "hugo server -D",
+    "tina:build": "tinacms build",
+    "tina:dev": "tinacms dev --datalayer-port 18765"
+  },
+  "dependencies": {
+    "tinacms": "^3.3.1",
+    "use-sync-external-store": "^1.6.0"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.1.1",
+    "typescript": "^5.3.0"
+  }
+}

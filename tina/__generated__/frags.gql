@@ -1,0 +1,47 @@
+fragment Pages_ptParts on Pages_pt {
+  __typename
+  title
+  date
+  draft
+  weight
+  layout
+  cover {
+    __typename
+    image
+    alt
+  }
+  description
+  body
+}
+
+fragment Pages_enParts on Pages_en {
+  __typename
+  title
+  date
+  draft
+  weight
+  layout
+  cover {
+    __typename
+    image
+    alt
+  }
+  description
+  body
+}
+
+fragment Pages_esParts on Pages_es {
+  __typename
+  title
+  date
+  draft
+  weight
+  layout
+  cover {
+    __typename
+    image
+    alt
+  }
+  description
+  body
+}

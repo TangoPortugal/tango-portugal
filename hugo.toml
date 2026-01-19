@@ -1,0 +1,149 @@
+baseURL = "https://tangoportugal.com/"
+title = "Tango em Lisboa"
+theme = "PaperMod"
+
+defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = false
+
+[params]
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShareButtons = ["email", "facebook"]
+  ShowReadingTime = false
+  displayFullLangName = true
+  hideMeta = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Alejandro Laguna"
+    subtitle = "Tango Argentino em Lisboa"
+    imageUrl = "assets/img/alejandro-biography-square.png"
+    imageTitle = "Alejandro Laguna"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "Sobre"
+      url = "about"
+    [[params.profileMode.buttons]]
+      name = "Aulas"
+      url = "classes"
+    [[params.profileMode.buttons]]
+      name = "Milonga"
+      url = "milonga"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:milongabarraca@gmail.com"
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/MilongadaBarraca/"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/milongabarraca/"
+
+[languages]
+  [languages.pt]
+    languageName = "🇵🇹 Português"
+    weight = 1
+    title = "Tango em Lisboa"
+    [languages.pt.params.profileMode]
+      enabled = true
+      title = "Alejandro Laguna"
+      subtitle = "Tango Argentino em Lisboa"
+      [[languages.pt.params.profileMode.buttons]]
+        name = "Sobre"
+        url = "about"
+      [[languages.pt.params.profileMode.buttons]]
+        name = "Aulas"
+        url = "classes"
+      [[languages.pt.params.profileMode.buttons]]
+        name = "Milonga"
+        url = "milonga"
+    [languages.pt.menu]
+      [[languages.pt.menu.main]]
+        identifier = "about"
+        name = "Sobre"
+        url = "/about/"
+        weight = 1
+      [[languages.pt.menu.main]]
+        identifier = "classes"
+        name = "Aulas"
+        url = "/classes/"
+        weight = 2
+      [[languages.pt.menu.main]]
+        identifier = "milonga"
+        name = "Milonga"
+        url = "/milonga/"
+        weight = 3
+
+  [languages.en]
+    languageName = "🇬🇧 English"
+    weight = 2
+    title = "Tango in Lisbon"
+    [languages.en.params.profileMode]
+      enabled = true
+      title = "Alejandro Laguna"
+      subtitle = "Argentine Tango in Lisbon"
+      [[languages.en.params.profileMode.buttons]]
+        name = "About"
+        url = "about"
+      [[languages.en.params.profileMode.buttons]]
+        name = "Classes"
+        url = "classes"
+      [[languages.en.params.profileMode.buttons]]
+        name = "Milonga"
+        url = "milonga"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "classes"
+        name = "Classes"
+        url = "/classes/"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "milonga"
+        name = "Milonga"
+        url = "/milonga/"
+        weight = 3
+
+  [languages.es]
+    languageName = "🇦🇷 Español"
+    weight = 3
+    title = "Tango en Lisboa"
+    [languages.es.params.profileMode]
+      enabled = true
+      title = "Alejandro Laguna"
+      subtitle = "Tango Argentino en Lisboa"
+      [[languages.es.params.profileMode.buttons]]
+        name = "Sobre"
+        url = "about"
+      [[languages.es.params.profileMode.buttons]]
+        name = "Clases"
+        url = "classes"
+      [[languages.es.params.profileMode.buttons]]
+        name = "Milonga"
+        url = "milonga"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "about"
+        name = "Sobre"
+        url = "/about/"
+        weight = 1
+      [[languages.es.menu.main]]
+        identifier = "classes"
+        name = "Clases"
+        url = "/classes/"
+        weight = 2
+      [[languages.es.menu.main]]
+        identifier = "milonga"
+        name = "Milonga"
+        url = "/milonga/"
+        weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
