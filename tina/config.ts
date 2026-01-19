@@ -6,7 +6,7 @@ const branch =
   process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
-  "feature-tina-website";
+  "main";
 
 // ============================================================================
 // SHARED FIELD DEFINITIONS
