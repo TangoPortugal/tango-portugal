@@ -41,6 +41,14 @@ jobs:
           node-version: '18'
           cache: 'npm'
 
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: resources
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('assets/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-
+
       - name: Install dependencies
         run: npm ci
 
