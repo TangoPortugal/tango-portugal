@@ -298,8 +298,13 @@ export default defineConfig({
   media: {
     tina: {
       // Media files are stored in static/assets
-      mediaRoot: "assets",
       publicFolder: "static",
+      mediaRoot: "assets",
+    },
+    // Fix for GitHub Pages sub-path asset loading in TinaCMS
+    loadCustomStore: async () => {
+      const pack = await import("tinacms");
+      return pack.TinaCloudMediaStore;
     },
   },
 
