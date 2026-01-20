@@ -1,5 +1,5 @@
 ---
 title: "Tango en Lisboa"
-description: "Tango Argentino en Lisboa - Milonga A Barraca"
+description: "Tango Argentino en Lisboa - Milonga d'A Barraca"
 layout: "index"
 ---

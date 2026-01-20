@@ -64,17 +64,17 @@ defaultContentLanguageInSubdir = false
       [[languages.pt.menu.main]]
         identifier = "about"
         name = "Sobre"
-        url = "/about/"
+        url = "about/"
         weight = 1
       [[languages.pt.menu.main]]
         identifier = "classes"
         name = "Aulas"
-        url = "/classes/"
+        url = "classes/"
         weight = 2
       [[languages.pt.menu.main]]
         identifier = "milonga"
         name = "Milonga"
-        url = "/milonga/"
+        url = "milonga/"
         weight = 3
 
   [languages.en]
@@ -98,17 +98,17 @@ defaultContentLanguageInSubdir = false
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about/"
+        url = "about/"
         weight = 1
       [[languages.en.menu.main]]
         identifier = "classes"
         name = "Classes"
-        url = "/classes/"
+        url = "classes/"
         weight = 2
       [[languages.en.menu.main]]
         identifier = "milonga"
         name = "Milonga"
-        url = "/milonga/"
+        url = "milonga/"
         weight = 3
 
   [languages.es]
@@ -132,17 +132,17 @@ defaultContentLanguageInSubdir = false
       [[languages.es.menu.main]]
         identifier = "about"
         name = "Sobre"
-        url = "/about/"
+        url = "about/"
         weight = 1
       [[languages.es.menu.main]]
         identifier = "classes"
         name = "Clases"
-        url = "/classes/"
+        url = "classes/"
         weight = 2
       [[languages.es.menu.main]]
         identifier = "milonga"
         name = "Milonga"
-        url = "/milonga/"
+        url = "milonga/"
         weight = 3
 
 [markup.goldmark.renderer]

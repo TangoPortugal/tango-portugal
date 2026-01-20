@@ -23,7 +23,7 @@ At the age of 12, I started studying the guitar so that I could play The Beatles
 
 At 18, I began my music and guitar studies at the Superior Conservatory of Music and the Faculty of Fine Arts of Buenos Aires, obtaining a degree in music in 1990. In 1996 I started learning Tango with Carlos and Inés Borquez and Aurora Lubiz.
 
-In 1998 I established the first Milonga in Portugal, followed a year later by the Milonga d'A Barraca from where I began to promote Tango dancing based on Fado music. In 2024, the Barraca milonga will celebrate its 25th anniversary.
+In 1998 I established the first Milonga in Portugal, followed a year later by the Milonga d'A Barraca from where I began to promote Tango dancing based on Fado music. In 2024, the Milonga d'A Barraca celebrated its 25th anniversary.
 
 ![Alejandro Laguna](assets/img/alejandro-biography-2.png)
 
