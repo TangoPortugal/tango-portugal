@@ -1,6 +1,6 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
-var branch = process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || "feature-tina-website";
+var branch = process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || "main";
 var createPageFields = (lang) => {
   const labels = {
     pt: {
@@ -179,16 +179,19 @@ var pagesPortuguese = {
   path: "content",
   format: "md",
   match: {
-    // Match files without language suffix (Portuguese is default)
-    include: "{about,classes,milonga,_index}"
+    // Match all MD files, but exclude translated ones
+    include: "*",
+    exclude: "*.{en,es}"
   },
   ui: {
+    router: ({ document }) => {
+      if (document._sys.filename === "_index") {
+        return "/";
+      }
+      return `/${document._sys.filename}`;
+    },
     filename: {
       readonly: true
-    },
-    allowedActions: {
-      create: false,
-      delete: false
     },
     itemProps: (item) => ({
       label: item?.title || item?._sys?.filename || "Sem t\xEDtulo"
@@ -202,16 +205,18 @@ var pagesEnglish = {
   path: "content",
   format: "md",
   match: {
-    // Match English translation files
-    include: "{about,classes,milonga,_index}.en"
+    // Match only English translation files
+    include: "*.en"
   },
   ui: {
+    router: ({ document }) => {
+      if (document._sys.filename === "_index.en") {
+        return "/en";
+      }
+      return `/en/${document._sys.filename.replace(".en", "")}`;
+    },
     filename: {
       readonly: true
-    },
-    allowedActions: {
-      create: false,
-      delete: false
     },
     itemProps: (item) => ({
       label: item?.title || item?._sys?.filename?.replace(".en", "") || "No title"
@@ -225,16 +230,18 @@ var pagesSpanish = {
   path: "content",
   format: "md",
   match: {
-    // Match Spanish translation files
-    include: "{about,classes,milonga,_index}.es"
+    // Match only Spanish translation files
+    include: "*.es"
   },
   ui: {
+    router: ({ document }) => {
+      if (document._sys.filename === "_index.es") {
+        return "/es";
+      }
+      return `/es/${document._sys.filename.replace(".es", "")}`;
+    },
     filename: {
       readonly: true
-    },
-    allowedActions: {
-      create: false,
-      delete: false
     },
     itemProps: (item) => ({
       label: item?.title || item?._sys?.filename?.replace(".es", "") || "Sin t\xEDtulo"

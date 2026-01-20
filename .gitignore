@@ -21,7 +21,8 @@ Thumbs.db
 
 # Tina
 .tina/__generated__/
-tina/__generated__/
+tina/__generated__/client.ts
+
 
 # Environment variables
 .env
