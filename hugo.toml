@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = false
 [params]
   defaultTheme = "auto"
   ShowShareButtons = true
-  ShareButtons = ["email", "facebook"]
+  ShareButtons = ["email"]
   ShowReadingTime = false
   displayFullLangName = true
   hideMeta = true
@@ -41,6 +41,9 @@ defaultContentLanguageInSubdir = false
   [[params.socialIcons]]
     name = "instagram"
     url = "https://www.instagram.com/milongabarraca/"
+  [[params.socialIcons]]
+    name = "researchgate"
+    url = "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna"
 
 [languages]
   [languages.pt]
