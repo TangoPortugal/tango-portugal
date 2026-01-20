@@ -1,7 +1,5 @@
 import { defineConfig, type Collection, type TinaField } from "tinacms";
 
-// Your hosting provider likely exposes this as an environment variable
-// Use environment variable or fallback to current branch
 const branch =
   process.env.GITHUB_BRANCH ||
   process.env.HEAD ||
