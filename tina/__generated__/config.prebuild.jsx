@@ -1,6 +1,6 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
-var branch = process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || "main";
+var branch = process.env.GITHUB_BRANCH || process.env.HEAD || "main";
 var getPrefix = () => {
   if (typeof window === "undefined") return "";
   return window.location.hostname === "localhost" ? "" : "/tango-portugal";
