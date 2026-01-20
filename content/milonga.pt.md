@@ -4,12 +4,10 @@ date: 2024-01-19
 draft: false
 weight: 3
 cover:
-  image: "assets/img/wall.png"
+  image: "assets/img/barraca2.jpg"
   alt: "Milonga d'A Barraca"
 description: "A milonga mais antiga de Portugal"
 ---
-
-## M I L O N G A  d'A  B A R R A C A
 
 **Quando?** Todos os Domingos  
 **A que horas?** Portas abrem às 21:00 | Até às 00:45  

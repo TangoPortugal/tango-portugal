@@ -4,12 +4,10 @@ date: 2024-01-19
 draft: false
 weight: 3
 cover:
-  image: "assets/img/wall.png"
+  image: "assets/img/barraca2.jpg"
   alt: "Milonga d'A Barraca"
 description: "The oldest milonga in Portugal"
 ---
-
-## M I L O N G A  d'A  B A R R A C A
 
 **When?** Every Sunday  
 **What time?** Doors open 9:00 pm | Until 00:45 am  

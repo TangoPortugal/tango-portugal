@@ -1,10 +1,6 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
 var branch = process.env.GITHUB_BRANCH || process.env.HEAD || "main";
-var getPrefix = () => {
-  if (typeof window === "undefined") return "";
-  return window.location.hostname === "localhost" ? "" : "/tango-portugal";
-};
 var createPageFields = (lang) => {
   const labels = {
     pt: {
@@ -134,14 +130,7 @@ var createPageFields = (lang) => {
           type: "image",
           name: "image",
           label: l.image,
-          description: l.imageDesc,
-          ui: {
-            // Fix sidebar image preview for GitHub Pages sub-path
-            previewSrc: (src) => {
-              if (src && src.startsWith("http")) return src;
-              return `${getPrefix()}${src}`;
-            }
-          }
+          description: l.imageDesc
         },
         {
           type: "string",
@@ -195,9 +184,9 @@ var pagesPortuguese = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.pt") {
-        return `${getPrefix()}/pt`;
+        return `/`;
       }
-      return `${getPrefix()}/${document._sys.filename.replace(".pt", "")}`;
+      return `/${document._sys.filename.replace(".pt", "")}`;
     },
     filename: {
       readonly: true
@@ -219,9 +208,9 @@ var pagesEnglish = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.en") {
-        return `${getPrefix()}/en`;
+        return `/en`;
       }
-      return `${getPrefix()}/en/${document._sys.filename.replace(".en", "")}`;
+      return `/en/${document._sys.filename.replace(".en", "")}`;
     },
     filename: {
       readonly: true
@@ -243,9 +232,9 @@ var pagesSpanish = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.es") {
-        return `${getPrefix()}/es`;
+        return `/es`;
       }
-      return `${getPrefix()}/es/${document._sys.filename.replace(".es", "")}`;
+      return `/es/${document._sys.filename.replace(".es", "")}`;
     },
     filename: {
       readonly: true

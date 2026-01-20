@@ -10,11 +10,6 @@ const branch =
 // Reusable field configurations for all language collections
 // ============================================================================
 
-const getPrefix = () => {
-  if (typeof window === 'undefined') return '';
-  return window.location.hostname === 'localhost' ? '' : '/tango-portugal';
-};
-
 const createPageFields = (lang: "pt" | "en" | "es"): TinaField[] => {
   const labels = {
     pt: {
@@ -147,13 +142,6 @@ const createPageFields = (lang: "pt" | "en" | "es"): TinaField[] => {
           name: "image",
           label: l.image,
           description: l.imageDesc,
-          ui: {
-            // Fix sidebar image preview for GitHub Pages sub-path
-            previewSrc: (src) => {
-              if (src && src.startsWith("http")) return src;
-              return `${getPrefix()}${src}`;
-            },
-          },
         },
         {
           type: "string",
@@ -212,9 +200,9 @@ const pagesPortuguese: Collection = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.pt") {
-        return `${getPrefix()}/pt`;
+        return `/`;
       }
-      return `${getPrefix()}/${document._sys.filename.replace(".pt", "")}`;
+      return `/${document._sys.filename.replace(".pt", "")}`;
     },
     filename: {
       readonly: true,
@@ -237,9 +225,9 @@ const pagesEnglish: Collection = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.en") {
-        return `${getPrefix()}/en`;
+        return `/en`;
       }
-      return `${getPrefix()}/en/${document._sys.filename.replace(".en", "")}`;
+      return `/en/${document._sys.filename.replace(".en", "")}`;
     },
     filename: {
       readonly: true,
@@ -262,9 +250,9 @@ const pagesSpanish: Collection = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.es") {
-        return `${getPrefix()}/es`;
+        return `/es`;
       }
-      return `${getPrefix()}/es/${document._sys.filename.replace(".es", "")}`;
+      return `/es/${document._sys.filename.replace(".es", "")}`;
     },
     filename: {
       readonly: true,

@@ -4,7 +4,7 @@ date: 2024-01-19T00:00:00.000Z
 draft: false
 weight: 2
 cover:
-  image: /assets/img/barraca2.jpg
+  image: assets/img/wall.png
   alt: Tango Classes
 description: Tango Classes and Workshops with Alejandro Laguna
 ---

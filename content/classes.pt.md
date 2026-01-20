@@ -4,7 +4,7 @@ date: 2024-01-19T00:00:00.000Z
 draft: false
 weight: 1
 cover:
-  image: /assets/img/barraca2.jpg
+  image: assets/img/wall.png
   alt: Aulas de Tango
 description: Aulas de Tango e Workshops com Alejandro Laguna
 ---

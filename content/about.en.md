@@ -4,7 +4,7 @@ date: 2024-01-19T00:00:00.000Z
 draft: false
 weight: 1
 cover:
-  image: assets/img/alejandro-biography.png
+  image: assets/img/alejandro-biography-2.png
   alt: Alejandro Laguna
 description: Curriculum Vitae and Biography of Alejandro Laguna
 ---
@@ -25,7 +25,7 @@ At 18, I began my music and guitar studies at the Superior Conservatory of Music
 
 In 1998 I established the first Milonga in Portugal, followed a year later by the Milonga d'A Barraca from where I began to promote Tango dancing based on Fado music. In 2024, the Milonga d'A Barraca celebrated its 25th anniversary.
 
-![Alejandro Laguna](assets/img/alejandro-biography-2.png)
+![Alejandro Laguna](assets/img/alejandro-biography.png)
 
 In 2007, I began my doctoral studies, obtaining my PhD Degree in early 2013 from the University of Évora. My studies were funded by an international scholarship from the Foundation for Science and Technology of Portugal (FCT). In 2015 I was awarded an international scholarship from the FCT to carry out Postdoctoral research for 7 years, specializing in body dance movement (in contexts with music), its emotions and the non-verbal and intersubjective forms of its communication with others. I have published 30 works in scientific journals of art.
 
