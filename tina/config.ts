@@ -150,6 +150,13 @@ const createPageFields = (lang: "pt" | "en" | "es"): TinaField[] => {
           name: "image",
           label: l.image,
           description: l.imageDesc,
+          ui: {
+            // Fix sidebar image preview for GitHub Pages sub-path
+            previewSrc: (src) => {
+              if (src && src.startsWith("http")) return src;
+              return `${getPrefix()}${src}`;
+            },
+          },
         },
         {
           type: "string",
