@@ -207,23 +207,20 @@ const pagesPortuguese: Collection = {
   path: "content",
   format: "md",
   match: {
-    // Match all MD files, but exclude translated ones
-    include: "*",
-    exclude: "*.{en,es}",
+    include: "*.pt",
   },
   ui: {
     router: ({ document }) => {
-      // Home page
-      if (document._sys.filename === "_index") {
-        return `${getPrefix()}/`;
+      if (document._sys.filename === "_index.pt") {
+        return `${getPrefix()}/pt`;
       }
-      return `${getPrefix()}/${document._sys.filename}`;
+      return `${getPrefix()}/${document._sys.filename.replace(".pt", "")}`;
     },
     filename: {
       readonly: true,
     },
     itemProps: (item) => ({
-      label: item?.title || item?._sys?.filename || "Sem título",
+      label: item?.title || item?._sys?.filename.replace(".pt", "") || "Sem título",
     }),
   },
   fields: createPageFields("pt"),
@@ -235,12 +232,10 @@ const pagesEnglish: Collection = {
   path: "content",
   format: "md",
   match: {
-    // Match only English translation files
     include: "*.en",
   },
   ui: {
     router: ({ document }) => {
-      // English Home page
       if (document._sys.filename === "_index.en") {
         return `${getPrefix()}/en`;
       }
@@ -262,12 +257,10 @@ const pagesSpanish: Collection = {
   path: "content",
   format: "md",
   match: {
-    // Match only Spanish translation files
     include: "*.es",
   },
   ui: {
     router: ({ document }) => {
-      // Spanish Home page
       if (document._sys.filename === "_index.es") {
         return `${getPrefix()}/es`;
       }
@@ -301,7 +294,6 @@ export default defineConfig({
 
   media: {
     tina: {
-      // Media files are stored in static/assets
       publicFolder: "static",
       mediaRoot: "assets",
     },
