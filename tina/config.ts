@@ -13,6 +13,11 @@ const branch =
 // Reusable field configurations for all language collections
 // ============================================================================
 
+const getPrefix = () => {
+  if (typeof window === 'undefined') return '';
+  return window.location.hostname === 'localhost' ? '' : '/tango-portugal';
+};
+
 const createPageFields = (lang: "pt" | "en" | "es"): TinaField[] => {
   const labels = {
     pt: {
@@ -206,9 +211,9 @@ const pagesPortuguese: Collection = {
     router: ({ document }) => {
       // Home page
       if (document._sys.filename === "_index") {
-        return "/";
+        return `${getPrefix()}/`;
       }
-      return `/${document._sys.filename}`;
+      return `${getPrefix()}/${document._sys.filename}`;
     },
     filename: {
       readonly: true,
@@ -233,9 +238,9 @@ const pagesEnglish: Collection = {
     router: ({ document }) => {
       // English Home page
       if (document._sys.filename === "_index.en") {
-        return "/en";
+        return `${getPrefix()}/en`;
       }
-      return `/en/${document._sys.filename.replace(".en", "")}`;
+      return `${getPrefix()}/en/${document._sys.filename.replace(".en", "")}`;
     },
     filename: {
       readonly: true,
@@ -260,9 +265,9 @@ const pagesSpanish: Collection = {
     router: ({ document }) => {
       // Spanish Home page
       if (document._sys.filename === "_index.es") {
-        return "/es";
+        return `${getPrefix()}/es`;
       }
-      return `/es/${document._sys.filename.replace(".es", "")}`;
+      return `${getPrefix()}/es/${document._sys.filename.replace(".es", "")}`;
     },
     filename: {
       readonly: true,
