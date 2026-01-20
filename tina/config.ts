@@ -4,7 +4,6 @@ import { defineConfig, type Collection, type TinaField } from "tinacms";
 // Use environment variable or fallback to current branch
 const branch =
   process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "main";
 
