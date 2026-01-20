@@ -1,6 +1,10 @@
 // tina/config.ts
 import { defineConfig } from "tinacms";
 var branch = process.env.GITHUB_BRANCH || process.env.VERCEL_GIT_COMMIT_REF || process.env.HEAD || "main";
+var getPrefix = () => {
+  if (typeof window === "undefined") return "";
+  return window.location.hostname === "localhost" ? "" : "/tango-portugal";
+};
 var createPageFields = (lang) => {
   const labels = {
     pt: {
@@ -186,9 +190,9 @@ var pagesPortuguese = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index") {
-        return "/";
+        return `${getPrefix()}/`;
       }
-      return `/${document._sys.filename}`;
+      return `${getPrefix()}/${document._sys.filename}`;
     },
     filename: {
       readonly: true
@@ -211,9 +215,9 @@ var pagesEnglish = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.en") {
-        return "/en";
+        return `${getPrefix()}/en`;
       }
-      return `/en/${document._sys.filename.replace(".en", "")}`;
+      return `${getPrefix()}/en/${document._sys.filename.replace(".en", "")}`;
     },
     filename: {
       readonly: true
@@ -236,9 +240,9 @@ var pagesSpanish = {
   ui: {
     router: ({ document }) => {
       if (document._sys.filename === "_index.es") {
-        return "/es";
+        return `${getPrefix()}/es`;
       }
-      return `/es/${document._sys.filename.replace(".es", "")}`;
+      return `${getPrefix()}/es/${document._sys.filename.replace(".es", "")}`;
     },
     filename: {
       readonly: true
