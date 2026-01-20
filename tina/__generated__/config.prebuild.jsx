@@ -256,7 +256,9 @@ var config_default = defineConfig({
   build: {
     // Output the admin interface to static/admin (Hugo's static folder)
     outputFolder: "admin",
-    publicFolder: "static"
+    publicFolder: "static",
+    basePath: "tango-portugal"
+    // Resolves asset loading issues on GitHub Pages sub-path
   },
   media: {
     tina: {

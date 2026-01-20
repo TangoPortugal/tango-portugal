@@ -287,6 +287,7 @@ export default defineConfig({
     // Output the admin interface to static/admin (Hugo's static folder)
     outputFolder: "admin",
     publicFolder: "static",
+    basePath: "tango-portugal", // Resolves asset loading issues on GitHub Pages sub-path
   },
 
   media: {
