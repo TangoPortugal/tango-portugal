@@ -134,7 +134,14 @@ var createPageFields = (lang) => {
           type: "image",
           name: "image",
           label: l.image,
-          description: l.imageDesc
+          description: l.imageDesc,
+          ui: {
+            // Fix sidebar image preview for GitHub Pages sub-path
+            previewSrc: (src) => {
+              if (src && src.startsWith("http")) return src;
+              return `${getPrefix()}${src}`;
+            }
+          }
         },
         {
           type: "string",
@@ -267,8 +274,13 @@ var config_default = defineConfig({
   media: {
     tina: {
       // Media files are stored in static/assets
-      mediaRoot: "assets",
-      publicFolder: "static"
+      publicFolder: "static",
+      mediaRoot: "assets"
+    },
+    // Fix for GitHub Pages sub-path asset loading in TinaCMS
+    loadCustomStore: async () => {
+      const pack = await import("tinacms");
+      return pack.TinaCloudMediaStore;
     }
   },
   // Search configuration for better content discovery
