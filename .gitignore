@@ -1,32 +1,17 @@
-# Hugo
-/public/
-/resources/_gen/
-.hugo_build.lock
-
-# Node
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# OS
-.DS_Store
 Thumbs.db
-
-# Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Tina
-.tina/__generated__/
-tina/__generated__/client.ts
-
-
-# Environment variables
-.env
-.env.local
-
-# data
-/data/
+.DS_Store
+.dist
+.tmp
+.lock
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+public
+resources
+.hugo_build.lock
+jsconfig.json
+hugo_stats.json
+go.sum
+yarn.lock

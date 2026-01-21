@@ -1,0 +1,13 @@
+{
+  "media": "assets/images",
+  "content": "content/portuguese",
+  "code": "layouts",
+  "arrangement": [],
+  "public": "static",
+  "configs": [
+    "config/_default",
+    "hugo.toml",
+    "data"
+  ],
+  "custom-commit": true
+}
