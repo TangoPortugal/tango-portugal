@@ -2,12 +2,11 @@
 title: Alejandro Laguna
 meta_title: Biografia
 description: this is meta description
-image: /images/image02.jpg
+image: /images/ale/image02.jpg
 layout: biografia
-draft: false
+draft: true
 ---
 Dr. Alejandro César Grosso Laguna
-
 
 Alejandro é um investigador argentino (Buenos Aires) doutorado em Artes Cénicas (Conhecimento cruzado não verbal - implícito e explícito), Bailarino e Professor Profissional de Tango, Músico com formação de Conservatório especializado em Técnica de Dança Contemporânea e Moderna, Formador Avançado em Gyrotonic Expanded System e Organizador de uma das milongas mais antigas e ativas no cenário mundial. Alejandro encontra-se atualmente envolvido em investigação empírica sobre a Reconfiguração Artística Colaborativa da Dança do Tango aplicada ao Fado. Vive em Lisboa.
 Resumo Autobiográfico
@@ -15,7 +14,6 @@ Venho de uma família de pintores, escritores, músicos e boémios. O meu pai er
 Conheço o Tango desde criança, ouvindo a minha avó Amália cantar em sua casa. Em criança, acompanhava música clássica percutindo em panelas e, aos 9 anos, seguia todos os programas de TV com ritmos de dança, copiando os seus passos.
 Aos 12 anos, comecei a estudar guitarra para poder tocar a música dos The Beatles e, dois anos depois, formei a minha primeira banda de rock. A partir dos 16 anos, interessei-me pelo folclore argentino e pela bossa nova.
 Aos 18 anos, iniciei os meus estudos de música e guitarra no Conservatório Superior de Música e na Faculdade de Belas Artes de Buenos Aires, obtendo a licenciatura em música em 1990. Em 1996 comecei a aprender Tango com Carlos e Inés Borquez e Aurora Lubiz.
-
 
 Em 1998 fundei a primeira Milonga em Portugal, seguida um ano depois pela Milonga d'A Barraca, a partir de onde comecei a promover a dança do Tango baseada na música do Fado. Em 2024, a Milonga d'A Barraca celebrou o seu 25º aniversário.
 
@@ -26,13 +24,10 @@ Em 2022 iniciei uma parceria artística com a bailarina Camila Delphim com o obj
 Bailarino Profissional de Tango
 Desde o final dos anos 90, treinou com notáveis bailarinos argentinos, incluindo Aurora Lubitz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué e Ana Maria Schapira. A sua formação é apoiada pela experiência de dançar em algumas das mais importantes milongas de Buenos Aires há mais de 25 anos (El Beso, Salón Canning, Lo de Celia, entre muitas outras).
 
-
 Desde 2015, Alejandro tem investigado academicamente as raízes e fundamentos do estilo Villa Urquiza de Tango Salón. Neste contexto, manteve laços estreitos com a icónica coreógrafa e bailarina Milena Plebs, e estudou com a bailarina Graciela González.
-
 
 Desde 2017, Alejandro tem estudado 'Tango Salón' (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci ('Los Alonso'), um casal considerado a principal referência ativa do estilo tradicional.
 Tango em Portugal
-
 
 Alejandro foi o primeiro professor a dar aulas regulares de Tango em Lisboa (maio de 1997, Ateneu Comercial de Lisboa). Em junho de 1997 começou a organizar 'a prática' em Lisboa no ABS Privado. Um ano depois (setembro de 1998), criou a primeira milonga em Portugal juntamente com a bailarina portuguesa Solange Galvão.
 Em julho de 1999, fundou a icónica Milonga d'A Barraca, no bairro de Santos. Este projeto dedicou-se à divulgação da cultura de Buenos Aires de milonga “porteña” e dança social de tango. É considerada uma das milongas regulares tradicionais mais antigas da Europa, organizada por um bailarino argentino, no mesmo espaço, todos os domingos.
@@ -43,8 +38,16 @@ Tango & Fado
 Através da Milonga d'A Barraca, Alejandro promoveu encontros entre Tango e Fado durante mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d'A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro, entre muitos outros.
 Em 2024, Camila e Alejandro apresentam a sua interpretação, denominada “um abraço dançado em Fado”, no Got Talent Portugal (semifinalistas).
 
-\
-{{< youtube X0qDhRLkigY >}}​{{< youtube E7RscmeMrTE >}}​
+
+<br />
+
+{{< youtube X0qDhRLkigY >}}
+
+​
+
+{{< youtube E7RscmeMrTE >}}
+
+​
 
 ​
 
