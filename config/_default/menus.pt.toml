@@ -7,57 +7,27 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Sobre"
-url = "/about"
+name = "Biografia"
+url = "/biografia"
 weight = 2
 
 [[main]]
-name = "Elementos"
-url = "/elements"
+name = "Milonga"
+url = "/milonga"
 weight = 3
 
 [[main]]
+name = "Aulas"
+url = "/aulas"
 weight = 4
-name = "Páginas"
 
 [[main]]
-parent = "Páginas"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Páginas"
-name = "Contacto"
-url = "/contact"
-
-[[main]]
-parent = "Páginas"
-name = "Autores"
-url = "/authors"
-
-[[main]]
-parent = "Páginas"
-name = "Categorias"
-url = "/categories"
-
-[[main]]
-parent = "Páginas"
-name = "Página 404"
-url = "/404"
-
+name = "Tango e Fado"
+url = "/tango-e-fado"
+weight = 5
 
 # footer menu
-[[footer]]
-name = "Sobre"
-url = "/about"
-weight = 1
-
-[[footer]]
-name = "Elementos"
-url = "/elements"
-weight = 2
-
-[[footer]]
-name = "Política de Privacidade"
-url = "/privacy-policy"
-weight = 3
+# [[footer]]
+# name = "Biografia"
+# url = "/biografia"
+# weight = 1

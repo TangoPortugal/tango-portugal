@@ -70,8 +70,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Tango", "Portugal", "Milonga", "Aulas"]
-description = "Hugo & Tailwindcss Starter" # TODO
+keywords = ["Tango", "Portugal", "Milonga", "Aulas", "Fado"]
+description = "Tango Argentino em Lisboa" # TODO
 author = "guzmanlopez"
 # twitter = "zeon_studio"
 # image = "images/og-image.png"
