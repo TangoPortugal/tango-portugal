@@ -1,53 +1,38 @@
 ---
-# Banner
-banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jump-start your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Hugoplate&repository=https://github.com/zeon-studio/hugoplate/"
-
-# Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-    bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+  - title: Alejandro Laguna
+    image: /images/ale/image05.jpg
+    content: >-
+      The Name of Argentine Tango in Portugal's Capital.
+    bulletpoints: []
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      label: Biography
+      link: https://guzmanlopez.github.io/tango-portugal/en/about
+  - title: Milonga d'A Barraca
+    image: /images/ale/image03.jpg
+    content: >-
+      Directed by Alejandro Laguna since its founding in 1999 at the emblematic Teatro A Barraca, Milonga d'A Barraca is the Argentine tango space with the longest tradition in Lisbon. It has become a reference point for dancers, musicians, and tango lovers, maintaining a weekly tradition that spans generations. Its nights breathe intimacy, camaraderie, and that magic that only tango can create. As Sebastián Jimenez wrote in 2025: its dance floor has been the stage for generations of tangueros who found in its intimate and authentic environment the perfect refuge to surrender to the music. Today, the Milonga continues to be a pillar of Argentine culture in Portugal's capital.
+    bulletpoints: []
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: Milonga
+      link: https://guzmanlopez.github.io/tango-portugal/milonga
+  - title: Learn and Live Tango
+    image: /images/ale/image01.jpg
+    content: >-
+      "The 'porteño' essence of tango is not in the 'what' you do, but in the 'how' you do what you do. That is where true knowledge resides."
+    bulletpoints: []
+    button:
+      enable: true
+      label: Classes
+      link: https://guzmanlopez.github.io/tango-portugal/classes
+  - title: A Dance Embrace in Fado
+    image: /images/ale/image06.jpg
+    content: When Fado and Tango meet.
+    bulletpoints: []
+    button:
+      enable: true
+      label: Tango & Fado
+      link: https://guzmanlopez.github.io/tango-portugal/fado-and-tango
 ---
