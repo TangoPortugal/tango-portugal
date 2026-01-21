@@ -6,7 +6,7 @@ summaryLength = 10
 disableLanguages = []
 hasCJKLanguage = false
 defaultContentLanguage = "pt"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 [services.googleAnalytics]
 ID = "G-MEASUREMENT_ID"
 [services.disqus]
