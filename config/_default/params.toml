@@ -35,7 +35,7 @@ mainSections = ["home", "biografia"]
 # custom_script = ""
 
 # copyright
-copyright = "Designed & Developed by Alejandro and [Guz](https://github.com/guzmanlopez)"
+copyright = "Designed & Developed by Alejandro and [Guzman](https://github.com/guzmanlopez)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
