@@ -8,26 +8,26 @@ weight = 1
 
 [[main]]
 name = "Biografia"
-url = "/biografia"
+url = "/biografia/"
 weight = 2
 
 [[main]]
 name = "Milonga"
-url = "/milonga"
+url = "/milonga/"
 weight = 3
 
 [[main]]
 name = "Aulas"
-url = "/aulas"
+url = "/aulas/"
 weight = 4
 
 [[main]]
 name = "Tango e Fado"
-url = "/tango-e-fado"
+url = "/tango-e-fado/"
 weight = 5
 
 # footer menu
 # [[footer]]
 # name = "Biografia"
-# url = "/biografia"
+# url = "/biografia/"
 # weight = 1
