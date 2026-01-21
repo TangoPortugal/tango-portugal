@@ -11,7 +11,7 @@ description: >-
   investigação empírica sobre a Reconfiguração Artística Colaborativa da Dança
   do Tango aplicada ao Fado. Vive em Lisboa.
 image: /images/ale/image02.jpg
-layout: biografia
+layout: about
 draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
