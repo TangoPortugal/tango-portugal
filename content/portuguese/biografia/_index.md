@@ -4,7 +4,7 @@ meta_title: Biografia
 description: this is meta description
 image: /images/ale/image02.jpg
 layout: biografia
-draft: true
+draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
 
