@@ -1,5 +1,6 @@
 baseURL = "/"
 title = "Alejandro Laguna"
+theme = "hugoplate"
 timeZone = "Europe/Lisbon"
 summaryLength = 10
 disableLanguages = []

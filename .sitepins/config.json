@@ -1,6 +1,6 @@
 {
   "media": "assets/images",
-  "content": "content/portuguese",
+  "content": ["content/portuguese", "content/english"],
   "code": "layouts",
   "arrangement": [],
   "public": "static",
