@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://guzmanlopez.github.io/tango-portugal"
 title = "Alejandro Laguna"
 theme = "hugoplate"
 timeZone = "Europe/Lisbon"
