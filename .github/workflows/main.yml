@@ -51,9 +51,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Setup Project
-        run: npm run project-setup
-
       - name: Install npm dependencies
         run: npm install
 
