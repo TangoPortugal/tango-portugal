@@ -1,9 +1,10 @@
 ---
-title: "Biography"
-meta_title: "Alejandro Laguna"
-description: "Alejandro is an Argentine researcher (Buenos Aires) with a PhD in Performing Arts, professional Tango dancer and instructor, musician with conservatory training, and organizer of one of the oldest and most active milongas in the world. He currently lives in Lisbon."
-image: "/images/ale/image04.png"
-layout: "about"
+title: Biography
+meta_title: Alejandro Laguna
+description: >-
+    Alejandro is an Argentine researcher (Buenos Aires) with a PhD in Performing Arts, professional Tango dancer and instructor, musician with conservatory training, and organizer of one of the oldest and most active milongas in the world. He currently lives in Lisbon.
+image: /images/ale/image04.png
+layout: about
 draft: false
 ---
 

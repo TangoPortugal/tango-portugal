@@ -1,9 +1,10 @@
 ---
-title: "Argentine Tango Classes"
-meta_title: "Tango Classes"
-description: "Learn Argentine Tango from Alejandro Laguna, a professional dancer and instructor with decades of experience in traditional tango and dance technique."
-image: "/images/ale/image01.jpg"
-layout: "about"
+title: Argentine Tango Classes
+meta_title: Tango Classes
+description: >-
+    Learn Argentine Tango from Alejandro Laguna, a professional dancer and instructor with decades of experience in traditional tango and dance technique.
+image: /images/ale/image01.jpg
+layout: about
 draft: false
 ---
 
