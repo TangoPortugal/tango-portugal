@@ -1,9 +1,10 @@
 ---
-title: "Tango & Fado"
-meta_title: "Tango & Fado"
-description: "A Dance Embrace in Fado - Alejandro Laguna and Camila Delphim's artistic collaboration exploring the emotions of Fado through Tango dance."
-image: ""
-layout: "about"
+title: 
+meta_title: Tango & Fado
+description: >-
+    A Dance Embrace in Fado - Alejandro Laguna and Camila Delphim's artistic collaboration exploring the emotions of Fado through Tango dance.
+image: 
+layout: about
 draft: false
 ---
 

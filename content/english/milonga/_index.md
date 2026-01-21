@@ -1,5 +1,5 @@
 ---
-title: Milonga d'A Barraca
+title: 
 meta_title: Milonga d'A Barraca
 description: Europe's oldest weekly traditional milonga organized by an Argentine tango dancer, featuring social tango dancing and live fado performances.
 image: /images/ale/image03.jpg
