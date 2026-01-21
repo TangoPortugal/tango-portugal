@@ -17,7 +17,7 @@ features:
     button:
       enable: true
       label: Milonga
-      link: https://guzmanlopez.github.io/tango-portugal/milonga
+      link: https://guzmanlopez.github.io/tango-portugal/en/milonga
   - title: Learn and Live Tango
     image: /images/ale/image01.jpg
     content: >-
@@ -26,7 +26,7 @@ features:
     button:
       enable: true
       label: Classes
-      link: https://guzmanlopez.github.io/tango-portugal/classes
+      link: https://guzmanlopez.github.io/tango-portugal/en/classes
   - title: A Dance Embrace in Fado
     image: /images/ale/image06.jpg
     content: When Fado and Tango meet.
@@ -34,5 +34,5 @@ features:
     button:
       enable: true
       label: Tango & Fado
-      link: https://guzmanlopez.github.io/tango-portugal/fado-and-tango
+      link: https://guzmanlopez.github.io/tango-portugal/en/fado-and-tango
 ---
