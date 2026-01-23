@@ -6,8 +6,8 @@ contentDir = "content/portuguese"
 weight = 1
 
 ################ English language ##################
-[en]
-languageName = "🇬🇧 EN"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 2
+# [en]
+# languageName = "🇬🇧 EN"
+# languageCode = "en-us"
+# contentDir = "content/english"
+# weight = 2
