@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "gmail",
+      "icon": "fas fa-envelope",
+      "link": "mailto:milongabarraca@gmail.com"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/milongabarraca/"
+    },
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/MilongadaBarraca/"
+    },
+    {
+      "name": "researchgate",
+      "icon": "fab fa-researchgate",
+      "link": "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna"
+    }
+  ]
+}

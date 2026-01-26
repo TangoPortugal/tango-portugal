@@ -1,0 +1,38 @@
+############# Portuguese navigation ##############
+
+# main menu
+[[main]]
+name = "Início"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Biografia"
+url = "/biografia"
+weight = 2
+
+[[main]]
+name = "Milonga"
+url = "/milonga"
+weight = 3
+
+[[main]]
+name = "Aulas"
+url = "/aulas"
+weight = 4
+
+[[main]]
+name = "Tango e Fado"
+url = "/tango-e-fado"
+weight = 5
+
+# [[main]]
+# name = "Blog"
+# url = "/blog"
+# weight = 6
+
+# footer menu
+# [[footer]]
+# name = "Biografia"
+# url = "/biografia"
+# weight = 1

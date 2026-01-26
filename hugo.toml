@@ -1,0 +1,103 @@
+baseURL = "https://TangoPortugal.github.io/tango-portugal"
+title = "Alejandro Laguna"
+theme = "hugoplate"
+timeZone = "Europe/Lisbon"
+summaryLength = 10
+disableLanguages = []
+hasCJKLanguage = false
+defaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = false
+[services.googleAnalytics]
+ID = "G-MEASUREMENT_ID"
+[services.disqus]
+shortname = "themefisher-template"
+[permalinks.page]
+pages = "/:slugorcontentbasename/"
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = "page"
+[[build.cachebusters]]
+source = "assets/notwatching/hugo_stats\\.json"
+target = "css"
+[build.buildStats]
+enable = true
+[[module.mounts]]
+source = "assets"
+target = "assets"
+[[module.mounts]]
+disableWatch = true
+source = "hugo_stats.json"
+target = "assets/notwatching/hugo_stats.json"
+[outputs]
+home = ["HTML","RSS","WebAppManifest","SearchIndex"]
+[imaging]
+quality = 80
+resampleFilter = "Lanczos"
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+style = "monokai"
+lineNumbersInTable = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 5
+ordered = true
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
+[outputFormats.SearchIndex]
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
+[[params.plugins.css]]
+link = "plugins/swiper/swiper-bundle.css"
+lazy = true
+[[params.plugins.css]]
+link = "plugins/glightbox/glightbox.css"
+lazy = true
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+lazy = true
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/solid.css"
+lazy = true
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/icons.css"
+lazy = true
+[[params.plugins.js]]
+link = "js/search.js"
+lazy = false
+[[params.plugins.js]]
+link = "plugins/swiper/swiper-bundle.js"
+lazy = false
+[[params.plugins.js]]
+link = "plugins/glightbox/glightbox.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/gallery-slider.js"
+lazy = true
+[[params.plugins.js]]
+link = "plugins/cookie.js"
+lazy = false
+[[params.plugins.js]]
+link = "js/accordion.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/tab.js"
+lazy = true
+[[params.plugins.js]]
+link = "js/modal.js"
+lazy = true
+[[params.plugins.js]]
+link = "plugins/youtube-lite.js"
+lazy = true

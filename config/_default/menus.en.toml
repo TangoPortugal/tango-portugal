@@ -1,0 +1,38 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Biography"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Milonga"
+url = "/milonga"
+weight = 3
+
+[[main]]
+name = "Classes"
+url = "/classes"
+weight = 4
+
+[[main]]
+name = "Tango & Fado"
+url = "/tango-and-fado"
+weight = 5
+
+# [[main]]
+# name = "Blog"
+# url = "/blog"
+# weight = 6
+
+# footer menu
+# [[footer]]
+# name = "Biography"
+# url = "/about"
+# weight = 1
