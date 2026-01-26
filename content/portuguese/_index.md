@@ -8,7 +8,7 @@ features:
     button:
       enable: true
       label: Biografia
-      link: https://guzmanlopez.github.io/tango-portugal/biografia
+      link: https://TangoPortugal.github.io/tango-portugal/biografia
   - title: Milonga d’A Barraca
     image: /images/ale/image03.jpg
     content: >-
@@ -17,7 +17,7 @@ features:
     button:
       enable: true
       label: Milonga
-      link: https://guzmanlopez.github.io/tango-portugal/milonga
+      link: https://TangoPortugal.github.io/tango-portugal/milonga
   - title: Aprender e viver o tango
     image: /images/ale/image01.jpg
     content: >-
@@ -26,7 +26,7 @@ features:
     button:
       enable: true
       label: Aulas
-      link: https://guzmanlopez.github.io/tango-portugal/aulas
+      link: https://TangoPortugal.github.io/tango-portugal/aulas
   - title: Um Abraço Dançado em Fado
     image: /images/ale/image06.jpg
     content: Quando o fado e o tango se encontram.
@@ -34,5 +34,5 @@ features:
     button:
       enable: true
       label: Tango e Fado
-      link: https://guzmanlopez.github.io/tango-portugal/tango-e-fado
+      link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 ---
