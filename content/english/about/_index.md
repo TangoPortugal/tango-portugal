@@ -2,15 +2,19 @@
 title: Biography
 meta_title: Alejandro Laguna
 description: >-
-    Alejandro is an Argentine researcher (Buenos Aires) with a PhD in Performing Arts, professional Tango dancer and instructor, musician with conservatory training, and organizer of one of the oldest and most active milongas in the world. He currently lives in Lisbon.
+  Alejandro is an Argentine researcher (Buenos Aires) with a PhD in Performing
+  Arts, professional Tango dancer and instructor, musician with conservatory
+  training, and organizer of one of the oldest and most active milongas in the
+  world. He currently lives in Lisbon.
 image: /images/ale/image04.png
 layout: about
 draft: false
 ---
-
 ## Dr. Alejandro César Grosso Laguna
 
-Alejandro is an Argentine researcher (Buenos Aires) with a PhD in Performing Arts (non-verbal cross-disciplinary knowledge - implicit and explicit), professional Tango dancer and instructor, musician with conservatory training specializing in contemporary and modern dance technique, advanced trainer in the Gyrotonic Expanded System, and organizer of one of the oldest and most active milongas in the world. Alejandro is currently involved in empirical research on collaborative artistic reconfiguration of Tango dance applied to Fado music. He lives in Lisbon.
+Alejandro is an Argentinian (Buenos Aires–born) artist and practitioner-researcher whose work bridges dance, music, embodied communication, and the study of propositional and non-propositional knowledge in artistic transmission. He holds a PhD in Performing Arts, awarded under a mixed FCT doctoral grant between Portugal and Argentina, and completed an FCT-funded postdoctoral fellowship. He works internationally as a tango dancer, teacher, and movement researcher, specializing in the analysis of the interaction between verbal and non-verbal content.
+
+He holds a degree in Music Education, with academic training at the National University of La Plata and the University of Évora, as well as advanced conservatory training. He later specialized in contemporary and modern dance technique and completed advanced training in the Gyrotonic Expansion System. He is the founder of one of the longest-running milongas in continuous activity worldwide. Based in Lisbon, his current work focuses on the collaborative artistic reconfiguration of tango in dialogue with Fado, within a broader research program on non-propositional knowledge in artistic practice (“How to think of art from the body?”). His micro-analytical methodology for the study of movement and voice is indexed in leading international research platforms such as [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006) and [ERIC](https://eric.ed.gov/?id=EJ1427658).
 
 ### Autobiographical Summary
 
