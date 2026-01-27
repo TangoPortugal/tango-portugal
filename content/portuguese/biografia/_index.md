@@ -16,7 +16,9 @@ draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
 
-Alejandro é um investigador argentino (Buenos Aires) doutorado em Artes Cénicas (Formas de conhecimento não verbal - implícito e explícito), Bailarino e Professor Profissional de Tango, Músico com formação de Conservatório especializado em Técnica de Dança Contemporânea e Moderna, Formador Avançado em Gyrotonic Expanded System e Organizador de uma das milongas mais antigas e ativas no cenário mundial. Alejandro encontra-se atualmente envolvido em investigação empírica sobre a Reconfiguração Artística Colaborativa da Dança do Tango aplicada ao Fado. Vive em Lisboa.
+Alejandro é um artista e investigador-praticante argentino (nascido em Buenos Aires), cujo trabalho articula dança, música, comunicação incorporada e o estudo do conhecimento proposicional e não proposicional na transmissão artística. É doutor em Artes Performativas, com bolsa mista da FCT entre Portugal e a Argentina, e realizou um pós-doutoramento financiado pela FCT. Atua internacionalmente como bailarino de tango, professor e investigador do movimento especializado na análise do cruzamento entre conteúdos não verbal e verbal.
+
+É licenciado em Educação Musical, Universidade de La Plata, Universidade de Évora, Conservatório Superior, e especializou-se posteriormente em técnica de dança contemporânea e moderna, contando ainda com formação avançada no Gyrotonic Expansion System. É fundador de uma das milongas em atividade contínua mais antigas do mundo. Radicado em Lisboa, o seu trabalho atual centra-se na reconfiguração artística colaborativa do tango em diálogo com o Fado, integrada num programa mais amplo de investigação sobre o conhecimento não proposicional na prática artística (“How to think of art from the body?”). A sua metodologia microanalítica para o estudo do movimento e da voz encontra-se indexada em plataformas internacionais de referência como a [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006%20) e a [ERIC](https://eric.ed.gov/?id=EJ1427658).
 
 ### Resumo Autobiográfico
 
