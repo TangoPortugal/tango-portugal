@@ -1,11 +1,23 @@
 ---
-title: 
+title:
 meta_title: Aulas de Tango Argentino
-description: >-
+description: >
+
 image: /images/ale/image01.jpg
 layout: about
 draft: false
 ---
 ## Aulas de Tango Argentino
 
-Alejandro é um investigador argentino (Buenos Aires) doutorado em Artes Cénicas (Conhecimento cruzado não verbal - implícito e explícito), Bailarino e Professor Profissional de Tango, Músico com formação de Conservatório especializado em Técnica de Dança Contemporânea e Moderna, Formador Avançado em Gyrotonic Expanded System e Organizador de uma das milongas mais antigas e ativas no cenário mundial. Alejandro encontra-se atualmente envolvido em investigação empírica sobre a Reconfiguração Artística Colaborativa da Dança do Tango aplicada ao Fado. Vive em Lisboa.
+Aulas de Ale Laguna
+rabajo para crear las condiciones corporales desde las cuales el tango de Buenos Aires puede aparecer.
+
+**Domingos 19.15** - 90 min aula - Nível Iniciados e Nível Aberto
+Valor 15e.
+**Segundas-Feiras 19hs**. LADIES TANGO.&#x20;
+Laboratório destinado a mulheres que querem aprender o papel da condução.&#x20;
+
+Aulas Particulares. Contactar o próprio por DM instagram @milongabarraca
+&#x20;
+Alejandro é um investigador argentino (Buenos Aires) doutorado em Artes Performativas, Bailarino e Professor Profissional de Tango, Licenciado em Educação Musical e musico de dança especializado em Técnica de Dança Contemporânea e Moderna. Formação em técnica de dança e em Gyrotonic Expanded System.
+Organizador de uma das milongas tradicionais mais antigas e ativas no cenário mundial.&#x20;
