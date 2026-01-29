@@ -39,8 +39,18 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/aulas
   - title: Um Abraço Dançado em Fado
     image: /images/ale/image06.jpg
-    content: >- 
-      Em parceria com a bailarina Camila Delphim (RJ), Alejandro desenvolve “Um Abraço Dançado em Fado”, projeto que une a música do fado e a dança do tango em espetáculos únicos, criando   pontes emocionais entre a cultura portuguesa e argentina. A sua ligação com o fado remonta a 1999, no bairro da Madragoa, onde começou uma vivência intensa na noite lisboeta. Frequentador regular de casas de fado tradicionais, integrou gravações de fado na estrutura da milonga e, com alguma regularidade, trouxe também o fado ao vivo ao espaço. Esta integração — inédita em Lisboa — criou uma verdadeira “casa de fado” dentro da milonga. Uma assimilação rara entre o baile de tango e a cultura de outro país, que hoje se afirma como identidade própria.
+    content: >-
+      Em parceria com a bailarina Camila Delphim (RJ), Alejandro desenvolve “Um
+      Abraço Dançado em Fado”, projeto que une a música do fado e a dança do
+      tango em espetáculos únicos, criando   pontes emocionais entre a cultura
+      portuguesa e argentina. A sua ligação com o fado remonta a 1999, no bairro
+      da Madragoa, onde começou uma vivência intensa na noite lisboeta.
+      Frequentador regular de casas de fado tradicionais, integrou gravações de
+      fado na estrutura da milonga e, com alguma regularidade, trouxe também o
+      fado ao vivo ao espaço. Esta integração — inédita em Lisboa — criou uma
+      verdadeira “casa de fado” dentro da milonga. Uma assimilação rara entre o
+      baile de tango e a cultura de outro país, que hoje se afirma como
+      identidade própria.
     bulletpoints: []
     button:
       enable: true
