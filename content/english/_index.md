@@ -29,7 +29,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/en/classes
   - title: A Dance Embrace in Fado
     image: /images/ale/image06.jpg
-    content: When Fado and Tango meet.
+    content: >-
+      When Fado and Tango meet.
     bulletpoints: []
     button:
       enable: true
