@@ -20,3 +20,8 @@ weight = 3
 name = "Classes"
 url = "/classes"
 weight = 4
+
+[[main]]
+name = "Tango & Fado"
+url = "/tango-and-fado"
+weight = 5
