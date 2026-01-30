@@ -54,8 +54,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
-“A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se faz o que se faz. É aí que reside o verdadeiro conhecimento desta dança.” (Ale Laguna)
-Com uma abordagem pedagógica personalizada, Alejandro oferece aulas regulares — individuais e em grupo — para iniciantes e avançados. A sua proposta funde as raízes sociais do tango com uma leitura contemporânea e afetiva.
-As sessões exploram técnica de movimento, corporalidade, musicalidade e comunicação entre pares, promovendo uma experiência de aprendizagem sensível, participativa e profunda.
+Em parceria com a bailarina Camila Delphim (Rio de Janeiro), Alejandro desenvolve “Um Abraço Dançado em Fado”, projeto que une a música do fado e a dança do tango em espetáculos únicos, criando pontes emocionais entre a cultura portuguesa e argentina.&#x20;
 
-“Trabalho para criar as condições corporais a partir das quais o tango de Buenos Aires pode emergir.” (Ale Laguna)
+A sua ligação com o fado remonta a 1999, no bairro da Madragoa, onde começou uma vivência intensa na noite lisboeta. Frequentador regular de casas de fado tradicionais, integrou gravações de fado na estrutura da milonga e, com alguma regularidade, trouxe também o fado ao vivo ao espaço.&#x20;
+
+Esta integração — inédita em Lisboa — criou uma verdadeira “casa de fado” dentro da milonga. Uma assimilação rara entre o baile de tango e a cultura de outro país, que hoje se afirma como identidade própria.
