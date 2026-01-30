@@ -54,8 +54,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
-“A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se faz o que se faz. É aí que reside o verdadeiro conhecimento desta dança.”
+“A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se faz o que se faz. É aí que reside o verdadeiro conhecimento desta dança.” (Ale Laguna)
+Com uma abordagem pedagógica personalizada, Alejandro oferece aulas regulares — individuais e em grupo — para iniciantes e avançados. A sua proposta funde as raízes sociais do tango com uma leitura contemporânea e afetiva.
+As sessões exploram técnica de movimento, corporalidade, musicalidade e comunicação entre pares, promovendo uma experiência de aprendizagem sensível, participativa e profunda.
 
-“Trabalho para criar as condições corporais a partir das quais o tango de Buenos Aires pode emergir.”
-
-Ale Laguna&#x20;
+“Trabalho para criar as condições corporais a partir das quais o tango de Buenos Aires pode emergir.” (Ale Laguna)
