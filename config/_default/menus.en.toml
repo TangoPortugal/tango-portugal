@@ -12,7 +12,7 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Milonga"
+name = "Milonga d'A Barraca"
 url = "/milonga"
 weight = 3
 
@@ -20,21 +20,3 @@ weight = 3
 name = "Classes"
 url = "/classes"
 weight = 4
-
-[[main]]
-# name = "Tango & Fado" # DELETED
-# url = "/tango-and-fado" # DELETED
-# weight = 5 # DELETED
-
-# [[main]]
-# name = "Blog"
-# url = "/blog"
-# weight = 6
-
-# footer menu
-# [[footer]]
-# name = "Biography"
-# url = "/about"
-# weight = 1
-
-main = [{"name":"Home","url":"/","weight":1},{"name":"Biography","url":"/about","weight":2},{"name":"Milonga d'A Barraca","url":"/milonga","weight":3},{"name":"Classes","url":"/classes","weight":4},{"name":"Tango & Fado","url":"/tango-and-fado","weight":5}]

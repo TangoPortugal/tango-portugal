@@ -25,14 +25,3 @@ weight = 4
 name = "Tango e Fado"
 url = "/tango-e-fado"
 weight = 5
-
-# [[main]]
-# name = "Blog"
-# url = "/blog"
-# weight = 6
-
-# footer menu
-# [[footer]]
-# name = "Biografia"
-# url = "/biografia"
-# weight = 1
