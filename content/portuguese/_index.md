@@ -54,8 +54,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
-Com curaduría e direção artística de **Alejandro Laguna** desde a sua fundação, em 1999 no emblemático Teatro A Barraca, a **Milonga d’A Barraca** é o espaço de tango argentino com maior longevidade em Lisboa.&#x20;
+“A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se faz o que se faz. É aí que reside o verdadeiro conhecimento desta dança.”
 
-“Entre todos os templos do tango em Lisboa, d’A Barraca  brilha com luz própria. Como a milonga mais antiga e emblemática da cidade, sua pista foi palco de gerações de tangueros que encontraram em seu ambiente íntimo e autêntico o refúgio perfeito para se deixarem levar pela música. Suas noites respiram tradição, camaradagem e aquela magia que só o tango sabe criar” (Sebastián Jimenez 03.2025. Campeão mundial de Tango de Pista 2010). &#x20;
+“Trabalho para criar as condições corporais a partir das quais o tango de Buenos Aires pode emergir.”
 
-Hoje, a Milonga d’ A Barraca continua a ser um pilar da cultura argentina na capital portuguesa.
+Ale Laguna&#x20;
