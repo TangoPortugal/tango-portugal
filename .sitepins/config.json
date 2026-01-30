@@ -2,7 +2,7 @@
   "content": "content",
   "media": "assets/images",
   "public": "static",
-  "code": "layouts",
+  "code": "themes/hugoplate/layouts",
   "configs": [
     "config/_default",
     "hugo.toml",
