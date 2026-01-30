@@ -54,8 +54,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
-Em parceria com a bailarina Camila Delphim (Rio de Janeiro), Alejandro desenvolve “Um Abraço Dançado em Fado”, projeto que une a música do fado e a dança do tango em espetáculos únicos, criando pontes emocionais entre a cultura portuguesa e argentina.&#x20;
+Com curaduría e direção artística de Alejandro Laguna desde a sua fundação, em 1999 no emblemático Teatro A Barraca, a Milonga d’A Barraca é o espaço de tango argentino com maior longevidade em Lisboa.
 
-A sua ligação com o fado remonta a 1999, no bairro da Madragoa, onde começou uma vivência intensa na noite lisboeta. Frequentador regular de casas de fado tradicionais, integrou gravações de fado na estrutura da milonga e, com alguma regularidade, trouxe também o fado ao vivo ao espaço.&#x20;
+“Entre todos os templos do tango em Lisboa, d’A Barraca  brilha com luz própria. Como a milonga mais antiga e emblemática da cidade, sua pista foi palco de gerações de tangueros que encontraram em seu ambiente íntimo e autêntico o refúgio perfeito para se deixarem levar pela música. Suas noites respiram tradição, camaradagem e aquela magia que só o tango sabe criar” (Sebastián Jimenez 03.2025. Campeão mundial de Tango de Pista 2010).
 
-Esta integração — inédita em Lisboa — criou uma verdadeira “casa de fado” dentro da milonga. Uma assimilação rara entre o baile de tango e a cultura de outro país, que hoje se afirma como identidade própria.
+Hoje, a Milonga d’ A Barraca continua a ser um pilar da cultura argentina na capital portuguesa.
