@@ -22,7 +22,7 @@ Alejandro é um artista e investigador-praticante argentino (nascido em Buenos A
 
 ### Resumo Autobiográfico
 
-Venho de uma família de pintores, escritores, músicos e boémios. O meu pai era um verdadeiro seguidor da cultura do Tango de Buenos Aires e das suas orquestras nos anos 40.
+Venho de uma família ligada às artes — pintores, escritores, músicos e boémios.Tanto o meu pai, natural da cidade de Buenos Aires (atual CABA), como a minha mãe, da província de Buenos Aires, viveram a época de ouro do tango, crescendo ao som das grandes orquestras típicas e cantores das décadas de 1940 e 1950.
 Conheço o Tango desde criança, ouvindo a minha avó Amália cantar em sua casa. Em criança, acompanhava música clássica percutindo em panelas e, aos 9 anos, seguia todos os programas de TV com ritmos de dança, copiando os seus passos.
 Aos 12 anos, comecei a estudar guitarra para poder tocar a música dos The Beatles e, dois anos depois, formei a minha primeira banda de rock. A partir dos 16 anos, interessei-me pelo folclore argentino e pela bossa nova.
 Aos 18 anos, iniciei os meus estudos de música e guitarra no Conservatório Superior de Música e na Faculdade de Belas Artes de Buenos Aires, obtendo a licenciatura em música em 1990. Em 1996 comecei a aprender Tango com Carlos e Inés Borquez e Aurora Lubiz.
@@ -46,7 +46,9 @@ Em julho de 1999, fundou a icónica Milonga d'A Barraca, no bairro de Santos. Es
 
 ### Tango & Fado
 
-Através da Milonga d'A Barraca, Alejandro promoveu encontros entre Tango e Fado durante mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d'A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro, entre muitos outros. Em 2024, Camila e Alejandro foram convidados pela Fremantle para apresentar o seu projeto “Um Abraço Dançado em Fado”, no programa Got Talent Portugal onde tiveram uma enorme repercussão.
+Através da Milonga d’A Barraca, Alejandro promoveu encontros entre o Tango e o Fado durante mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d’A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro e Helder Moutinho entre muitos outros.
+
+Em 2024, Camila Delphim e Alejandro foram convidados pela produtora Fremantle para apresentar o projeto [_Um Abraço Dançado em Fado_](https://www.instagram.com/delphim_laguna/) no programa _Got Talent Portugal_ (RTP1), onde sua interpretação teve grande repercussão, junto do júri, como a nível mediático.
 
 ### Publicações
 
