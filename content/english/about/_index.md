@@ -32,8 +32,6 @@ In 2007, I began my doctoral studies, obtaining my PhD in early 2013 from the Un
 
 In 2022, I began an artistic partnership with dancer Camila Delphim with the aim of immersing ourselves in the emotion of Fado and finding ways to express it through dance. This project is based on our previous experience with tango and on our regular visits to Fado houses. We like to present this project as “Um Abraço Dançado em Fado.”
 
-***
-
 ### **Professional Tango Dancer**
 
 Since the late 1990s, he has trained with notable Argentine dancers, including Aurora Lubitz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué, and Ana Maria Schapira. His training is supported by over 25 years of dancing in some of the most important milongas in Buenos Aires (El Beso, Salón Canning, Lo de Celia, among many others).
@@ -42,23 +40,17 @@ Since 2015, Alejandro has conducted academic research into the roots and foundat
 
 Since 2017, Alejandro has studied Tango Salón (Villa Urquiza) with renowned dancers Alfredo Alonso and Silvia Mucci (“Los Alonso”), a couple considered the leading active reference of the traditional style.
 
-***
-
 ### **Tango in Portugal**
 
 Alejandro was the first teacher to give regular tango classes in Lisbon (May 1997, Ateneu Comercial de Lisboa). In June 1997, he began organizing “la práctica” in Lisbon at ABS Privado. One year later (September 1998), he created the first milonga in Portugal together with Portuguese dancer Solange Galvão.
 
 In July 1999, he founded the iconic Milonga d’A Barraca, in the Santos neighborhood. This project was dedicated to the dissemination of Buenos Aires “porteño” milonga culture and social tango dance. It is considered one of the oldest traditional regular milongas in Europe, organized by an Argentine dancer, in the same venue, every Sunday.
 
-***
-
 ### **Tango & Fado**
 
 Through the Milonga d’A Barraca, Alejandro promoted encounters between tango and Fado for more than two decades. Around 80 fadistas have performed at the Milonga d’A Barraca, including Celeste Rodrigues, António Chainho, Katia Guerreiro, and Helder Moutinho, among many others.
 
 In 2024, Camila Delphim and Alejandro were invited by the production company Fremantle to present the project _Um Abraço Dançado em Fado_ on the television program _Got Talent Portugal_ (RTP1), where their interpretation received significant recognition from the jury as well as wide media coverage.
-
-***
 
 ### Key Publications
 
