@@ -46,7 +46,7 @@ Em julho de 1999, fundou a icónica Milonga d'A Barraca, no bairro de Santos. Es
 
 ### Tango & Fado
 
-Através da Milonga d'A Barraca, Alejandro promoveu encontros entre Tango e Fado durante mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d'A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro, entre muitos outros. Em 2024, Camila e Alejandro apresentam a sua interpretação, denominada “um abraço dançado em Fado”, no Got Talent Portugal (semifinalistas).
+Através da Milonga d'A Barraca, Alejandro promoveu encontros entre Tango e Fado durante mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d'A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro, entre muitos outros. Em 2024, Camila e Alejandro foram convidados pela Fremantle para apresentar o seu projeto “Um Abraço Dançado em Fado”, no programa Got Talent Portugal onde tiveram uma enorme repercussão.
 
 ### Principais Publicações
 
@@ -55,3 +55,6 @@ Alejandro publicou 30 trabalhos em revistas científicas de arte. Alguns título
 * Visual and Sound Gesture in Dance Communication (2022)
 * Graciela González: Bodily experience and generational change in traditional tango (2021)
 * Biomechanical Analysis and Metric Interpretation of ‘Walking’ in Tango Dance (2020)
+* Milena Plebs. Tango y pensamiento crítico. Conexiones con la vivencia de los procesos de enseñanza y aprendizaje de la música (2018) [https://doi.org/10.21932/epistemus.6.4192.1](https://doi.org/10.21932/epistemus.6.4192.1)
+
+​
