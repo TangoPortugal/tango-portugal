@@ -31,28 +31,66 @@ jobs:
   build:
     runs-on: ubuntu-24.04-arm
     steps:
-      - name: Install Hugo
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-arm64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-
-      - name: Install Go
-        run: |
-          wget -O ${{ runner.temp }}/go.deb https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz \
-          && sudo tar -C /usr/local -xzf ${{ runner.temp }}/go.deb
-
       - name: Checkout
         uses: actions/checkout@v4.2.2
         with:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Cache Hugo binary
+        uses: actions/cache@v4
+        with:
+          path: ~/hugo-cache
+          key: ${{ runner.os }}-hugo-${{ env.HUGO_VERSION }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
+      - name: Install Hugo
+        run: |
+          mkdir -p ~/hugo-cache
+          if [ ! -f ~/hugo-cache/hugo.deb ]; then
+            wget -O ~/hugo-cache/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-arm64.deb
+          fi
+          sudo dpkg -i ~/hugo-cache/hugo.deb
+
+      - name: Cache Go binary
+        uses: actions/cache@v4
+        with:
+          path: ~/go-cache
+          key: ${{ runner.os }}-go-${{ env.GO_VERSION }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Install Go
+        run: |
+          mkdir -p ~/go-cache
+          if [ ! -f ~/go-cache/go.tar.gz ]; then
+            wget -O ~/go-cache/go.tar.gz https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz
+          fi
+          sudo tar -C /usr/local -xzf ~/go-cache/go.tar.gz
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
       - name: Install npm dependencies
         run: npm install
+
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-
 
       - name: Build site
         run: npm run build
