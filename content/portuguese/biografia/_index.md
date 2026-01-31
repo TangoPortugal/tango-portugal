@@ -50,15 +50,15 @@ Através da Milonga d'A Barraca, Alejandro promoveu encontros entre Tango e Fado
 
 ### Publicações
 
-Alejandro publicou mais de 30 artigos em revistas científicas com revisão por pares. Alguns títulos principais incluem:
+Alejandro ha publicado mais de 30 artigos em revistas científicas com revisão por pares. Alguns títulos principais incluem:
 
-* _Visual and Sound Gesture in Dance Communication_ (Laguna and Shifres 2024). [American Psychological Association PsycInfo](https://psycnet.apa.org/record/2025-91177-006) [Research in Dance Education](https://doi.org/10.1080/14647893.2022.2078296); [US Departament of Education - ERIC Resources Information Center](https://eric.ed.gov/?id=EJ1427658) &#x20;
+* _Visual and Sound Gesture in Dance Communication_ (Laguna and Shifres 2024). [American Psychological Association PsycInfo](https://psycnet.apa.org/record/2025-91177-006) [_Research in Dance Education_](https://doi.org/10.1080/14647893.2022.2078296); [US Departament of Education - ERIC Resources Information Center](https://eric.ed.gov/?id=EJ1427658) &#x20;
 * _Collaborative Artistic Reconfiguration of the Tango Dance towards Fado_ (Laguna 2023). [_Crosswinds_](https://www.researchgate.net/publication/368309582_Collaborative_Artistic_Reconfiguration_of_the_Tango_Dance_towards_Fado).&#x20;
-* Graciela González: Bodily experience and generational change in traditional tango (Laguna 2021). [_European Review of Artistic Studies_](https://doi.org/10.37334/eras.v12i1.9) 
-* Biomechanical Analysis and Metric Interpretation of ‘Walking’ in Tango Dance (Laguna 2021) [_European Review of Artistic Studies_](https://doi.org/10.37334/eras.v11i4.15)
-* Cuando el cuerpo es música al bailar. Entrevista a Claudio Villagra. [_EPISTEMUS_](https://doi.org/10.24215/18530494e012). &#x20;
-* Milena Plebs. Tango y pensamiento crítico. Conexiones con la vivencia de los procesos de enseñanza y aprendizaje de la música (Laguna 2018). [_EPITEMUS_](https://doi.org/10.21932/epistemus.6.4192.1) 
-* La huella del timing antiguo. Un estudio sobre el viejo estilo de "Villa Urquiza". (Laguna and Shifres 2018) [_ICTM. 1st Simpossium_](https://www.aacademica.org/favio.shifres/504)
+* _Graciela González: Bodily experience and generational change in traditional tango_ (Laguna 2021). [_European Review of Artistic Studies_](https://doi.org/10.37334/eras.v12i1.9) 
+* _Biomechanical Analysis and Metric Interpretation of ‘Walking’ in Tango Dance_ (Laguna 2021) [_European Review of Artistic Studies_](https://doi.org/10.37334/eras.v11i4.15)
+* _Cuando el cuerpo es música al bailar. Entrevista a Claudio Villagra (Laguna 2019)_. [_EPISTEMUS_](https://doi.org/10.24215/18530494e012). &#x20;
+* _Milena Plebs. Tango y pensamiento crítico. Conexiones con la vivencia de los procesos de enseñanza y aprendizaje de la música_ (Laguna 2018). [_EPITEMUS_](https://doi.org/10.21932/epistemus.6.4192.1) 
+* _La huella del timing antiguo. Un estudio sobre el viejo estilo de "Villa Urquiza"._ (Laguna and Shifres 2018) [_ICTM 1st Simpossium_](https://www.aacademica.org/favio.shifres/504)
 
 
 Para consultar o cv completo do Professor Alejandro Laguna, por favor aceda a: [Ciência Vitae](https://www.cienciavitae.pt/191E-174E-5492) ; [Google Scholar](https://scholar.google.com/citations?hl=pt-PT\&user=KSDcmN0AAAAJ) , [Researchgate](https://www.researchgate.net/profile/Alejandro-Grosso-Laguna); [Orcid](https://orcid.org/0000-0001-8560-4011).&#x20;
