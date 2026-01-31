@@ -64,6 +64,4 @@ I have published articles in peer-reviewed scientific journals. Some key titles 
 * _Milena Plebs. Tango y pensamiento crítico. Conexiones con la vivencia de los procesos de enseñanza y aprendizaje de la música_ (Laguna 2018). [_EPITEMUS._](https://doi.org/10.21932/epistemus.6.4192.1)
 * _La huella del timing antiguo. Un estudio sobre el viejo estilo de "Villa Urquiza"._ (Laguna and Shifres 2018) [_ICTM 1st Simpossium_](https://www.aacademica.org/favio.shifres/504)
 
-​
-
 To consult Professor Alejandro Laguna’s full CV, please visit: [Ciência Vitae](https://www.cienciavitae.pt/191E-174E-5492) ; [Google Scholar](https://scholar.google.com/citations?hl=pt-PT\&user=KSDcmN0AAAAJ) , [Researchgate](https://www.researchgate.net/profile/Alejandro-Grosso-Laguna); [Orcid](https://orcid.org/0000-0001-8560-4011).&#x20;
