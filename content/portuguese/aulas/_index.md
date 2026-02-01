@@ -1,8 +1,8 @@
 ---
 title:
-meta_title: Aulas de Tango Argentino.
-description: >-
-  Test FMatter
+meta_title: Aulas de Tango Argentino
+description: >
+
 image: /images/ale/image01.jpg
 layout: about
 draft: false
@@ -18,9 +18,7 @@ Valor 15e.
 **Segundas-Feiras 19hs**. LADIES TANGO.&#x20;
 Laboratório destinado a mulheres que querem aprender o papel da condução de uma maneira situada.&#x20;
 
-
-**AULAS PARTICULAES**. Contactar o próprio por DM instagram @milongabarraca ou milongabarraca\@gmail.com
-_Se o movimento interno do corpo está organizado dentro da métrica musical  e a ‘marca’ então o ‘Tango vem sozinho’._&#x20;
+**AULAS PARTICULAES**. Contactar o próprio por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)&#x200B;_&#x53;e o movimento interno do corpo está organizado dentro da métrica musical  e a ‘marca’ então o ‘Tango vem sozinho’._&#x20;
 
 Alejandro (natural de Buenos Aires) é um investigador argentino doutorado em Artes Performativas, Bailarino e Professor de Tango, Licenciado em Educação Musical e músico de dança especializado em Técnica de Dança Contemporânea e Moderna.&#x20;
 Formação em técnica de dança e em Gyrotonic Expanded System desde 2010 com a bailarina [Barbora Hruskova](https://www.cnb.pt/profile/barbora-hruskova/) (ex bailarina principal da CompanhÌa Nacional de Bailado).
