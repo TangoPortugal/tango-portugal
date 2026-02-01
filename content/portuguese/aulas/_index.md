@@ -9,8 +9,8 @@ draft: false
 ---
 ## Aulas de Tango Argentino
 
-**Professor: Ale Laguna e convidadas**
-Nas nossas aulas trabalhamos a criar as condições corporais desde as quais o tango de Buenos Aires pode aparecer.
+**Professor: Ale Laguna e convidadas**\
+_Nas aulas, trabalhamos para criar as condições corporais a partir das quais o tango de Buenos Aires pode surgir._
 
 **Domingos 19.15** - 90 min aula - Nível Iniciados e Nível Aberto
 Valor 15e.
@@ -18,7 +18,9 @@ Valor 15e.
 **Segundas-Feiras 19hs**. LADIES TANGO.&#x20;
 Laboratório destinado a mulheres que querem aprender o papel da condução de uma maneira situada.&#x20;
 
-**AULAS PARTICULAES**. Contactar o próprio por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)&#x200B;_&#x53;e o movimento interno do corpo está organizado dentro da métrica musical  e a ‘marca’ então o ‘Tango vem sozinho’._&#x20;
+**AULAS PARTICULAES**. Contactar o próprio por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)​
+
+_Se o movimento interno do corpo está organizado dentro da métrica musical  e a ‘marca’, então o ‘Tango vem sozinho’._&#x20;
 
 ​
 
