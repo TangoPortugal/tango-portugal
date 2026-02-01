@@ -1,6 +1,6 @@
 ---
 title:
-meta_title: Aulas de Tango Argentino
+meta_title: Aulas de Tango Argentino.
 description: >
 
 image: /images/ale/image01.jpg
