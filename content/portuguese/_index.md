@@ -2,7 +2,7 @@
 features:
   - title: Alejandro Laguna
     image: /images/ale/image05.jpg
-    content: ""
+    content: O Nome do Tango Argentino na Capital Portuguesa.
     bulletpoints: []
     button:
       enable: true
