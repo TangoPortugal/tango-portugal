@@ -1,15 +1,15 @@
 ---
 features:
-  - title: "Alejandro Laguna"
-    image: "/images/ale/image05.jpg"
-    content: "O Nome do Tango Argentino na Capital Portuguesa."
+  - title: Alejandro Laguna
+    image: /images/ale/image05.jpg
+    content: ""
     bulletpoints: []
     button:
       enable: true
-      label: "Biografia"
+      label: Biografia
       link: https://TangoPortugal.github.io/tango-portugal/biografia
-  - title: "Milonga d’A Barraca"
-    image: "/images/ale/image03.jpg"
+  - title: Milonga d’A Barraca
+    image: /images/ale/image03.jpg
     content: "Com direção de Alejandro Laguna desde a sua fundação, em 1999 no
       emblemático Teatro A Barraca, a Milonga d’A Barraca é o espaço de tango
       argentino com maior longevidade em Lisboa. Tornou-se um ponto de
@@ -23,13 +23,14 @@ features:
     bulletpoints: []
     button:
       enable: true
-      label: "Milonga"
+      label: Milonga
       link: https://TangoPortugal.github.io/tango-portugal/milonga
-  - title: "Aprender e viver o tango"
-    image: "/images/ale/image01.jpg"
-    content: "”A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’
-      se faz o que se faz. É aí que reside o verdadeiro conhecimento situado
-      desta dança.” (Ale Laguna) <br><br>
+  - title: Aprender e viver o tango
+    image: /images/ale/image01.jpg
+    content: >-
+      ”A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se
+      faz o que se faz. É aí que reside o verdadeiro conhecimento situado desta
+      dança.” (Ale Laguna) <br><br>
 
       Com uma abordagem pedagógica personalizada, Alejandro oferece aulas
       regulares — individuais e em grupo — para iniciantes e avançados. <br> A
@@ -39,15 +40,16 @@ features:
       experiência de aprendizagem sensível, participativa e profunda. <br><br>
 
       “Trabalho na criação das condições corporais a partir das quais o tango de
-      Buenos Aires pode surgir.” (Ale Laguna)"
+      Buenos Aires pode surgir.” (Ale Laguna)
     bulletpoints: []
     button:
       enable: true
-      label: "Aulas"
+      label: Aulas
       link: https://TangoPortugal.github.io/tango-portugal/aulas
-  - title: "Um Abraço Dançado em Fado"
-    image: "/images/ale/image06.jpg"
-    content: "Um Abraço Dançado em Fado nasce do encontro profundo entre o tango e o
+  - title: Um Abraço Dançado em Fado
+    image: /images/ale/image06.jpg
+    content: >-
+      Um Abraço Dançado em Fado nasce do encontro profundo entre o tango e o
       fado — dois universos que partilham corpo, escuta e emoção. <br><br>
 
       Em parceria com a bailarina Camila Delphim (Rio de Janeiro), Alejandro
@@ -67,11 +69,11 @@ features:
 
       Esta integração — inédita em Lisboa — deu origem a uma verdadeira “casa de
       fado” dentro da milonga, uma assimilação rara entre o baile do tango e a
-      cultura portuguesa, que hoje se afirma como identidade própria."
+      cultura portuguesa, que hoje se afirma como identidade própria.
     bulletpoints: []
     button:
       enable: true
-      label: "Tango e Fado"
+      label: Tango e Fado
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
