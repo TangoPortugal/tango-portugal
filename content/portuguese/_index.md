@@ -10,16 +10,24 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/biografia
   - title: Milonga d’A Barraca
     image: /images/ale/image03.jpg
-    content: "Com direção de Alejandro Laguna desde a sua fundação, em 1999 no
-      emblemático Teatro A Barraca, a Milonga d’A Barraca é o espaço de tango
-      argentino com maior longevidade em Lisboa. Tornou-se um ponto de
-      referência para dançarinos, músicos e amantes do tango, mantendo uma
-      tradição semanal que atravessa gerações. As suas noites respiram
-      intimismo, camaradagem e aquela magia que só o tango sabe criar. Como
-      escreveu Sebastián Jimenez em 2025: sua pista foi palco de gerações de
-      tangueros que encontraram no seu ambiente íntimo e autêntico o refúgio
-      perfeito para se deixarem levar pela música. Hoje, a Milonga continua a
-      ser um pilar da cultura argentina na capital portuguesa."
+    content: >
+      Fundada em 1999 no emblemático Teatro A Barraca Bar, sobe a direção de
+      Alejandro Laguna, a Milonga d'A Barraca é o espaço de tango argentino com
+      maior longevidade em Lisboa. 
+
+
+      Como descreve Sebastián Jimenez, reconhecido bailarino argentino e Campeão
+      Mundial de Tango de Pista (2010) “As suas noites respiram intimismo,
+      camaradagem e aquela magia que só o tango sabe criar (…) A sua pista foi
+      palco de gerações de tangueros que encontraram no seu ambiente íntimo e
+      autêntico o refúgio perfeito para se deixarem levar pela música.”(Março
+      2025). 
+
+
+      A Milonga d'A Barraca tornou-se um ponto de referência para milonguer@s,
+      bailarin@s, músicos e amantes do tango, mantendo uma tradição semanal que
+      atravessa gerações. Hoje, continua a ser um pilar da cultura argentina na
+      capital portuguesa.
     bulletpoints: []
     button:
       enable: true
@@ -77,3 +85,8 @@ features:
       link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
 draft: false
 ---
+​
+
+​
+
+​
