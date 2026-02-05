@@ -37,9 +37,9 @@ features:
     image: /images/ale/image01.jpg
     content: >-
       A essência porteña do baile do Tango Argentino está no 'modo de fazer'.
-      Isto é muito mais determinante do que o próprio fazer
+      Isto é muito mais determinante do que o próprio fazer.
 
-      Aqui reside o verdadeiro conhecimento desta dança.
+      Aqui reside o verdadeiro conhecimento encarnado desta dança.
 
       A partir de uma abordagem pedagógica personalizada, as minhas aulas —para
       todos os níveis— articulam as raízes sociais do tango com uma leitura
