@@ -33,22 +33,25 @@ features:
       enable: true
       label: Milonga
       link: https://TangoPortugal.github.io/tango-portugal/milonga
-  - title: Aprender e viver o tango
+  - title: Aprender e viver o Tango
     image: /images/ale/image01.jpg
     content: >-
-      ”A essência porteña do tango não está no ‘quê’ se faz, mas no ‘como’ se
-      faz o que se faz. É aí que reside o verdadeiro conhecimento situado desta
-      dança.” (Ale Laguna) <br><br>
+      A essência porteña do baile do Tango Argentino está no 'modo de fazer'.
+      Isto é muito mais determinante do que o próprio fazer
 
-      Com uma abordagem pedagógica personalizada, Alejandro oferece aulas
-      regulares — individuais e em grupo — para iniciantes e avançados. <br> A
-      sua proposta funde as raízes sociais do tango com uma leitura
-      contemporânea e afetiva. As sessões exploram técnica de movimento,
-      corporalidade, musicalidade e comunicação entre pares, promovendo uma
-      experiência de aprendizagem sensível, participativa e profunda. <br><br>
+      Aqui reside o verdadeiro conhecimento desta dança.
 
-      “Trabalho na criação das condições corporais a partir das quais o tango de
-      Buenos Aires pode surgir.” (Ale Laguna)
+      A partir de uma abordagem pedagógica personalizada, as minhas aulas —para
+      todos os níveis— articulam as raízes sociais do tango com uma leitura
+      contemporânea e afetiva.
+
+      As sessões exploram técnica de movimento, corporalidade, musicalidade e
+      comunicação entre pares, promovendo uma experiência de aprendizagem
+      sensível, participativa e profunda.
+
+      Nas minhas aulas grupais e particulares trabalho na criação das condições
+      corporais a partir das quais o tango de Buenos Aires pode surgir no corpo
+      do de cada pessoa. 
     bulletpoints: []
     button:
       enable: true
