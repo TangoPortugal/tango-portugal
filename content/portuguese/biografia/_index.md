@@ -42,9 +42,9 @@ Em 2022, iniciei uma parceria artística com a bailarina Camila Delphim, com o o
 
 Desde o final da década de 1990, comecei a estudar tango com notáveis bailarinos argentinos, entre os quais Aurora Lubiz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué e Ana María Schapira. A minha formação é sustentada por mais de 25 anos de experiência a dançar em algumas das mais importantes milongas de Buenos Aires, como El Beso, Salón Canning, Lo de Celia, entre muitas outras.
 
-Desde 2015, tenho investigado academicamente as raízes e os fundamentos do estilo Villa Urquiza (Tango Salón). Neste contexto, mantive uma relação próxima com a coreógrafa e bailarina Milena Plebs e com a distinguida mestre Graciela González.
+Desde 2015, tenho investigado academicamente as raízes e os fundamentos do estilo Villa Urquiza (Tango Salón). Neste contexto, mantive uma relação próxima com a icónica coreógrafa e bailarina Milena Plebs, com a mestra entre mestres Graciela González, e com Cristina Diácono, filha dos milongueros Aldo e Chimbela, dedicados desde o final da década de 1980 a filmar e preservar a memória de alguns dos últimos milongueiros vivos.
 
-Desde 2017, estudo Tango Salón (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci (“Los Alonso”), casal considerado uma das principais referências ativas do estilo villa Urquiza.
+Desde 2017, estudo Tango Salón (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci (“Los Alonso”), casal considerado uma das principais referências ativas do Tango tradicional.
 
 ### Tango & Fado
 
