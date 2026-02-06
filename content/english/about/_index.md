@@ -12,33 +12,33 @@ draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
 
-Alejandro is an Argentinian (Buenos Aires–born) artist and practitioner-researcher whose work bridges dance, music, embodied communication, and the study of propositional and non-propositional knowledge in artistic transmission. He holds a PhD in Performing Arts, awarded under a mixed FCT doctoral grant between Portugal and Argentina, and completed an FCT-funded postdoctoral fellowship. He works internationally as a tango dancer, teacher, and movement researcher, specializing in the analysis of the interaction between verbal and non-verbal content.
+Alejandro is an Argentinian artist and practitioner-researcher (born in Buenos Aires), currently based in Lisbon. His artistic work brings together dance, music, embodied communication, and the study of propositional and non-propositional knowledge in artistic transmission. He holds a PhD in Performing Arts, awarded under a mixed doctoral grant from Portugal’s Foundation for Science and Technology (FCT) between Portugal and Argentina, and completed an FCT-funded postdoctoral fellowship. He works internationally as a tango dancer and teacher, as well as a researcher of danced movement, specializing in the analysis of the interaction between verbal and non-verbal forms of communication.
 
-He holds a degree in Music Education, with academic training at the National University of La Plata and the University of Évora, as well as advanced conservatory training. He later specialized in contemporary and modern dance technique and completed advanced training in the _Gyrotonic Expansion System_. He is the founder of one of the longest-running milongas in continuous activity worldwide. Based in Lisbon, his current work focuses on the collaborative artistic reconfiguration of tango in dialogue with Fado, within a broader research program on non-propositional knowledge in artistic practice (“How to think of art from the body?”). His micro-analytical methodology for the study of movement and voice is indexed in leading international research platforms such as [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006) and [ERIC](https://eric.ed.gov/?id=EJ1427658).
+He holds a degree in Music Education, with academic training at the National University of La Plata, the University of Évora, and the Higher Conservatory of Music of Buenos Aires (currently the National University of the Arts – UNA). He later specialized as a dance musician in the context of contemporary and modern dance technique classes, and also completed advanced training in classical dance technique and in the Gyrotonic Expansion System. He is the founder of one of the longest continuously running milongas in the world. His current work focuses on the collaborative artistic reconfiguration of tango in dialogue with Fado, within a broader research program on non-propositional knowledge in artistic practice (“How to think of art from the body?”). His micro-analytical methodology for the study of movement and voice is indexed in leading international research platforms such as [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006) and [ERIC](https://eric.ed.gov/?id=EJ1427658).
 
 ### **Autobiographical Summary**
 
-I come from a family connected to the arts — painters, writers, musicians, and bohemians. Both my father, a native of the city of Buenos Aires (now CABA), and my mother, from the province of Buenos Aires, lived through the golden age of tango, growing up to the sound of the great traditional orchestras and singers of the 1940s and 1950s.
+I come from a family closely connected to the arts—painters, writers, musicians, and bohemians. Both my father, a native of the city of Buenos Aires (now CABA), and my mother, from the province of Buenos Aires, lived through the golden age of tango, growing up to the sound of the great traditional orchestras and singers of the 1940s and 1950s.
 
-I have known tango since childhood, listening to my grandmother Amália sing at home. As a child, I accompanied classical music by drumming on pots and pans, and at the age of nine I followed all dance-rhythm TV programs, copying their steps.
+I have known tango since childhood, listening to my grandmother Amália sing at home. As a child, I accompanied classical music by drumming on pots and pans, and by the age of nine I closely followed television programs devoted to dance rhythms, copying their steps.
 
-At twelve, I began studying guitar in order to play the music of The Beatles, and two years later I formed my first rock band. From the age of sixteen, I became interested in Argentine folklore and bossa nova.
+At the age of twelve, I began studying guitar in order to play the music of **The Beatles**, and two years later I formed my first rock band. From the age of sixteen onward, I became interested in Argentine folk music and bossa nova.
+&#x20;At eighteen, I began my studies in music and guitar at the Higher Conservatory of Music and the Faculty of Fine Arts of Buenos Aires, earning a degree in Music in 1990. In 1996, I began studying tango with Carlos Borquez, Inés Borquez, and Aurora Lubiz.
 
-At eighteen, I began my studies in music and guitar at the Higher Conservatory of Music and at the Faculty of Fine Arts of Buenos Aires, earning a degree in music in 1990. In 1996, I began learning tango with Carlos and Inés Borquez and Aurora Lubiz.
+In 1998, I founded what is widely recognized by the Lisbon tango community as the first milonga in Portugal. In July 1999, I founded—together with Solange Galvão—the iconic **Milonga d’A Barraca**, in the Santos neighborhood of Lisbon. Since then, the project, dedicated to the dissemination of Buenos Aires–style _porteño_ milonga culture and social tango dance, has continued under my curatorship and artistic direction. In July 2024, the Milonga d’A Barraca celebrated its 25th anniversary.
 
-In 1998, I founded the first milonga in Portugal, followed a year later by the Milonga d’A Barraca, from which I began promoting tango dance based on Fado music. In 2024, the Milonga d’A Barraca celebrated its 25th anniversary.
+In 2007, I began my doctoral studies, earning my PhD in early 2013 from the University of Évora. These studies were funded by an international scholarship from Portugal’s Foundation for Science and Technology (FCT).
+&#x20;In 2015, I was awarded an international FCT grant to conduct postdoctoral research over a seven-year period between the University of Aveiro in Portugal and the National University of La Plata in Argentina, specializing in the analysis of danced movement (in musical contexts), its emotional dimensions, and the non-verbal and intersubjective forms of communication.
 
-In 2007, I began my doctoral studies, obtaining my PhD in early 2013 from the University of Évora. My studies were funded by an international scholarship from Portugal’s Foundation for Science and Technology (FCT). In 2015, I was awarded an international FCT scholarship to conduct postdoctoral research for seven years, specializing in bodily movement in dance (in musical contexts), its emotions, and the non-verbal and intersubjective forms of its communication with others. I have published more than 30 works in scientific art journals.
-
-In 2022, I began an artistic partnership with dancer Camila Delphim with the aim of immersing ourselves in the emotion of Fado and finding ways to express it through dance. This project is based on our previous experience with tango and on our regular visits to Fado houses. We like to present this project as “Um Abraço Dançado em Fado.”
+In 2022, I began an artistic partnership with dancer Camila Delphim, with the aim of immersing ourselves in the emotional world of Fado and exploring ways of expressing it through dance. This project builds on our previous experience with tango and on our regular visits to Fado houses, and is presented under the title [_“Um Abraço Dançado em Fado”_ ](https://www.instagram.com/delphim_laguna/)(_A Dance Embrace in Fado_).
 
 ### **Professional Tango Dancer**
 
-Since the late 1990s, he has trained with notable Argentine dancers, including Aurora Lubitz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué, and Ana Maria Schapira. His training is supported by over 25 years of dancing in some of the most important milongas in Buenos Aires (El Beso, Salón Canning, Lo de Celia, among many others).
+Since the late 1990s, I have studied tango with notable Argentine dancers, including Aurora Lubiz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué, and Ana María Schapira. My training is grounded in more than 25 years of experience dancing in some of the most important milongas in Buenos Aires, such as El Beso, Salón Canning, and Lo de Celia, among many others.
 
-Since 2015, Alejandro has conducted academic research into the roots and foundations of the Villa Urquiza style of Tango Salón. In this context, he maintained close ties with the iconic choreographer and dancer Milena Plebs and studied with dancer Graciela González.
+Since 2015, I have conducted academic research into the roots and foundations of the Villa Urquiza style of Tango Salón. In this context, I maintained a close relationship with the iconic choreographer and dancer Milena Plebs, the distinguished —master among teachers— Graciela González and Cristina Diácono, daughter of the milongueros Aldo and Chimbela, devoted since the late 1980s to filming and preserving the memory of some of the last living milongueros.
 
-Since 2017, Alejandro has studied Tango Salón (Villa Urquiza) with renowned dancers Alfredo Alonso and Silvia Mucci (“Los Alonso”), a couple considered the leading active reference of the traditional style.
+Since 2017, I have studied Tango Salón (Villa Urquiza) with renowned dancers Alfredo Alonso and Silvia Mucci (“Los Alonso”), a couple widely regarded as one of the leading active references of the traditional style.
 
 ### **Tango in Portugal**
 
@@ -48,9 +48,9 @@ In July 1999, he founded the iconic Milonga d’A Barraca, in the Santos neighbo
 
 ### **Tango & Fado**
 
-Through the Milonga d’A Barraca, Alejandro promoted encounters between tango and Fado for more than two decades. Around 80 fadistas have performed at the Milonga d’A Barraca, including Celeste Rodrigues, António Chainho, Katia Guerreiro, and Helder Moutinho, among many others.
+Through the Milonga d’A Barraca, I have promoted encounters between tango and Fado for more than two decades. Around 80 _fadistas_ have performed at the Milonga d’A Barraca, including Celeste Rodrigues, António Chainho, Katia Guerreiro, José Manuel Neto, María Amélia Proença, Luís Guerreiro, and Hélder Moutinho, among many others.
 
-In 2024, Camila Delphim and Alejandro were invited by the production company Fremantle to present the project _Um Abraço Dançado em Fado_ on the television program _Got Talent Portugal_ (RTP1), where their interpretation received significant recognition from the jury as well as wide media coverage.
+In 2024, Camila Delphim and I were invited by the production company Fremantle to present the project Um Abraço Dançado em Fado on the television program _Got Talent Portugal_ (RTP1), where our danced interpretation received strong recognition from the jury as well as significant media attention.
 
 ### Key Publications
 
