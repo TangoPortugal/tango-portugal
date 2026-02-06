@@ -34,7 +34,7 @@ Aos 12 anos, comecei a estudar guitarra para poder tocar a música dos The Beatl
 Em 1998, fundei aquela que é amplamente reconhecida pelo público tanguero lisboeta como a primeira milonga em Portugal. Em julho de 1999, fundei — juntamente com Solange Galvão — a icónica Milonga d’A Barraca, no bairro de Santos. Desde então, o projeto, dedicado à divulgação da cultura porteña da milonga e da dança social do tango, continua sob a minha curadoria e direção artística. Em julho de 2024, a Milonga d’A Barraca celebrou o seu 25.º aniversário.
 
 Em 2007, iniciei os meus estudos de doutoramento, tendo obtido o grau de Doutor no início de 2013 pela Universidade de Évora. Estes estudos foram financiados por uma bolsa internacional da Fundação para a Ciência e a Tecnologia (FCT).
-&#x20;Em 2015, foi-me atribuída uma bolsa internacional da FCT para realizar investigação de pós-doutoramento durante sete anos, entre a Universidade de Aveiro, em Portugal, e a Universidade Nacional de La Plata, na Argentina, especializando-me na análise do movimento dançado (em contextos com música), nas suas dimensões emocionais e nas formas não verbais e intersubjetivas da comunicação.
+Em 2015, foi-me atribuída uma bolsa internacional da FCT para realizar investigação de pós-doutoramento durante sete anos, entre a Universidade de Aveiro, em Portugal, e a Universidade Nacional de La Plata, na Argentina, especializando-me na análise do movimento dançado (em contextos com música), nas suas dimensões emocionais e nas formas não verbais e intersubjetivas da comunicação.
 
 Em 2022, iniciei uma parceria artística com a bailarina Camila Delphim, com o objetivo de mergulhar na emoção do Fado e encontrar formas de a expressar através da dança. Este projeto baseia-se na nossa experiência anterior com o tango e nas visitas regulares a casas de Fado, sendo apresentado sob o título “Um Abraço Dançado em Fado”.
 
@@ -44,11 +44,11 @@ Desde o final da década de 1990, comecei a estudar tango com notáveis bailarin
 
 Desde 2015, tenho investigado academicamente as raízes e os fundamentos do estilo Villa Urquiza (Tango Salón). Neste contexto, mantive uma relação próxima com a coreógrafa e bailarina Milena Plebs e com a distinguida mestre Graciela González.
 
-Desde 2017, estudo Tango Salón (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci (“Los Alonso”), casal considerado uma das principais referências ativas do estilo tradicional.
+Desde 2017, estudo Tango Salón (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci (“Los Alonso”), casal considerado uma das principais referências ativas do estilo villa Urquiza.
 
 ### Tango & Fado
 
-Através da Milonga d’A Barraca, comecei a promover encontros entre o tango e o Fado ao longo de mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d’A Barraca, incluindo Celeste Rodrigues, António Chainho, Katia Guerreiro, José Manuel Neto, María Amélia Proença, Luís Guerreiro e Hélder Moutinho, entre muitos outros.
+Através da Milonga d’A Barraca, comecei a promover encontros entre o tango e o Fado ao longo de mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d’A Barraca, incluindo Celeste Rodrigues, António Chaínho, Fernando Alvim, Katia Guerreiro, José Manuel Neto, María Amélia Proença, Luís Guerreiro e Hélder Moutinho, entre muitos outros.
 
 Em 2024, Camila Delphim e eu fomos convidados pela produtora Fremantle para apresentar o projeto [_Um Abraço Dançado em Fado_](https://www.instagram.com/delphim_laguna/) no programa _Got Talent Portugal_ (RTP1), onde a nossa interpretação dançada teve uma forte repercussão junto do júri e dos meios de comunicação.
 
