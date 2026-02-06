@@ -16,7 +16,7 @@ draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
 
-Alejandro Laguna é um artista e investigador-praticante argentino (nascido em Buenos Aires), atuando no campo da psicologia da dança e da música, com particular interesse na comunicação multimodal e no papel do conhecimento não proposicional na epistemologia da dança. É bailarino e professor profissional de tango argentino e desenvolve investigação sobre o movimento dançado, com especialização na análise das interações entre formas verbais e não verbais de comunicação. As suas metodologias pedagógicas são diretamente informadas pela articulação entre prática artística e investigação.
+**Alejandro Laguna** é um **artista e investigador-praticante** argentino (nascido em Buenos Aires), atuando no campo da **psicologia da dança e da música**, com particular interesse na comunicação multimodal e no papel do conhecimento não proposicional na epistemologia da Arte. É bailarino e professor profissional de tango argentino e desenvolve investigação sobre o movimento dançado, com especialização na análise das interações entre formas verbais e não verbais de comunicação. As suas metodologias pedagógicas são diretamente informadas pela articulação entre prática artística e investigação.
 
 É **doutorado em Artes Performativas** pela Universidade de Évora (2013), com a tese _“Revisão de problemas comunicacionais no contexto das aulas de técnica de dança a partir da perspetiva do músico de dança”_, desenvolvida no âmbito de uma bolsa mista Portugal–Argentina da FCT, I.P. É **licenciado em Educação Musical** pela Universidade de Évora (2007) e realizou estudos em Educação Musical e Guitarra Clássica na Universidade Nacional de La Plata e no Conservatório Superior de Música de Buenos Aires (Argentina).
 
