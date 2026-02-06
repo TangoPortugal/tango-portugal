@@ -12,7 +12,8 @@ draft: false
 ---
 ## Dr. Alejandro César Grosso Laguna
 
-**Alejandro Laguna** is an Argentinian (Buenos Aires–born) **artist and practitioner-researcher in the field of the psychology of dance and music**, with a particular interest in multimodal communication and the role of non-propositional knowledge in the epistemology of dance. He is a professional Argentine tango dancer and teacher and works as a researcher of danced movement, specializing in the analysis of interactions between verbal and non-verbal forms of communication. His pedagogical methodologies are directly informed by his artistic and research practice.
+**Alejandro Laguna** is an Argentinian (Buenos Aires–born) **artist and practitioner-researcher in the field of the psychology of dance and music**, with a particular interest in multimodal communication and the role of non-propositional knowledge in the epistemology of Art.&#x20;
+He is a professional Argentine tango dancer and teacher and works as a researcher of danced movement, specializing in the analysis of interactions between verbal and non-verbal forms of communication. His pedagogical methodologies are directly informed by his artistic and research practice.
 
 He holds a **PhD in Performing Arts** from the University of Évora (2013), with the doctoral thesis _“Revision of communication problems in the context of technical dance classes from the perspective of the dance musician”_, funded by a mixed Portugal–Argentina scholarship from FCT, I.P. He also holds a **degree in Music Education** from the University of Évora (2007) and pursued studies in Music Education and Classical Guitar at the National University of La Plata and the Higher Conservatory of Music of Buenos Aires (Argentina).
 
