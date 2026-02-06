@@ -18,11 +18,13 @@ He is a professional Argentine tango dancer and teacher and works as a researche
 
 Alejandro holds a **PhD in Performing Arts** from the University of Évora (2013), with the doctoral thesis _“Revision of communication problems in the context of technical dance classes from the perspective of the dance musician”_, funded by a mixed Portugal–Argentina scholarship from FCT, I.P. He also holds a **degree in Music Education** from the University of Évora (2007) and pursued studies in Music Education and Classical Guitar at the National University of La Plata and the Higher Conservatory of Music of Buenos Aires (Argentina).
 
-Since 2012, he has undertaken intensive training in the Gyrotonic Expansion System and in the fundamentals of classical ballet technique with Barbora Hruskova, Principal Dancer and current Head Rehearsal Director of the Portuguese National Ballet Company (CNB). From 2015 to 2022, he was a **Postdoctoral Researcher** at the Institute of Ethnomusicology – Centre of Music and Dance Studies, University of Aveiro (INET-md-UA), Portugal, and at the Laboratory for the Study of Musical Experience (LEEM), National University of La Plata, Argentina. During this period, he conducted research on _“Aspects of communication in multimodal expressive performance: Crossing propositional and non-propositional contents”_, funded by FCT.
+Since 2012, he has undertaken intensive training in the Gyrotonic Expansion System and in the fundamentals of classical ballet technique with Barbora Hruskova, Principal Dancer and current Head Rehearsal Director of the Portuguese National Ballet Company (CNB).&#x20;
+
+From 2015 to 2022, he was a **Postdoctoral Researcher** at the Institute of Ethnomusicology – Centre of Music and Dance Studies, University of Aveiro (INET-md-UA), Portugal, and at the Laboratory for the Study of Musical Experience (LEEM), National University of La Plata, Argentina. During this period, he conducted research on _“Aspects of communication in multimodal expressive performance: Crossing propositional and non-propositional contents”_, funded by FCT.
 
 He specialized as a dance musician in the context of contemporary and modern dance technique classes at the Lisbon Higher School of Dance.
 
-He is the founder of the Milonga d'A Barraca of one of the longest continuously running milongas in the world.&#x20;
+Alejandro is the founder of the Milonga d'A Barraca of one of the longest continuously running milongas in the world.&#x20;
 
 His current work focuses on the _collaborative artistic reconfiguration of tango in dialogue with Fado_ (2023), within a broader research program on non-propositional knowledge in artistic practice (_“How to think of art from the body?”_). His [micro-analytical methodology](http://visual-spatial-indicators.tumblr.com/) for the study of movement and voice is indexed in leading international research platforms such as [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006) and [ERIC](https://eric.ed.gov/?id=EJ1427658).
 
