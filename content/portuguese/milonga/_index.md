@@ -23,7 +23,8 @@ O projeto é dirigido pelo Professor Alejandro Laguna, investigador, doutorado e
 Criada em julho de 1999. É a milonga mais antiga de Portugal e provavelmente a milonga semanal mais antiga da Europa organizada por um bailarino de tango argentino.
 
 A sua missão é disseminar os fundamentos e raízes do Tango Social Argentino Tradicional e as experiências da milonga de Buenos Aires em Portugal.
-A Milonga d'A Barraca promove a ligação entre os ambientes das casas de Fado e a milonga, através de concertos regulares onde já atuaram importantes Fadistas. Um conjunto de experiências memoráveis desde a sua criação, valorizando as raízes culturais de ambos os países sem nunca perder o compromisso com o público, distingue a qualidade da Milonga d'A Barraca.
+A Milonga d'A Barraca promove a ligação entre os ambientes das casas de Fado e a milonga, através de concertos regulares onde já atuaram  Fadistas consagrados.&#x20;
+Um conjunto de experiências memoráveis desde a sua criação, valorizando as raízes culturais de ambos os países sem nunca perder o compromisso com o público, distingue a qualidade da Milonga d'A Barraca.
 
 A Pista, o Bar e a Sala estão prontos para continuar no caminho Tanguero que a Milonga d'A Barraca iniciou no final do século passado…
 
