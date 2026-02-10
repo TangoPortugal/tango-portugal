@@ -10,7 +10,6 @@ draft: false
 ## Aulas de Tango Argentino
 
 **Professor:** Ale Laguna e convidadas
-Nas aulas da escola da Barrca trabalhamos para criar as condições corporais a partir das quais o tango de Buenos Aires pode surgir.
 
 **Domingos 19.15** - 90 min aula - Nível Iniciados e Nível Aberto
 Valor 15tangos.
@@ -20,10 +19,20 @@ Laboratório destinado a mulheres que querem aprender o papel da condução de u
 
 **AULAS PARTICULARES**. Contactar o próprio por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)​
 
-_Se o movimento interno do corpo está organizado dentro da métrica musical  e a ‘marca’, então estão criadas as condições para que o ‘Tango_ comece _a vir sozinho’._&#x20;
+​
+
+**Aprender tango como se vive nas pistas de dança de Buenos Aires**
+
+Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície.
 
 ​
 
-Alejandro (natural de Buenos Aires) é um investigador argentino doutorado em Artes Performativas, Bailarino e Professor de Tango, Licenciado em Educação Musical e músico de dança especializado em Técnica de Dança Contemporânea e Moderna.&#x20;
-Formação em técnica de dança e em Gyrotonic Expanded System desde 2010 com a bailarina [Barbora Hruskova](https://www.cnb.pt/profile/barbora-hruskova/) (ex bailarina principal da CompanhÌa Nacional de Bailado).
-Organizador da [Milonga d'A Barraca](https://www.facebook.com/MilongadaBarraca/) uma das milongas tradicionais mais antigas e ativas no cenário mundial.&#x20;
+Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento em Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma l**icenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
+
+Com quase 30 anos de experiência no ensino do tango argentino, o seu trabalho está enraizado na tradição da dança social de Buenos Aires, com uma forte ênfase no abraço, na musicalidade e na compreensão incorporada do movimento tal como emerge na pista de dança.
+
+Alejandro especializou-se como **músico de dança** no contexto de aulas universitárias de técnica de dança contemporânea e moderna, trabalhando em estreita colaboração com professores de dança e proporcionando suporte musical-métrico em contexto académico. Esta experiência influencia fortemente a sua abordagem à estruturação do movimento, ao tempo e à consciência musical no ensino do tango.
+
+Possui sete anos de experiência de investigação pós-doutoral, através de uma **bolsa de pós-doutoramento** (Universidade de Aveiro e Universidade Nacional de La Plata), na área da análise do movimento e da interação entre conteúdos verbais e não verbais, com financiamento da Fundação para a Ciência e a Tecnologia (FCT), reforçando a sua capacidade de observar, analisar e transmitir processos complexos do movimento humano moldados por fatores perceptivos e psicológicos.
+
+**Praticante avançado do Gyrotonic Expansion System**, com formação com Barbora Hruskova, Ensaiadora principal do Corpo de Baile da Companhia Nacional de Bailado, o seu trabalho com este método contribuiu para um entendimento mais refinado da organização corporal, da eficiência e da clareza do movimento, aplicados diretamente à pedagogia do tango.
