@@ -13,11 +13,13 @@ Professor: Ale Laguna e convidadas&#x20;
 
 * **AULAS GRUPAIS**&#x20;
   **Domingos 19.15** | Nível Iniciados e Nível Aberto | 90 min.&#x20;
-  Valor 15tangos.&#x20;
+  Valor 15 tangos.&#x20;
 * **LADIES TANGO
   Segundas-Feiras 19:00** | Intermedias e Avançadas | 75 min.&#x20;
-  Aula-Laboratório destinado a mulheres com experiência de baile na milonga e que querem aprender a função tradicional do Homem da condução.&#x20;
+  Aula em formato laboratório destinado a mulheres com experiência de baile na milonga e que querem aprender a função tradicional do Homem da condução.&#x20;
+  Valor 15 tangos.&#x20;
 * **AULAS PARTICULARES**&#x20;
+  Todos os níveis | Aula de 60 minutos
   Contactar Alejandro por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
 ​
@@ -25,7 +27,6 @@ Professor: Ale Laguna e convidadas&#x20;
 **Aprender a dançar tango como em Buenos Aires**
 
 Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície.
-
 
 Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento** em **Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma l**icenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
 
