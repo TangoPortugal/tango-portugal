@@ -10,6 +10,19 @@ draft: false
 ---
 ## Argentine Tango Classes
 
+**Professor:** Ale Laguna and guest teachers
+
+**Sundays – 7:15 pm**
+90-minute class – _Beginners Level and Open Level_\
+**Fee:** 15 tangos
+
+**Mondays – 7:00 pm | LADIES TANGO**
+A laboratory for women who wish to learn the role of leading in a situated, embodied way.
+
+**PRIVATE LESSONS**
+Contact Alejandro via Instagram DM **@milongabarraca**
+or by email: **milongabarraca\@gmail.com**
+
 \
 **Learning tango as it lives on the dance floors of Buenos Aires**
 
