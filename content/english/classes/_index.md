@@ -16,9 +16,9 @@ draft: false
   Sundays – 7:15 pm** | 90-minute class | Beginners Level and Open Level
   **Fee:** 15 tangos
 * **LADIES TANGO&#x20;
-  Mondays – 7:00 pm** | 75-minute class | Intermediate and advanced level&#x20;**&#xA;Fee:** 15 tangos&#x20;
+  Mondays – 7:00 pm** | 75-minute class | Intermediate and advanced level **Fee:** 15 tangos&#x20;
   A laboratory for women who wish to learn the role of leading in a situated, embodied way.
-* **PRIVATE LESSONS&#xA;**&#x41;ll levels | 60-minute clas&#x73;**&#xA;**&#x43;ontact Alejandro via Instagram DM @milongabarraca or by email [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
+* **PRIVATE LESSONS&#xA;**&#x41;ll levels | 60-minute class&#x20;**&#xA;**&#x43;ontact Alejandro via Instagram DM @milongabarraca or by email [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
 \
 **Learning tango as it lives on the dance floors of Buenos Aires**
