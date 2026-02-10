@@ -9,18 +9,13 @@ draft: false
 ---
 ## Aulas de Tango Argentino
 
-**Professor:** Alejandro ‘Ale’  Laguna e convidadas
+Professor: Ale Laguna e convidadas&#x20;
 
+​
 
-* **GROUP CLASSES – Sundays 7:15 pm**
-  &#x20;Beginners Level and Open Level | 90 minutes
-  &#x20;**Fee:** 15 tangos
-* **LADIES TANGO – Mondays 7:00 pm**
-  &#x20;Intermediate and Advanced | 75 minutes
-  &#x20;A laboratory-style class for women with experience dancing at milongas who wish to learn the role of leading in a situated, embodied way.
-* **PRIVATE LESSONS**
-  &#x20;Contact Alejandro via Instagram DM **@milongabarraca**
-  &#x20;or by email: **milongabarraca\@gmail.com** &#x20;
+* AULAS GRUPAIS Domingos 19.15 | Nível Iniciados e Nível Aberto | 90 min. Valor 15tangos.&#x20;
+* LADIES TANGO Segundas-Feiras 19:00 | Intermedias e Avançadas | 75 min. Aula-Laboratório destinado a mulheres com experiência de baile na milonga e que querem aprender a função tradicional do Homem da condução.&#x20;
+* AULAS PARTICULARES. Contactar Alejandro por DM instagram @milongabarraca ou milongabarraca\@gmail.com
 
 ​
 
