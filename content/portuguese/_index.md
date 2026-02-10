@@ -20,7 +20,7 @@ features:
       Tango de Pista (2010) as noites desta milonga "respiram intimismo,
       camaradagem e aquela magia que só o tango sabe criar (…) A sua pista foi
       palco de gerações de tangueros que encontraram no seu ambiente íntimo e
-      autêntico o refúgio perfeito para se deixarem levar pela música.” (Março
+      autêntico o refúgio perfeito para se deixarem levar pela música” (Março
       2025). 
 
 
