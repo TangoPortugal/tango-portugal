@@ -17,7 +17,7 @@ Valor 15tangos.
 **Segundas-Feiras 19hs**. LADIES TANGO.&#x20;
 Laboratório destinado a mulheres que querem aprender o papel da condução de uma maneira situada.&#x20;
 
-**AULAS PARTICULARES**. Contactar o próprio por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)​
+**AULAS PARTICULARES**. Contactar Alejandro por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)​
 
 ​
 
