@@ -11,9 +11,10 @@ features:
   - title: Milonga d’A Barraca
     image: /images/ale/image03.jpg
     content: >
-      Fundada em 1999 no emblemático Teatro A Barraca Bar.  Sobe a direção
-      artística e curadoria de Alejandro Laguna, a Milonga d'A Barraca é o
-      espaço de tango argentino com maior longevidade em Lisboa. 
+      Na Argentina o termo Milonga refere ao espaço onde se dança socialmente o
+      tango. Fundada em 1999 no emblemático Teatro A Barraca Bar.  Sobe a
+      direção artística e curadoria de Alejandro Laguna, a Milonga d'A Barraca é
+      o espaço de tango argentino com maior longevidade em Lisboa. 
 
 
       Segundo Sebastián Jimenez, exímio bailarino argentino e Campeão Mundial de
@@ -90,6 +91,10 @@ draft: false
 ---
 ​
 
-​
+Na Argentina, o termo _milonga_ refere-se ao espaço onde se dança socialmente o tango. É também o nome de um ritmo que se dança nesse mesmo contexto.
 
-​
+Fundada em 1999 no emblemático Teatro A Barraca Bar, sob a direção artística e curadoria de Alejandro Laguna, a [Milonga d’A Barraca](https://www.facebook.com/MilongadaBarraca/) é o espaço de tango argentino com maior longevidade em Lisboa.
+
+Segundo Sebastián Jimenez, exímio bailarino argentino e Campeão Mundial de Tango de Pista (2010), as noites desta milonga “respiram intimismo, camaradagem e aquela magia que só o tango sabe criar (…)”. A sua pista foi palco de gerações de tangueros, que encontraram no seu ambiente íntimo e autêntico o refúgio perfeito para se deixarem levar pela música (Março de 2025).
+
+A Milonga d’A Barraca tornou-se um ponto de referência para tangueros, bailarinos, músicos e amantes do tango, mantendo uma tradição semanal que atravessa gerações. Hoje, continua a ser um pilar da cultura argentina na capital portuguesa.
