@@ -11,7 +11,7 @@ features:
   - title: Milonga d’A Barraca
     image: /images/ale/image03.jpg
     content: >
-      Fundada em 1999 no emblemático Teatro A Barraca Bar, sobe a direção
+      Fundada em 1999 no emblemático Teatro A Barraca Bar.  Sobe a direção
       artística e curadoria de Alejandro Laguna, a Milonga d'A Barraca é o
       espaço de tango argentino com maior longevidade em Lisboa. 
 
