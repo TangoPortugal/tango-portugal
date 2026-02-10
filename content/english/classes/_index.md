@@ -1,8 +1,9 @@
 ---
-title: 
+title:
 meta_title: Argentine Tango Classes
 description: >-
-    Learn Argentine Tango from Alejandro Laguna, a professional dancer and instructor with decades of experience in traditional tango and dance technique.
+  Learn Argentine Tango from Alejandro Laguna, a professional dancer and
+  professor with decades of experience in traditional tango and dance technique.
 image: /images/ale/image01.jpg
 layout: about
 draft: false
