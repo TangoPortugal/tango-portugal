@@ -18,8 +18,8 @@ features:
 
 
       Founded in 1999 at the emblematic Teatro A Barraca Bar, under the artistic
-      direction and curatorship of Alejandro Laguna, the Milonga d’A Barraca is
-      the longest-running Argentine tango venue in Lisbon.
+      direction and curatorship of Argentinian Alejandro Laguna, the Milonga d’A
+      Barraca is the longest-running Argentine tango venue in Portugal.
 
 
 
