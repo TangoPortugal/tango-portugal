@@ -25,8 +25,6 @@ Laboratório destinado a mulheres que querem aprender o papel da condução de u
 
 Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície.
 
-​
-
 Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento em Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma l**icenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
 
 Com quase 30 anos de experiência no ensino do tango argentino, o seu trabalho está enraizado na tradição da dança social de Buenos Aires, com uma forte ênfase no abraço, na musicalidade e na compreensão incorporada do movimento tal como emerge na pista de dança.
