@@ -9,7 +9,8 @@ draft: false
 ## Milonga d'A Barraca
 
 * **Quando?** Todos os Domingos
-* **A que horas?** Portas abrem às 21:00 | Até às 00:45
+* **A que horas?** 21:00 | Até às 00:45
+* Com **aula prévia de Tango** às 19:15
 * **Onde?** [Teatro Cinearte-Bar](https://maps.app.goo.gl/Fcac4HUNHcickdCb7), Largo de Santos, 2, 1200-808 Lisboa
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
