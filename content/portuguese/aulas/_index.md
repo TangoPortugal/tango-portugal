@@ -11,13 +11,9 @@ draft: false
 
 Professor: Ale Laguna e convidadas&#x20;
 
-​
-
 * AULAS GRUPAIS Domingos 19.15 | Nível Iniciados e Nível Aberto | 90 min. Valor 15tangos.&#x20;
 * LADIES TANGO Segundas-Feiras 19:00 | Intermedias e Avançadas | 75 min. Aula-Laboratório destinado a mulheres com experiência de baile na milonga e que querem aprender a função tradicional do Homem da condução.&#x20;
 * AULAS PARTICULARES. Contactar Alejandro por DM instagram @milongabarraca ou milongabarraca\@gmail.com
-
-​
 
 ​
 
