@@ -11,7 +11,10 @@ draft: false
 ## Argentine Tango Classes
 
 \
-**“Learning tango as it lives on the dance floors of Buenos Aires.”**
+**Learning tango as it lives on the dance floors of Buenos Aires**
+
+For me, tango is first and foremost a lived, shared experience: a social dance rooted in the embrace, musical feeling, and the joyful energy of the Buenos Aires dance floor. In my teaching, I aim to recreate that sense of spontaneity, playfulness, and celebration — tango as something lived with others, not performed or analyzed on the surface.
+
 
 Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD in Performing Arts** (Évora University) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree in Music Education** (Évora University-Higher Conservatory of Music of Buenos Aires)**.**
 
