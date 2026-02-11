@@ -20,7 +20,7 @@ draft: false
 
 * **Entry**: 8 tangos&#x20;
 
-The project is directed by Professor Alejandro Laguna, researcher, PhD holder, and professional dancer from Buenos Aires.
+The project is directed by Alejandro Laguna, practitioner-researcher, PhD holder, degree in music education and professional dancer and teacher from Buenos Aires.
 
 Founded in July 1999, it is the oldest milonga in Portugal and likely the oldest weekly milonga in Europe organized by an Argentine tango dancer.
 
