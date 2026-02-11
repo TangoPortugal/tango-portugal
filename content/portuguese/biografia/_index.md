@@ -1,6 +1,6 @@
 ---
 title: Biografia
-meta_title: Alejandro Laguna
+meta_title: Alejandro Laguna.
 description: >-
   Alejandro é um investigador argentino (Buenos Aires) doutorado em Artes
   performativas Bailarino e Professor Profissional de Tango, Licenciado em
