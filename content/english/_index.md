@@ -7,7 +7,7 @@ features:
     button:
       enable: true
       label: Biography
-      link: https://TangoPortugal.github.io/tango-portugal/en/about
+      link: https://TangoPortugal.github.io/tango-portugal/en/biography
   - title: Milonga d'A Barraca
     image: /images/ale/image03.jpg
     content: >+
@@ -63,7 +63,7 @@ features:
     button:
       enable: true
       label: Tango & Fado
-      link: https://TangoPortugal.github.io/tango-portugal/en/fado-and-tango
+      link: https://TangoPortugal.github.io/tango-portugal/en/tango-and-fado
 ---
 In Argentina and Uruguay, the term milonga refers to the space where tango is danced socially. It is also the name of a rhythm danced within that same context.
 
