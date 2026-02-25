@@ -1,15 +1,11 @@
 ---
-title:
-meta_title: Argentine Tango Classes
-description: >-
-  Learn Argentine Tango from Alejandro Laguna, a professional dancer and
-  professor with decades of experience in traditional tango and dance technique.
+title: "Argentine Tango Classes"
+meta_title: "Argentine Tango Classes in Lisbon | Alejandro Laguna – Group & Private Lessons"
+description: "Learn Argentine Tango in Lisbon with Alejandro Laguna. Group classes on Sundays, Ladies Tango on Mondays, and private lessons for all levels. Dance tango as it lives in Buenos Aires."
 image: /images/ale/image01.jpg
 layout: about
 draft: false
 ---
-## Argentine Tango Classes
-
 **Professor:** Ale Laguna and guest teachers
 
 * **GROUP CLASSES

@@ -1,4 +1,8 @@
 ---
+title: "Tango Argentino em Lisboa"
+meta_title: "Tango Argentino em Lisboa | Alejandro Laguna – Milonga, Aulas e Tango & Fado"
+description: "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango para todos os níveis, Milonga d'A Barraca desde 1999 – a milonga mais antiga de Portugal – e o projeto Tango & Fado. A referência do tango argentino em Portugal."
+image: /images/ale/image05.jpg
 features:
   - title: Alejandro Laguna
     image: /images/ale/image05.jpg
@@ -7,7 +11,7 @@ features:
     button:
       enable: true
       label: Biografia
-      link: https://TangoPortugal.github.io/tango-portugal/biografia
+      link: /biografia
   - title: Milonga d’A Barraca
     image: /images/ale/image03.jpg
     content: >+
@@ -46,7 +50,7 @@ features:
     button:
       enable: true
       label: Milonga
-      link: https://TangoPortugal.github.io/tango-portugal/milonga
+      link: /milonga
   - title: Aprender e viver o Tango
     image: /images/ale/image01.jpg
     content: >-
@@ -70,7 +74,7 @@ features:
     button:
       enable: true
       label: Aulas
-      link: https://TangoPortugal.github.io/tango-portugal/aulas
+      link: /aulas
   - title: Um Abraço Dançado em Fado
     image: /images/ale/image06.jpg
     content: >-
@@ -99,7 +103,7 @@ features:
     button:
       enable: true
       label: Tango e Fado
-      link: https://TangoPortugal.github.io/tango-portugal/tango-e-fado
+      link: /tango-e-fado
 draft: false
 ---
 ​

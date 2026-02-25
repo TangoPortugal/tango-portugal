@@ -1,15 +1,11 @@
 ---
-title:
-meta_title: Milonga d'A Barraca
-description: Europe's oldest weekly traditional milonga organized by an
-  Argentine tango dancer, featuring social tango dancing and live fado
-  performances.
+title: "Milonga d'A Barraca"
+meta_title: "Milonga d'A Barraca | Portugal's Oldest Milonga – Argentine Tango in Lisbon"
+description: "Milonga d'A Barraca, founded in 1999, is Portugal's oldest Argentine tango milonga. Every Sunday at Teatro Cinearte, Lisbon. Pre-milonga tango class at 7:15 PM, milonga at 9:00 PM."
 image: /images/ale/image03.jpg
 layout: about
 draft: false
 ---
-## Milonga d'A Barraca
-
 * **When?** Every Sunday
 * **What time?** Doors open at 9:00 PM | Until 12:45 AM
 * **Where?** [Teatro Cinearte](https://maps.app.goo.gl/Fcac4HUNHcickdCb7) Bar, Largo de Santos, 2, 1200-808 Lisbon&#x20;

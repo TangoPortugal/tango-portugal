@@ -1,5 +1,5 @@
 baseURL = "https://tangoportugal.com"
-title = "Alejandro Laguna"
+title = "Tango Argentino em Lisboa | Alejandro Laguna – Milonga, Aulas e Tango & Fado em Portugal"
 theme = "hugoplate"
 timeZone = "Europe/Lisbon"
 summaryLength = 10
@@ -7,6 +7,12 @@ disableLanguages = []
 hasCJKLanguage = false
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 [services.googleAnalytics]
 ID = "G-MEASUREMENT_ID"
 [services.disqus]

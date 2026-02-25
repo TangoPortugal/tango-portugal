@@ -4,6 +4,11 @@ languageName = "🇵🇹 PT"
 languageCode = "pt-pt"
 contentDir = "content/portuguese"
 weight = 1
+title = "Tango Argentino em Lisboa | Alejandro Laguna – Milonga, Aulas e Tango & Fado em Portugal"
+
+[pt.params]
+description = "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango para todos os níveis, Milonga d'A Barraca desde 1999, e o projeto Tango & Fado. A referência do tango argentino em Portugal."
+keywords = ["tango argentino lisboa", "aulas de tango lisboa", "milonga lisboa", "tango portugal", "milonga tradicional", "tango e fado", "professor de tango lisboa", "aprender tango lisboa", "dançar tango portugal", "milonga d'a barraca", "alejandro laguna"]
 
 ################ English language ##################
 [en]
@@ -11,3 +16,8 @@ languageName = "🇬🇧 EN"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
+title = "Argentine Tango in Lisbon | Alejandro Laguna – Milonga, Classes & Tango and Fado in Portugal"
+
+[en.params]
+description = "Argentine Tango in Lisbon with Alejandro Laguna. Professional tango classes for all levels, Milonga d'A Barraca since 1999, and the Tango & Fado project. The reference for Argentine Tango in Portugal."
+keywords = ["argentine tango lisbon", "tango classes lisbon", "milonga lisbon", "tango portugal", "traditional milonga", "tango and fado", "tango teacher lisbon", "learn tango lisbon", "tango dance portugal", "milonga d'a barraca", "alejandro laguna tango"]

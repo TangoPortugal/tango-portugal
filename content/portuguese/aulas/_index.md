@@ -1,14 +1,11 @@
 ---
-title:
-meta_title: Aulas de Tango Argentino
-description: >
-
+title: "Aulas de Tango Argentino"
+meta_title: "Aulas de Tango Argentino em Lisboa | Alejandro Laguna – Grupais e Particulares"
+description: "Aulas de tango argentino em Lisboa com Alejandro Laguna. Aulas grupais ao Domingo, Ladies Tango à Segunda, e aulas particulares para todos os níveis. Aprenda a dançar tango como em Buenos Aires."
 image: /images/ale/image01.jpg
 layout: about
 draft: false
 ---
-## Aulas de Tango Argentino
-
 Professor: Ale Laguna e convidadas&#x20;
 
 * **AULAS GRUPAIS**&#x20;

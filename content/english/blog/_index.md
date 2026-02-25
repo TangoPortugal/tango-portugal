@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Blog"
+meta_title: "Blog | Argentine Tango in Lisbon – Articles & News"
+description: "Articles about Argentine Tango, milonga, dance and porteño culture in Lisbon and Portugal by Alejandro Laguna."
 ---

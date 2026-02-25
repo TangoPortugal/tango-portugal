@@ -17,9 +17,9 @@ show_description = true
 show_tags = true
 show_categories = true
 [metadata]
-keywords = ["Argentine Tango Lisbon", "Tango Classes Lisbon", "Milonga Lisbon", "Tango Portugal", "Traditional Milonga", "Tango and Fado", "Tango Teacher", "Tango Salon", "Villa Urquiza Style"]
-description = "Argentine Tango in Lisbon with Alejandro Laguna. Professional classes, Milonga d'A Barraca since 1999. Where authentic Tango meets Fado in Portugal's capital."
-author = "guzmanlopez"
+keywords = ["tango argentino lisboa", "aulas de tango lisboa", "milonga lisboa", "tango portugal", "milonga tradicional", "tango e fado", "professor de tango", "tango salón", "villa urquiza", "aprender tango lisboa", "dançar tango portugal", "milonga d'a barraca", "alejandro laguna tango", "tango classes lisbon", "argentine tango lisbon", "milonga lisbon", "tango lessons portugal", "learn tango lisbon", "tango dance lisbon"]
+description = "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango, Milonga d'A Barraca desde 1999, e o projeto Tango & Fado. A referência do tango argentino em Portugal."
+author = "Alejandro Laguna"
 [cookies]
 enable = false
 expire_days = 60

@@ -1,13 +1,11 @@
 ---
-title: null
-meta_title: Milonga d'A Barraca
-description: ''
+title: "Milonga d'A Barraca"
+meta_title: "Milonga d'A Barraca | A Milonga Mais Antiga de Portugal – Tango Argentino em Lisboa"
+description: "A Milonga d'A Barraca, fundada em 1999, é a milonga de tango argentino mais antiga de Portugal. Todos os Domingos no Teatro Cinearte, Lisboa. Aula prévia de tango às 19:15, milonga às 21:00."
 image: /images/ale/image03.jpg
 layout: about
 draft: false
 ---
-## Milonga d'A Barraca
-
 * **Quando?** Todos os Domingos
 * **A que horas?** 21:00 | Até às 00:45
 * **Aula prévia de Tango** às 19:15

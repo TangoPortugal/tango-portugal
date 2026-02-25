@@ -1,12 +1,12 @@
 ---
 title: "Gesto Visual e Sonoro na Comunicação da Dança"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Gesto Visual e Sonoro na Comunicação da Dança | Alejandro Laguna"
+description: "Artigo sobre o gesto visual e sonoro na comunicação da dança do tango argentino por Alejandro Laguna."
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
+categories: ["Tango", "Investigação"]
 author: "Alejandro Laguna"
-tags: ["tango", "dança"]
+tags: ["tango", "dança", "comunicação", "movimento"]
 draft: false
 ---
 
