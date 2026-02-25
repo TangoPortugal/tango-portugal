@@ -2,7 +2,7 @@
 title: "Tango e Fado"
 meta_title: "Tango e Fado | Um Abraço Dançado em Fado – Alejandro Laguna e Camila Delphim"
 description: "Tango e Fado – Um Abraço Dançado em Fado. Projeto artístico de Alejandro Laguna e Camila Delphim que une o tango argentino e o fado português. Semifinalistas do Got Talent Portugal 2024."
-image: /images/ale/image06.jpg
+image:
 layout: about
 draft: false
 ---
