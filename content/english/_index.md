@@ -1,8 +1,12 @@
 ---
 title: "Argentine Tango in Lisbon"
-meta_title: "Argentine Tango in Lisbon | Alejandro Laguna – Milonga, Classes & Tango and Fado"
-description: "Argentine Tango in Lisbon with Alejandro Laguna. Professional tango classes for all levels, Milonga d'A Barraca since 1999 – Portugal's oldest milonga – and the Tango & Fado project. The reference for Argentine Tango in Portugal."
-image: /images/ale/image05.jpg
+meta_title: "Argentine Tango in Lisbon | Alejandro Laguna – Milonga, Classes &
+  Tango and Fado"
+description: "Argentine Tango in Lisbon with Alejandro Laguna. Professional
+  tango classes for all levels, Milonga d'A Barraca since 1999 – Portugal's
+  oldest milonga – and the Tango & Fado project. The reference for Argentine
+  Tango in Portugal."
+image: /images/Alejandro Laguna. Tango in Lisbon. Milonga d'A Barraca_copy(1).jpg
 features:
   - title: Alejandro Laguna
     image: /images/ale/image05.jpg
@@ -68,6 +72,13 @@ features:
       enable: true
       label: Tango & Fado
       link: /en/tango-and-fado
+  - title: ""
+    image: ""
+    content: ""
+    bulletpoints: []
+    button:
+      label: ""
+      link: ""
 ---
 In Argentina and Uruguay, the term milonga refers to the space where tango is danced socially. It is also the name of a rhythm danced within that same context.
 
