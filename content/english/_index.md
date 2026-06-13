@@ -10,7 +10,7 @@ image: /images/Alejandro Laguna. Tango in Lisbon. Milonga d'A Barraca_copy(1).jp
 features:
   - title: Alejandro Laguna
     image: /images/ale/image05.jpg
-    content: The Name of Argentine Tango in Portugal's Capital.
+    content: The Name of Argentine Social Tango in Portugal's Capital.
     bulletpoints: []
     button:
       enable: true
