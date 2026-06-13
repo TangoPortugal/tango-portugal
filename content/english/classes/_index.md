@@ -44,7 +44,9 @@ _I do not teach to impress. I reveal knowledge through your own body._<br />​
 
 Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD** in **Performing Arts** (University of Évora) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree** in **Music Education** (University of Évora / Higher Conservatory of Music of Buenos Aires)**.&#xA;**
 
-**Experience and Background&#xA;**&#xA;With almost 30 years of experience teaching Argentine tang&#x6F;**,** his work is grounded in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and the embodied understanding of movement as it emerges on the dance floor.
+**Experience and Background**  
+
+With almost 30 years of experience teaching Argentine tang&#x6F;**,** his work is grounded in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and the embodied understanding of movement as it emerges on the dance floor.
 
 Alejandro specialized as a **dance musician** within university-level contemporary and modern dance technique classes, working closely with dance teachers and providing musical-metrical support in an academic context. This experience strongly informs his approach to structuring movement, timing, and musical awareness in tango teaching.
 
