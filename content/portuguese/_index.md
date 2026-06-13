@@ -1,12 +1,15 @@
 ---
 title: "Tango Argentino em Lisboa"
 meta_title: "Tango Argentino em Lisboa | Alejandro Laguna – Milonga, Aulas e Tango & Fado"
-description: "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango para todos os níveis, Milonga d'A Barraca desde 1999 – a milonga mais antiga de Portugal – e o projeto Tango & Fado. A referência do tango argentino em Portugal."
+description: "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango
+  para todos os níveis, Milonga d'A Barraca desde 1999 – a milonga mais antiga
+  de Portugal – e o projeto Tango & Fado. A referência do tango argentino em
+  Portugal."
 image: /images/ale/image05.jpg
 features:
   - title: Alejandro Laguna
     image: /images/ale/image05.jpg
-    content: O Nome do Tango Argentino na Capital Portuguesa
+    content: O Nome do Tango Social Argentino na Capital Portuguesa
     bulletpoints: []
     button:
       enable: true
@@ -106,8 +109,6 @@ features:
       link: /tango-e-fado
 draft: false
 ---
-​
-
 Na Argentina, o termo _milonga_ refere-se ao espaço onde se dança socialmente o tango. É também o nome de um ritmo que se dança nesse mesmo contexto.
 
 Fundada em 1999 no emblemático **Teatro A Barraca Bar**, sob a direção artística e curadoria de Alejandro Laguna, a **Milonga d'A Barraca** é o espaço de tango argentino com maior longevidade em Lisboa.
