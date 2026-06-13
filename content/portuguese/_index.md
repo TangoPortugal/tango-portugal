@@ -7,7 +7,7 @@ description: "Tango Argentino em Lisboa com Alejandro Laguna. Aulas de tango
   Portugal."
 image: /images/ale/image05.jpg
 features:
-  - title: Alejandro Laguna
+  - title: Alejandro 'Ale' Laguna
     image: /images/ale/image05.jpg
     content: O Nome do Tango Social Argentino na Capital Portuguesa
     bulletpoints: []
