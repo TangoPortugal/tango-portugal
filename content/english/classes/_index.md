@@ -22,7 +22,7 @@ draft: false
 \
 **Learning tango as it lives on the dance floors of Buenos Aires**
 
-_For me, tango is first and foremost a lived, shared experience: a social dance rooted in the embrace, musical feeling, and the joyful energy of the Buenos Aires dance floor. In my teaching, I aim to recreate that sense of spontaneity, playfulness, and celebration — tango as something lived with others, not performed or analyzed on the surface._
+_For me, social tango is first and foremost a lived, shared experience: a social dance rooted in the embrace, musical feeling, and the joyful energy of the Buenos Aires dance floor. In my teaching, I aim to recreate that sense of spontaneity, playfulness, and celebration — tango as something lived with others, not performed or analyzed on the surface.&#xA;_
 
 **What Will You Learn With Me?**
 
@@ -40,11 +40,11 @@ _Living for so many years in Lisbon has allowed me to observe tango from a compa
 
 _For this reason, my classes are essentially personalized. Every body feels, perceives, is emotionally affected, and learns in a unique way._
 
-_I do not teach to impress. I reveal knowledge through your own body._
-<br />
+_I do not teach to impress. I reveal knowledge through your own body._<br />​
 
-Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD** in **Performing Arts** (University of Évora) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree** in **Music Education** (University of Évora / Higher Conservatory of Music of Buenos Aires)**.**
+Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD** in **Performing Arts** (University of Évora) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree** in **Music Education** (University of Évora / Higher Conservatory of Music of Buenos Aires)**.&#xA;**
 
+**Experience and Background**
 With almost 30 years of experience teaching Argentine tang&#x6F;**,** his work is grounded in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and the embodied understanding of movement as it emerges on the dance floor.
 
 Alejandro specialized as a **dance musician** within university-level contemporary and modern dance technique classes, working closely with dance teachers and providing musical-metrical support in an academic context. This experience strongly informs his approach to structuring movement, timing, and musical awareness in tango teaching.
