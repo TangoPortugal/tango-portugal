@@ -38,13 +38,15 @@ _In my classes, you will not hear abstract theories or repeated formulas. Every 
 
 _Living for so many years in Lisbon has allowed me to observe tango from a comparative perspective and to perceive deep details in the way tango is felt and physically organized in Buenos Aires._
 
-_For this reason, my classes are essentially personalized. Every body feels, perceives, is emotionally affected, and learns in a unique way._
+_Every body perceives, learns, and incorporates tango in a unique way. This is why my classes seek to create the conditions for the body to discover and incorporate ways of moving that are characteristic of Argentine tango._
 
-_I do not teach to impress. I reveal knowledge through your own body._<br />​
+_​_<br />​
+
+**Short Biography**
 
 Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD** in **Performing Arts** (University of Évora) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree** in **Music Education** (University of Évora / Higher Conservatory of Music of Buenos Aires)**.&#xA;**
 
-**Experience and Background**  
+**Experience and Background**
 
 With almost 30 years of experience teaching Argentine tang&#x6F;**,** his work is grounded in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and the embodied understanding of movement as it emerges on the dance floor.
 
