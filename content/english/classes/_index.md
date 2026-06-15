@@ -40,7 +40,7 @@ _Living for so many years in Lisbon has allowed me to observe tango from a compa
 
 _Every body perceives, learns, and incorporates tango in a unique way. This is why my classes seek to create the conditions for the body to discover and incorporate ways of moving that are characteristic of Argentine tango._
 
-_​_<br />​
+​<br />**​**
 
 **Short Biography**
 
