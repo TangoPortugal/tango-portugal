@@ -1,7 +1,10 @@
 ---
 title: "Aulas de Tango Argentino"
-meta_title: "Aulas de Tango Argentino em Lisboa | Alejandro Laguna – Grupais e Particulares"
-description: "Aulas de tango argentino em Lisboa com Alejandro Laguna. Aulas grupais ao Domingo, Ladies Tango à Segunda, e aulas particulares para todos os níveis. Aprenda a dançar tango como em Buenos Aires."
+meta_title: "Aulas de Tango Argentino em Lisboa | Alejandro Laguna – Grupais e
+  Particulares"
+description: "Aulas de tango argentino em Lisboa com Alejandro Laguna. Aulas
+  grupais ao Domingo, Ladies Tango à Segunda, e aulas particulares para todos os
+  níveis. Aprenda a dançar tango como em Buenos Aires."
 image: /images/ale/image01.jpg
 layout: about
 draft: false
@@ -17,13 +20,25 @@ Professor: Ale Laguna e convidadas&#x20;
   Valor 15 tangos.&#x20;
 * **AULAS PARTICULARES**&#x20;
   Todos os níveis | Aula de 60 minutos
-  Contactar Alejandro por DM instagram @milongabarraca ou [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
+  Contactar Alejandro por DM instagram @milongabarraca ou <milongabarraca@gmail.com>
 
-​
+**Aprender a dançar tango como em Buenos Aires** &#x20;
 
-**Aprender a dançar tango como em Buenos Aires**
+_Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície._
 
-Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície.
+**O que vais aprender comigo?**&#x20;
+
+_Nas minhas aulas, vais aprender como o tango argentino se organiza através do corpo, da música e do abraço._
+
+_Comigo, entrarás em contacto com uma linguagem interior do corpo e do abraço, da qual nasce uma forma de dançar, de escutar a música e de te relacionares com a outra pessoa na pista._
+
+_Aprenderás a sentir como a música transforma o movimento, o abraço e a ligação emocional com a outra pessoa._
+
+_Tudo o que ensino nasce de experiências reais e de uma profunda reflexão a partir do meu próprio corpo, desenvolvidas ao longo de quase trinta anos a dançar, observar e viver o tango da milonga de Buenos Aires._
+
+_Cada corpo percebe, aprende e incorpora o tango de forma única. É por isto que as minhas aulas procuram criar as condições para que o corpo descubra e incorpore formas de movimento próprias do tango argentino.&#xA;_
+
+**Short Biography**&#x20;
 
 Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento** em **Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma l**icenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
 
