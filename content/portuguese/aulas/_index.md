@@ -36,13 +36,11 @@ _Aprenderás a sentir como a música transforma o movimento, o abraço e a liga�
 
 _Tudo o que ensino nasce de experiências reais e de uma profunda reflexão a partir do meu próprio corpo, desenvolvidas ao longo de quase trinta anos a dançar, observar e viver o tango da milonga de Buenos Aires._
 
-_Cada corpo percebe, aprende e incorpora o tango de forma única. É por isto que as minhas aulas procuram criar as condições para que o corpo descubra e incorpore formas de movimento próprias do tango argentino.&#xA;_
+_Cada corpo percebe, aprende e incorpora o tango de forma única. É por isto que as minhas aulas procuram criar as condições para que o corpo descubra e incorpore formas de movimento próprias do tango argentino._
 
-**Breve Biografia**
+**&#xA;Breve Biografia**
 
 Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento** em **Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma **Licenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
-
-**​**
 
 **Breve Percurso artístico e profissional**&#x20;
 
