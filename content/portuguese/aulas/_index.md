@@ -38,9 +38,13 @@ _Tudo o que ensino nasce de experiências reais e de uma profunda reflexão a pa
 
 _Cada corpo percebe, aprende e incorpora o tango de forma única. É por isto que as minhas aulas procuram criar as condições para que o corpo descubra e incorpore formas de movimento próprias do tango argentino.&#xA;_
 
-**Short Biography**&#x20;
+**Breve Biografia**
 
-Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento** em **Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma l**icenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
+Alejandro é um **practitioner-researcher** argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa, com **doutoramento** em **Artes Performativas** (Universidade de Évora), centrado no conhecimento não verbal e interdisciplinar, e com uma **Licenciatura em Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
+
+**​**
+
+**Breve Percurso artístico e profissional**&#x20;
 
 Com quase 30 anos de experiência no ensino do tango argentino, o seu trabalho está enraizado na tradição da dança social de Buenos Aires, com uma forte ênfase no abraço, na musicalidade e na compreensão incorporada do movimento tal como emerge na pista de dança.
 
