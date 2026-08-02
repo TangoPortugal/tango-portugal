@@ -13,9 +13,37 @@ image: /images/ale/image04.png
 layout: about
 draft: false
 ---
-## Dr. Alejandro César Grosso Laguna
+Dr. Alejandro César Grosso Laguna
 
-**Alejandro Laguna** é um **artista e investigador-praticante** argentino (nascido em Buenos Aires), atuando no campo da **psicologia da dança e da música**, com particular interesse na comunicação multimodal e no papel do conhecimento não proposicional na epistemologia da Arte.&#x20;
+
+
+#### **Resumo**
+
+Bailarino de Tango Argentino (Buenos Aires) e investigador em Artes Performativas dedicado à transmissão da cultura do Tango Argentino, Alejandro Laguna mantém uma participação ativa nas milongas sociais tradicionais de Buenos Aires há quase três décadas.
+
+Desde 1999, desenvolve em Lisboa uma das comunidades de Tango Argentino mais duradouras da Europa através da Milonga d'A Barraca, promovendo simultaneamente um diálogo cultural singular entre o Tango Argentino e o Fado.
+
+É doutorado em Estudos Artísticos (Artes Performativas), licenciado em Educação Musical, possui formação avançada em dança e no Método Gyrotonic®, e desenvolve investigação sobre movimento, comunicação e prática artística.
+
+#### Nota autobiográfica
+
+Venho de uma família ligada às artes — pintores, escritores, músicos e boémios. Tanto o meu pai, natural da cidade de Buenos Aires (atual CABA), como a minha mãe, da província de Buenos Aires, viveram a época de ouro do tango, crescendo ao som das grandes orquestras típicas e cantores das décadas de 1940 e 1950.
+
+Conheço o tango desde criança, ouvindo a minha avó Amália cantar em sua casa. Em criança, acompanhava música clássica percutindo panelas e, aos 9 anos, seguia atentamente programas de televisão dedicados a ritmos de dança, copiando os seus passos.
+
+Aos 12 anos, comecei a estudar guitarra para poder tocar a música dos The Beatles e, dois anos depois, formei a minha primeira banda de rock. A partir dos 16 anos, interessei-me pelo folclore argentino e pela bossa nova.\
+&#x20;Aos 18 anos, iniciei os meus estudos de música e guitarra no Conservatório Superior de Música e na Faculdade de Belas-Artes de Buenos Aires, tendo obtido a licenciatura em Música em 1990. Em 1996, comecei a aprender tango com Carlos Borquez, Inés Borquez e Aurora Lubiz.
+
+Em 1998, fundei aquela que é amplamente reconhecida pelo público tanguero lisboeta como a primeira milonga em Portugal. Em julho de 1999, fundei — juntamente com Solange Galvão — a icónica Milonga d’A Barraca, no bairro de Santos. Desde então, o projeto, dedicado à divulgação da cultura porteña da milonga e da dança social do tango, continua sob a minha curadoria e direção artística. Em julho de 2024, a Milonga d’A Barraca celebrou o seu 25.º aniversário.
+
+Em 2007, iniciei os meus estudos de doutoramento, tendo obtido o grau de Doutor no início de 2013 pela Universidade de Évora. Estes estudos foram financiados por uma bolsa internacional da Fundação para a Ciência e a Tecnologia (FCT).\
+Em 2015, foi-me atribuída uma bolsa internacional da FCT para realizar investigação de pós-doutoramento durante sete anos, entre a Universidade de Aveiro, em Portugal, e a Universidade Nacional de La Plata, na Argentina, especializando-me na análise do movimento dançado (em contextos com música), nas suas dimensões emocionais e nas formas não verbais e intersubjetivas da comunicação.
+
+Em 2022, iniciei uma parceria artística com a bailarina Camila Delphim, com o objetivo de mergulhar na emoção do Fado e encontrar formas de a expressar através da dança. Este projeto baseia-se na nossa experiência anterior com o tango e nas visitas regulares a casas de Fado, sendo apresentado sob o título “Um Abraço Dançado em Fado”.
+
+#### Percurso Profissional, Artístico e Académico&#x20;
+
+Alejandro é um artista e investigador-praticante argentino (nascido em Buenos Aires), atuando no campo da psicologia da dança e da música, com particular interesse na comunicação multimodal e no papel do conhecimento não proposicional na epistemologia da Arte.&#x20;
 
 É bailarino e professor profissional de tango argentino e desenvolve investigação sobre o movimento dançado, com especialização na análise das interações entre formas verbais e não verbais de comunicação. As suas metodologias pedagógicas são diretamente informadas pela articulação entre prática artística e investigação.
 
@@ -31,23 +59,7 @@ Especializou-se como músico de dança no contexto das aulas de técnica de dan�
 
 O seu trabalho atual centra-se na _reconfiguração artística colaborativa do tango em diálogo com o Fado_ (2023), integrada num programa mais amplo de investigação sobre o conhecimento não proposicional na prática artística (_“How to think of art from the body?”_). A sua metodologia de [análise microanalítica](http://visual-spatial-indicators.tumblr.com/) do movimento e da voz encontra-se indexada em plataformas internacionais de referência como a [APA PsycNet](https://psycnet.apa.org/record/2025-91177-006) e a [ERIC](https://eric.ed.gov/?id=EJ1427658).&#x20;
 
-### Resumo Autobiográfico
-
-Venho de uma família ligada às artes — pintores, escritores, músicos e boémios. Tanto o meu pai, natural da cidade de Buenos Aires (atual CABA), como a minha mãe, da província de Buenos Aires, viveram a época de ouro do tango, crescendo ao som das grandes orquestras típicas e cantores das décadas de 1940 e 1950.
-
-Conheço o tango desde criança, ouvindo a minha avó Amália cantar em sua casa. Em criança, acompanhava música clássica percutindo panelas e, aos 9 anos, seguia atentamente programas de televisão dedicados a ritmos de dança, copiando os seus passos.
-
-Aos 12 anos, comecei a estudar guitarra para poder tocar a música dos The Beatles e, dois anos depois, formei a minha primeira banda de rock. A partir dos 16 anos, interessei-me pelo folclore argentino e pela bossa nova.
-&#x20;Aos 18 anos, iniciei os meus estudos de música e guitarra no Conservatório Superior de Música e na Faculdade de Belas-Artes de Buenos Aires, tendo obtido a licenciatura em Música em 1990. Em 1996, comecei a aprender tango com Carlos Borquez, Inés Borquez e Aurora Lubiz.
-
-Em 1998, fundei aquela que é amplamente reconhecida pelo público tanguero lisboeta como a primeira milonga em Portugal. Em julho de 1999, fundei — juntamente com Solange Galvão — a icónica Milonga d’A Barraca, no bairro de Santos. Desde então, o projeto, dedicado à divulgação da cultura porteña da milonga e da dança social do tango, continua sob a minha curadoria e direção artística. Em julho de 2024, a Milonga d’A Barraca celebrou o seu 25.º aniversário.
-
-Em 2007, iniciei os meus estudos de doutoramento, tendo obtido o grau de Doutor no início de 2013 pela Universidade de Évora. Estes estudos foram financiados por uma bolsa internacional da Fundação para a Ciência e a Tecnologia (FCT).
-Em 2015, foi-me atribuída uma bolsa internacional da FCT para realizar investigação de pós-doutoramento durante sete anos, entre a Universidade de Aveiro, em Portugal, e a Universidade Nacional de La Plata, na Argentina, especializando-me na análise do movimento dançado (em contextos com música), nas suas dimensões emocionais e nas formas não verbais e intersubjetivas da comunicação.
-
-Em 2022, iniciei uma parceria artística com a bailarina Camila Delphim, com o objetivo de mergulhar na emoção do Fado e encontrar formas de a expressar através da dança. Este projeto baseia-se na nossa experiência anterior com o tango e nas visitas regulares a casas de Fado, sendo apresentado sob o título “Um Abraço Dançado em Fado”.
-
-### Bailarino Profissional de Tango
+#### Bailarino Profissional de Tango
 
 Desde o final da década de 1990, comecei a estudar tango com notáveis bailarinos argentinos, entre os quais Aurora Lubiz, Carlos Borquez, Inés Borquez, Nélida Miglione, Jorge Ramirez, Sergio Natário, Alejandra Arrué e Ana María Schapira. A minha formação é sustentada por mais de 25 anos de experiência a dançar em algumas das mais importantes milongas de Buenos Aires, como El Beso, Salón Canning, Lo de Celia, entre muitas outras.
 
@@ -55,13 +67,13 @@ Desde 2015, tenho investigado academicamente as raízes e os fundamentos do esti
 
 Desde 2017, estudo Tango Salón (Villa Urquiza) com os renomados bailarinos Alfredo Alonso e Silvia Mucci (“Los Alonso”), casal considerado uma das principais referências ativas do Tango tradicional.
 
-### Tango & Fado
+#### Tango & Fado
 
 Através da Milonga d’A Barraca, comecei a promover encontros entre o tango e o Fado ao longo de mais de duas décadas. Cerca de 80 fadistas atuaram na Milonga d’A Barraca, incluindo Celeste Rodrigues, António Chaínho, Fernando Alvim, Katia Guerreiro, José Manuel Neto, María Amélia Proença, Luís Guerreiro e Hélder Moutinho, entre muitos outros.
 
 Em 2024, Camila Delphim e eu fomos convidados pela produtora Fremantle para apresentar o projeto [_Um Abraço Dançado em Fado_](https://www.instagram.com/delphim_laguna/) no programa _Got Talent Portugal_ (RTP1), onde a nossa interpretação dançada teve uma forte repercussão junto do júri e dos meios de comunicação.
 
-### Publicações
+#### Publicações
 
 Alguns dos artigos publicados em revistas científicas com revisão por pares.
 
