@@ -10,8 +10,7 @@ image: /images/ale/image04.png
 layout: about
 draft: false
 ---
-**Alejandro César Grosso Laguna&#xA;**&#x50;hD & Professional Dancer
---------------------------------------------------------------------
+## **Dr. Alejandro César Grosso Laguna**
 
 #### **Overview**&#x20;
 
