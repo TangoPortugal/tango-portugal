@@ -10,11 +10,10 @@ image: /images/ale/image04.png
 layout: about
 draft: false
 ---
-**Alejandro César Grosso Laguna**
-PhD & Professional Dancer
--------------------------
+**Alejandro César Grosso Laguna&#xA;**&#x50;hD & Professional Dancer
+--------------------------------------------------------------------
 
-#### **&#xA;Overview**&#x20;
+#### **Overview**&#x20;
 
 Argentine tango dancer (Buenos Aires–born) and artistic researcher dedicated to the transmission of Argentine tango culture, Alejandro Laguna has remained an active participant in the traditional social milongas of Buenos Aires for nearly three decades.&#x20;
 
