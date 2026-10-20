@@ -9,20 +9,24 @@ image: /images/ale/image01.jpg
 layout: about
 draft: false
 ---
-Professor: Ale Laguna e assistentes
+**Professor: Ale Laguna e assistentes**
 
-- **AULAS GRUPAIS**&#x20;
-  **Workshops aos Domingos, às 19.15** | Nível de Iniciação e Nível Aberto | 90 min.&#x20;
-  Valor 15 tangos.
-- **AULAS PARTICULARES**&#x20;
-  **Todos os níveis | Aula de 60 minutos**
-  Aulas muito espontâneas e divertidas, onde se respira a Argentina do professor.
+#### AULAS DE GRUPO
+
+**Workshops aos domingos, às 19h15** | Nível de Iniciação e Nível Aberto | 90 minutos.\
+Valor: 15 tangos.
+
+#### AULAS PARTICULARES
+
+**Todos os níveis | Aulas de 60 minutos**
+
+Aulas muito espontâneas e divertidas, onde se respira a Argentina do professor.
 
 Podem participar todas as pessoas que queiram aprender o papel de quem conduz ou de quem segue, independentemente do género.
 
 Alejandro é especialista no trabalho com Ladies que querem aprender a dançar no papel de quem conduz. Esta proposta destina-se preferencialmente a quem já tem experiência de baile na milonga no papel oposto (quem segue).
 
-- **Contactos:** Alejandro, por DM no Instagram @milongabarraca ou por e-mail: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
+**Contactos:** Alejandro, por DM no Instagram @milongabarraca ou por e-mail: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
 **Aprender a dançar tango como em Buenos Aires** &#x20;
 
