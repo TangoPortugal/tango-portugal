@@ -13,26 +13,27 @@ draft: false
 
 #### AULAS DE GRUPO
 
-**Workshops aos domingos, às 19h15** | Nível de Iniciação e Nível Aberto | 90 minutos.\
-Valor: 15 tangos.
+**Workshops aos domingos, às 19h15** | Nível de Iniciação e Nível Aberto | Duração: 90 minutos | Valor: 15 tangos.
 
 #### AULAS PARTICULARES
 
-###### **Todos os níveis | Aulas de 60 minutos**
+**Todos os níveis | Aulas de 60 minutos**
 
-Aulas muito espontâneas e divertidas, onde se respira a Argentina do professor.
+Aulas espontâneas e divertidas, onde se respira a Argentina do professor.
 
 Podem participar todas as pessoas que queiram aprender o papel de quem conduz ou de quem segue, independentemente do género.
 
-Alejandro é especialista no trabalho com Ladies que querem aprender a dançar no papel de quem conduz. Esta proposta destina-se preferencialmente a quem já tem experiência de baile na milonga no papel de quem segue).
+Alejandro é especialista no trabalho com *Ladies* que querem aprender a dançar no papel de quem conduz. Esta proposta destina-se preferencialmente a quem já tem experiência de baile na milonga no papel de quem segue.
 
-**Contactos:** Alejandro, por DM no Instagram @milongabarraca ou por e-mail: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
+**Contactos:** Alejandro, por DM no Instagram [@milongabarraca](https://www.instagram.com/milongabarraca/) ou por e-mail: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
-###### **Aprender a dançar tango como em Buenos Aires** &#x20;
+### Aprender a dançar tango como em Buenos Aires
 
-*Para mim, o tango é antes de tudo uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires. No meu ensino, procuro recriar esse sentido de espontaneidade, jogo e celebração — o tango como algo vivido com os outros, e não como algo executado ou analisado à superfície.*
+Para Alejandro, o tango é, antes de tudo, uma experiência vivida e partilhada: uma dança social enraizada no abraço, na musicalidade e na energia alegre das pistas de dança de Buenos Aires.
 
-###### **O que vais aprender comigo?**&#x20;
+No seu ensino, procura recriar esse espírito de espontaneidade, jogo e celebração — o tango como uma experiência vivida com os outros. Um tango cuja linguagem do movimento vai para além da coreografia.
+
+### O que vais aprender comigo?
 
 *Nas minhas aulas, vais aprender como o tango argentino se organiza através do corpo, da música e do abraço.*
 
@@ -42,18 +43,20 @@ Alejandro é especialista no trabalho com Ladies que querem aprender a dançar n
 
 *Tudo o que ensino nasce de experiências reais e de uma profunda reflexão a partir do meu próprio corpo, desenvolvidas ao longo de quase trinta anos a dançar, observar e viver o tango da milonga de Buenos Aires.*
 
-*Cada corpo percebe, aprende e incorpora o tango de forma única. É por isto que as minhas aulas procuram criar as condições para que o corpo descubra e incorpore formas de movimento próprias do tango argentino.*
+*Cada corpo percebe, aprende e incorpora o tango de forma única. É por isso que as minhas aulas procuram criar as condições para que cada pessoa descubra e incorpore, através do próprio corpo, formas de movimento características do tango argentino.*
 
-##### **Breve Biografia**
+### Breve biografia
 
-Alejandro é um **prático-investigador** (*practitioner-researcher*) argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa. É doutor em **Artes Performativas** (2013) pela Universidade de Évora, com investigação centrada no conhecimento não verbal e interdisciplinar, e licenciado em **Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
+Alejandro é um **prático-investigador** (*practitioner-researcher*) argentino, bailarino e professor de tango, natural de Buenos Aires e residente em Lisboa.
 
-###### **Breve Percurso artístico e profissional**&#x20;
+É doutor em **Artes Performativas** (2013) pela Universidade de Évora, com investigação centrada no conhecimento não verbal e interdisciplinar, e licenciado em **Educação Musical** (Universidade de Évora / Conservatório Superior de Música de Buenos Aires).
+
+#### Breve percurso artístico e profissional
 
 Alejandro começou a dançar em finais de 1996. Com uma sólida experiência no ensino do tango argentino, o seu trabalho está enraizado na tradição da dança social de Buenos Aires, com uma forte ênfase no abraço, na musicalidade e na compreensão do movimento a partir das características próprias do baile na *milonga porteña*.
 
-Entre 1999 e 2015, Alejandro especializou-se como **Músico de Dança** na Escola Superior de Dança de Lisboa, intervindo nas disciplinas de técnica de dança contemporânea e moderna. Durante 15 anos, trabalhou em estreita colaboração com diversos professores de dança, entre os quais Antonio Carallo, bailarino da companhia de Pina Bausch. Esta experiência influenciou profundamente a sua abordagem ao estudo microanalítico do movimento, tanto na dança académica como nas danças sociais, nomeadamente no tango e na salsa.
+Entre 1999 e 2015, Alejandro desenvolveu a sua atividade profissional como **Músico de Dança** na Escola Superior de Dança de Lisboa, intervindo nas disciplinas de técnica de dança contemporânea e moderna. Durante 15 anos, trabalhou em estreita colaboração com diversos professores de dança, entre os quais Antonio Carallo, bailarino da companhia de Pina Bausch. Esta experiência influenciou profundamente a sua abordagem ao estudo microanalítico do movimento, tanto na dança académica como nas danças sociais, nomeadamente no tango e na salsa.
 
-Realizou um **pós-doutoramento** (2015 -2021) financiado pela Fundação para a Ciência e a Tecnologia (FCT), com acolhimento da Universidade de Aveiro e da Universidade Nacional de La Plata. Este trabalho centrou-se na análise microanalítica do movimento, explorando a interação entre conteúdos verbais e não verbais. A sua investigação reforça a sua capacidade de observar, analisar e transmitir processos complexos do movimento humano, moldados por fatores percetivos e psicológicos.
+Realizou um **pós-doutoramento (2015–2021)**, financiado pela Fundação para a Ciência e a Tecnologia (FCT), com acolhimento da Universidade de Aveiro e da Universidade Nacional de La Plata. Este trabalho centrou-se na análise microanalítica do movimento, explorando a interação entre conteúdos verbais e não verbais. A sua investigação reforça a sua capacidade de observar, analisar e transmitir processos complexos do movimento humano, moldados por fatores percetivos e psicológicos.
 
 **Praticante avançado do GYROTONIC® Expansion System**, aplicado à técnica de dança clássica, com formação orientada por Barbora Hruskova, ensaiadora principal do Corpo de Baile da Companhia Nacional de Bailado. O trabalho desenvolvido com este método contribuiu para um entendimento mais refinado da organização corporal, da eficiência e da clareza do movimento, com aplicação direta à pedagogia do tango.
