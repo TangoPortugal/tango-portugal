@@ -9,60 +9,54 @@ image: /images/ale/image01.jpg
 layout: about
 draft: false
 ---
-**Teacher: Ale Laguna and Assistants**
-
 #### GROUP CLASSES
 
-**Sunday Workshops · 7:15 PM** | Beginners & Open Level | 90 minutes\
-Fee: 15 tangos.
+**Sunday Workshops at 7:15 PM** | Beginner and Open Level | Duration: 90 minutes | Price: 15 tangos.
 
 #### PRIVATE LESSONS
 
-**All Levels | 60-minute lessons**
+**All levels | 60-minute lessons**
 
-Spontaneous and fun lessons, filled with the Argentine spirit of their teacher.
+Spontaneous and fun lessons, where you can feel the Argentine spirit of the teacher.
 
-Everyone is welcome to learn either the leader’s or the follower’s role, regardless of gender.
+Everyone is welcome to learn either the leading or following role, regardless of gender.
 
-Alejandro specializes in working with Ladies who want to learn to dance in the leader’s role. This is particularly suited to those who already have experience dancing in milongas in the opposite role (following).
+Alejandro specialises in working with *Ladies* who want to learn to dance in the leading role. This programme is primarily intended for those who already have experience dancing as followers at milongas.
 
-**Contact:** Alejandro via Instagram DM @milongabarraca or email: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
+**Contact:** Alejandro, via Instagram DM [@milongabarraca](https://www.instagram.com/milongabarraca/) or email: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
-\
-**Learning tango as it lives on the dance floors of Buenos Aires**
+### &#xA;Learn to Dance Tango as in Buenos Aires
 
-*For me, social tango is first and foremost a lived, shared experience: a social dance rooted in the embrace, musical feeling, and the joyful energy of the Buenos Aires dance floor. In my teaching, I aim to recreate that sense of spontaneity, playfulness, and celebration — tango as something lived with others, not performed or analyzed on the surface.*
-<br />
+For Alejandro, tango is, above all, a lived and shared experience: a social dance rooted in the embrace, musicality, and the joyful energy of the dance floors of Buenos Aires.
 
-**What Will You Learn With Me?**
+Through his teaching, he seeks to recreate this spirit of spontaneity, playfulness, and celebration — tango as an experience shared with others. A tango whose language of movement goes beyond choreography.
 
-*In my classes, you will learn how the body organizes argentine tango while dancing, even through its simplest movements.*
+### What Will You Learn With Me?
 
-*With me you will come into contact with an inner argentine language of the body and the embrace that often cannot be easily perceived from the outside, yet from which a way of walking, listening to the music, and relating to the other person on the dance floor is born.*
+*In my classes, you will learn how Argentine tango is organised through the body, music, and the embrace.*
 
-*You will learn how to be emotionally moved through dance, and to feel how music transforms the experience of movement, the embrace, and the connection with the other person.*
+*With me, you will discover an inner language of the body and the embrace, from which a way of dancing, listening to music, and relating to another person on the dance floor emerges.*
 
-*You will also gradually develop a deeper sense of connection with the music, greater confidence in the embrace, and a more natural way of moving and communicating on the dance floor.*
+*You will learn to feel how music transforms movement, the embrace, and the emotional connection with your dance partner.*
 
-*In my classes, you will not hear abstract theories or repeated formulas. Every element I teach comes from real experiences that I have understood through the body over nearly thirty years of dancing, observing, and living the tango of the Buenos Aires milonga.*
+*Everything I teach comes from real experiences and deep reflection through my own body, developed over almost thirty years of dancing, observing, and experiencing tango in the milongas of Buenos Aires.*
 
-*Living for so many years in Lisbon has allowed me to observe tango from a comparative perspective and to perceive deep details in the way tango is felt and physically organized in Buenos Aires.*
+*Every body perceives, learns, and embodies tango in its own unique way. This is why my classes aim to create the conditions for each person to discover and embody, through their own body, the movement qualities that characterise Argentine tango.*
 
-*Every body perceives, learns, and incorporates tango in a unique way. This is why my classes seek to create the conditions for the body to discover and incorporate ways of moving that are characteristic of Argentine tango.*
+---
 
-​\<br /
+### Brief Biography
 
-**Short Biography**
+Alejandro is an Argentine **practitioner-researcher**, tango dancer and teacher, born in Buenos Aires and based in Lisbon.
 
-Alejandro is an Argentine **practitioner-researcher, tango dancer** and **teacher,** from Buenos Aires, based in Lisbon, with a **PhD** in **Performing Arts** (University of Évora) focused on non-verbal, cross-disciplinary knowledge (implicit and explicit)**,** and a **degree** in **Music Education** (University of Évora / Higher Conservatory of Music of Buenos Aires)**.**
-<br />
+He holds a **PhD in Performing Arts** (2013) from the University of Évora, with research focused on non-verbal and interdisciplinary knowledge, and a **degree in Music Education** (University of Évora / Buenos Aires Higher Conservatory of Music).
 
-**Experience and Background**
+### Brief Artistic and Professional Background
 
-With almost 30 years of experience teaching Argentine tang&#x6F;**,** his work is grounded in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and the embodied understanding of movement as it emerges on the dance floor.
+Alejandro began dancing in late 1996. With extensive experience in teaching Argentine tango, his work is rooted in the social dance tradition of Buenos Aires, with a strong emphasis on the embrace, musicality, and an understanding of movement based on the distinctive characteristics of dancing at the *milonga porteña*.
 
-Alejandro specialized as a **dance musician** within university-level contemporary and modern dance technique classes, working closely with dance teachers and providing musical-metrical support in an academic context. This experience strongly informs his approach to structuring movement, timing, and musical awareness in tango teaching.
+Between 1999 and 2015, Alejandro worked professionally as a **Dance Musician** at the Lisbon Higher School of Dance, contributing to contemporary and modern dance technique classes. For 15 years, he worked closely with various dance teachers, including Antonio Carallo, a dancer with Pina Bausch's company. This experience profoundly influenced his approach to the microanalytical study of movement, both in academic dance and social dances, particularly tango and salsa.
 
-He has seven years of **postdoctoral research fellowship**  experience (University of Aveiro and National University of La Plata) in movement analysis and the interaction between verbal and non-verbal content, funded by the Portuguese Foundation for Science and Technology, strengthening his ability to observe, analyze, and transmit complex human movement processes shaped by perceptual and psychological factors.
+He completed **postdoctoral research (2015–2021)**, funded by the Portuguese Foundation for Science and Technology (FCT), and hosted by the University of Aveiro and the National University of La Plata. This work focused on the microanalysis of movement, exploring the interaction between verbal and non-verbal content. His research strengthens his ability to observe, analyse, and communicate complex processes of human movement shaped by perceptual and psychological factors.
 
-An advanced practitioner of the **Gyrotonic Expansion System** (Barbora Hruskova, head rehersal director at Companhía Nacional de Bailado), his work with this method has further refined his understanding of body organization, efficiency, and clarity of movement, directly applied to tango pedagogy.&#x20;
+An **advanced practitioner of the GYROTONIC® Expansion System**, applied to classical dance technique, Alejandro trained under the guidance of Barbora Hruskova, Principal Ballet Mistress of the Portuguese National Ballet Company (Companhia Nacional de Bailado). His work with this method has contributed to a more refined understanding of body organisation, efficiency, and clarity of movement, directly applied to his tango pedagogy.
