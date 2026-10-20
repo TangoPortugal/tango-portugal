@@ -25,7 +25,7 @@ Alejandro specialises in working with *Ladies* who want to learn to dance in the
 
 **Contact:** Alejandro, via Instagram DM [@milongabarraca](https://www.instagram.com/milongabarraca/) or email: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
-### &#xA;Learn to Dance Tango as in Buenos Aires
+### Learn to Dance Tango as in Buenos Aires
 
 For Alejandro, tango is, above all, a lived and shared experience: a social dance rooted in the embrace, musicality, and the joyful energy of the dance floors of Buenos Aires.
 
@@ -42,8 +42,6 @@ Through his teaching, he seeks to recreate this spirit of spontaneity, playfulne
 *Everything I teach comes from real experiences and deep reflection through my own body, developed over almost thirty years of dancing, observing, and experiencing tango in the milongas of Buenos Aires.*
 
 *Every body perceives, learns, and embodies tango in its own unique way. This is why my classes aim to create the conditions for each person to discover and embody, through their own body, the movement qualities that characterise Argentine tango.*
-
----
 
 ### Brief Biography
 
