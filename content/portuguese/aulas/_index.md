@@ -13,17 +13,18 @@ draft: false
 
 #### AULAS DE GRUPO
 
-**Workshops aos domingos, às 19h15** | Nível de Iniciação e Nível Aberto | Duração: 90 minutos | Valor: 15 tangos.
+**Workshops aos domingos, às 19h15** | Nível de Iniciação e Nível Aberto | \
+Aulas espontâneas e divertidas e com muito movimento, onde se respira o Tango e a Argentina do professor.\
+Para aprender o papel de quem conduz ou de quem segue, independentemente do género.\
+Duração: 90 minutos | Valor: 15 tangos.
 
 #### AULAS PARTICULARES
 
-**Todos os níveis | Aulas de 60 minutos**
+**Todos os níveis | Aulas de 60 minutos**\
+Aulas particulares onde a experiência do tango de Buenos Aires se cruza com um conhecimento profundo do corpo e do movimento. Um trabalho individualizado, apoiado em metodologias de ensino atualizadas, que permite aprofundar a técnica, a musicalidade do movimento, a conexão e a qualidade do baile, muito para além dos passos e das figuras.
 
-Aulas espontâneas e divertidas, onde se respira a Argentina do professor.
-
-Podem participar todas as pessoas que queiram aprender o papel de quem conduz ou de quem segue, independentemente do género.
-
-Alejandro é especialista no trabalho com *Ladies* que querem aprender a dançar no papel de quem conduz. Esta proposta destina-se preferencialmente a quem já tem experiência de baile na milonga no papel de quem segue.
+As aulas privadas podem ser também para mulheres que querem aprender a dançar no papel de quem conduz. \
+Esta proposta destina-se preferencialmente a quem já tem experiência de baile na milonga no papel de quem segue.
 
 **Contactos:** Alejandro, por DM no Instagram [@milongabarraca](https://www.instagram.com/milongabarraca/) ou por e-mail: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
