@@ -11,18 +11,23 @@ draft: false
 ---
 #### GROUP CLASSES
 
-**Sunday Workshops at 7:15 PM** | Beginner and Open Level | Duration: 90 minutes | Price: 15 tangos.
+**Sunday Workshops at 7:15 PM** | Beginner and Open Level | \
+\
+Spontaneous, fun and movement-filled classes, where you can experience the spirit of Tango and the teacher's Argentine roots. \
+Learn either the leading or following role, regardless of gender. \
+Duration: 90 minutes | Price: 15 tangos.
 
 #### PRIVATE LESSONS
 
 **All levels | 60-minute lessons**
 
-Spontaneous and fun lessons, where you can feel the Argentine spirit of the teacher.
+\
+Private lessons where the experience of Buenos Aires tango meets a deep understanding of the body and movement. \
+An individualised approach, supported by up-to-date teaching methodologies, that allows students to deepen their understanding of technique, musicality of movement, connection and quality of dancing, going far beyond steps and figures.
 
-Everyone is welcome to learn either the leading or following role, regardless of gender.
+Private lessons are also available for women who wish to learn to dance in the leading role. This option is primarily intended for those who already have experience dancing as followers at milongas.
 
-Alejandro specialises in working with *Ladies* who want to learn to dance in the leading role. This programme is primarily intended for those who already have experience dancing as followers at milongas.
-
+\
 **Contact:** Alejandro, via Instagram DM [@milongabarraca](https://www.instagram.com/milongabarraca/) or email: [milongabarraca@gmail.com](mailto:milongabarraca@gmail.com)
 
 ### Learn to Dance Tango as in Buenos Aires
@@ -33,15 +38,15 @@ Through his teaching, he seeks to recreate this spirit of spontaneity, playfulne
 
 ### What Will You Learn With Me?
 
-*In my classes, you will learn how Argentine tango is organised through the body, music, and the embrace.*
+In my classes, you will learn how Argentine tango is organised through the body, music, and the embrace.
 
-*With me, you will discover an inner language of the body and the embrace, from which a way of dancing, listening to music, and relating to another person on the dance floor emerges.*
+With me, you will discover an inner language of the body and the embrace, from which a way of dancing, listening to music, and relating to another person on the dance floor emerges.
 
-*You will learn to feel how music transforms movement, the embrace, and the emotional connection with your dance partner.*
+You will learn to feel how music transforms movement, the embrace, and the emotional connection with your dance partner.
 
-*Everything I teach comes from real experiences and deep reflection through my own body, developed over almost thirty years of dancing, observing, and experiencing tango in the milongas of Buenos Aires.*
+Everything I teach comes from real experiences and deep reflection through my own body, developed over almost thirty years of dancing, observing, and experiencing tango in the milongas of Buenos Aires.
 
-*Every body perceives, learns, and embodies tango in its own unique way. This is why my classes aim to create the conditions for each person to discover and embody, through their own body, the movement qualities that characterise Argentine tango.*
+Every body perceives, learns, and embodies tango in its own unique way. This is why my classes aim to create the conditions for each person to discover and embody, through their own body, the movement qualities that characterise Argentine tango.
 
 ### Brief Biography
 
