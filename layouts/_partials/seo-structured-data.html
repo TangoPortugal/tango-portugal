@@ -8,6 +8,13 @@
 {{- $milongaID := printf "%s/milonga/#milonga-da-barraca" $baseURL -}}
 {{- $eventID := printf "%s/milonga/#weekly-milonga" $baseURL -}}
 {{- $websiteID := printf "%s/#website" $baseURL -}}
+{{/* Next Sunday in the site timezone (Europe/Lisbon, set in hugo.toml). */}}
+{{- $today := now -}}
+{{- $daysUntilSunday := mod (sub 7 (int $today.Weekday)) 7 -}}
+{{- $nextSunday := $today.AddDate 0 0 $daysUntilSunday -}}
+{{- $followingMonday := $nextSunday.AddDate 0 0 1 -}}
+{{- $eventStart := printf "%sT19:15:00%s" ($nextSunday.Format "2006-01-02") ($nextSunday.Format "-07:00") -}}
+{{- $eventEnd := printf "%sT00:45:00%s" ($followingMonday.Format "2006-01-02") ($followingMonday.Format "-07:00") -}}
 
 {{/* Organization / LocalBusiness Schema - appears on all pages */}}
 {{- $localBusiness := dict
@@ -63,11 +70,18 @@
   "@context" "https://schema.org"
   "@type" "DanceEvent"
   "@id" $eventID
-  "name" "Milonga d'A Barraca"
-  "description" "Portugal's oldest weekly Argentine Tango milonga, founded in 1999. Social tango dancing every Sunday at Teatro Cinearte, Lisbon. Pre-milonga class at 7:15 PM."
+  "name" "Milonga d'A Barraca – Argentine Social Tango Night"
+  "description" "Weekly Argentine social tango night in Lisbon, founded in July 1999. Sunday tango workshop announced for 19:15, followed by social dancing from 21:00 to 00:45. Workshop €15, milonga €8, full tango experience €19."
   "url" (printf "%s/milonga/" $baseURL)
   "image" (printf "%s/images/ale/image03.jpg" $baseURL)
-  "eventSchedule" (dict "@type" "Schedule" "repeatFrequency" "P1W" "byDay" "https://schema.org/Sunday" "startTime" "21:00" "endTime" "00:45")
+  "startDate" $eventStart
+  "endDate" $eventEnd
+  "eventSchedule" (dict "@type" "Schedule" "repeatFrequency" "P1W" "byDay" "https://schema.org/Sunday" "startTime" "19:15" "endTime" "00:45")
+  "offers" (slice
+    (dict "@type" "Offer" "name" "Argentine Social Tango Workshop" "price" "15" "priceCurrency" "EUR" "url" (printf "%s/aulas/" $baseURL) "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "Milonga d'A Barraca – Social Tango Night" "price" "8" "priceCurrency" "EUR" "url" (printf "%s/milonga/" $baseURL) "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "Full Tango Experience – Workshop and Milonga" "price" "19" "priceCurrency" "EUR" "url" (printf "%s/milonga/" $baseURL) "availability" "https://schema.org/InStock")
+  )
   "location" (dict "@type" "Place" "name" "Teatro Cinearte Bar" "address" (dict "@type" "PostalAddress" "streetAddress" "Largo de Santos, 2" "addressLocality" "Lisboa" "postalCode" "1200-808" "addressCountry" "PT") "geo" (dict "@type" "GeoCoordinates" "latitude" 38.7070606 "longitude" -9.1552984))
   "organizer" (dict "@id" $milongaID)
   "performer" (dict "@id" $personID)
