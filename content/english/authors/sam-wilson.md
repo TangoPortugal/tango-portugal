@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Sam Wilson
 email: samwilson@email.com
 image: "/images/avatar.png"
