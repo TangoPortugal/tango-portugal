@@ -3,7 +3,7 @@ title: "Argentine Social Tango Classes"
 meta_title: "Argentine Tango Classes in Lisbon | Alejandro Laguna – Group &
   Private Lessons"
 description: "Learn Argentine Tango in Lisbon with Alejandro Laguna. Group
-  classes on Sundays, Ladies Tango on Mondays, and private lessons for all
+  group classes on Sundays at Milonga d'A Barraca and private lessons for all
   levels. Dance tango as it lives in Buenos Aires."
 image: /images/ale/image01.jpg
 layout: about
