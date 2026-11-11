@@ -40,10 +40,12 @@
   "@context" "https://schema.org"
   "@type" "DanceSchool"
   "@id" $schoolID
-  "parentOrganization" (dict "@id" $businessID)
+  "parentOrganization" (dict "@id" $milongaID)
+  "founder" (dict "@id" $personID)
+  "employee" (dict "@id" $personID)
   "name" "Aulas de Tango Argentino – Alejandro Laguna"
   "alternateName" "Argentine Tango Classes – Alejandro Laguna"
-  "description" "Professional Argentine Tango classes in Lisbon for all levels. Group classes and private lessons with PhD researcher and professional dancer Alejandro Laguna."
+  "description" "Argentine tango group classes at Milonga d'A Barraca in Lisbon, taught by founder and professional tango dancer Alejandro Laguna. Private lessons with Alejandro Laguna are also available by arrangement at a separate location."
   "url" (printf "%s/" $baseURL)
   "image" (printf "%s/images/ale/image01.jpg" $baseURL)
   "email" "milongabarraca@gmail.com"
@@ -87,6 +89,7 @@
   "foundingDate" "1999-07"
   "founder" (dict "@id" $personID)
   "location" (dict "@id" $businessID)
+  "subOrganization" (dict "@id" $schoolID)
   "sameAs" (slice "https://www.meetup.com/milonga-da-barraca/" "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/")
 -}}
 <script type="application/ld+json">{{ $milonga | jsonify | safeJS }}</script>
@@ -112,8 +115,8 @@
   "hasCredential" (dict "@type" "EducationalOccupationalCredential" "credentialCategory" "PhD in Performing Arts" "recognizedBy" (dict "@type" "CollegeOrUniversity" "name" "University of Évora"))
   "knowsAbout" (slice "Argentine Tango" "Milonga" "Tango Salón" "Villa Urquiza" "Fado" "Dance Research" "Movement Analysis")
   "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/" "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna" "https://en.wikipedia.org/wiki/Alejandro_Laguna" "https://visual-spatial-indicators.tumblr.com/")
-  "subjectOf" (dict "@type" "CreativeWork" "url" "https://psycnet.apa.org/record/2025-91177-006")
-  "worksFor" (dict "@id" $businessID)
+  "subjectOf" (slice (dict "@type" "CreativeWork" "url" "https://psycnet.apa.org/record/2025-91177-006") (dict "@type" "CreativeWork" "url" "https://eric.ed.gov/?id=EJ1427658"))
+  "worksFor" (slice (dict "@id" $businessID) (dict "@id" $schoolID))
 -}}
 <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
 
