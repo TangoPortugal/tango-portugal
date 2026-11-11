@@ -10,7 +10,7 @@ draft: false
 ---
 Through Milonga d’A Barraca, Alejandro has been bringing Tango and Fado together for more than two decades. Live Fado “to dance to” at Milonga d’A Barraca has featured nearly 80 Fado artists, including unforgettable performances by Dona Celeste Rodrigues, António Chainho, Kátia Guerreiro, and many others.
 
-In 2024, Camila Delphim and Alejandro Laguna presented their interpretation, entitled “Um Abraço Dançado em Fado” (“A Dance Embrace in Fado”), on Got Talent Portugal, reaching the semifinals.
+In 2024, Camila Delphim and Alejandro Laguna presented their interpretation, entitled “Um Abraço Dançado em Fado” (“A Dance Embrace in Fado”), in the final stages of Got Talent Portugal.
 
 To learn more about this project, [follow this link](https://fado.carrd.co/).
 
