@@ -12,9 +12,6 @@
 {{- $today := now -}}
 {{- $daysUntilSunday := mod (sub 7 (int $today.Weekday)) 7 -}}
 {{- $nextSunday := $today.AddDate 0 0 $daysUntilSunday -}}
-{{- $followingMonday := $nextSunday.AddDate 0 0 1 -}}
-{{- $eventStart := printf "%sT19:15:00%s" ($nextSunday.Format "2006-01-02") ($nextSunday.Format "-07:00") -}}
-{{- $eventEnd := printf "%sT00:45:00%s" ($followingMonday.Format "2006-01-02") ($followingMonday.Format "-07:00") -}}
 
 {{/* Organization / LocalBusiness Schema - appears on all pages */}}
 {{- $localBusiness := dict
@@ -65,18 +62,22 @@
 -}}
 <script type="application/ld+json">{{ $danceSchool | jsonify | safeJS }}</script>
 
-{{/* Recurring Event Schema for the Milonga */}}
+{{/* Eight dated Sunday editions, refreshed whenever Hugo rebuilds the site. */}}
+{{- range $week := seq 0 7 -}}
+{{- $sunday := $nextSunday.AddDate 0 0 (mul $week 7) -}}
+{{- $monday := $sunday.AddDate 0 0 1 -}}
+{{- $eventStart := printf "%sT19:15:00%s" ($sunday.Format "2006-01-02") ($sunday.Format "-07:00") -}}
+{{- $eventEnd := printf "%sT00:45:00%s" ($monday.Format "2006-01-02") ($monday.Format "-07:00") -}}
 {{- $danceEvent := dict
   "@context" "https://schema.org"
   "@type" "DanceEvent"
-  "@id" $eventID
+  "@id" (printf "%s-%s" $eventID ($sunday.Format "2006-01-02"))
   "name" "Milonga d'A Barraca – Argentine Social Tango Night"
   "description" "Weekly Argentine social tango night in Lisbon, founded in July 1999. Sunday tango workshop announced for 19:15, followed by social dancing from 21:00 to 00:45. Workshop €15, milonga €8, full tango experience €19."
   "url" (printf "%s/milonga/" $baseURL)
   "image" (printf "%s/images/ale/image03.jpg" $baseURL)
   "startDate" $eventStart
   "endDate" $eventEnd
-  "eventSchedule" (dict "@type" "Schedule" "repeatFrequency" "P1W" "byDay" "https://schema.org/Sunday" "startTime" "19:15" "endTime" "00:45")
   "offers" (slice
     (dict "@type" "Offer" "name" "Argentine Social Tango Workshop" "price" "15" "priceCurrency" "EUR" "url" (printf "%s/aulas/" $baseURL) "availability" "https://schema.org/InStock")
     (dict "@type" "Offer" "name" "Milonga d'A Barraca – Social Tango Night" "price" "8" "priceCurrency" "EUR" "url" (printf "%s/milonga/" $baseURL) "availability" "https://schema.org/InStock")
@@ -91,6 +92,7 @@
   "inLanguage" (slice "pt" "en" "es")
 -}}
 <script type="application/ld+json">{{ $danceEvent | jsonify | safeJS }}</script>
+{{- end -}}
 
 {{/* Milonga d'A Barraca as an ongoing cultural organization */}}
 {{- $milonga := dict
