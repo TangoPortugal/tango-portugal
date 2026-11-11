@@ -2,13 +2,19 @@
 {{- $isHome := .IsHome -}}
 {{- $baseURL := site.BaseURL | strings.TrimSuffix "/" -}}
 {{- $desc := site.Params.metadata.description -}}
+{{- $personID := printf "%s/#alejandro-laguna" $baseURL -}}
+{{- $businessID := printf "%s/#tango-portugal" $baseURL -}}
+{{- $schoolID := printf "%s/#tango-school" $baseURL -}}
+{{- $milongaID := printf "%s/milonga/#milonga-da-barraca" $baseURL -}}
+{{- $eventID := printf "%s/milonga/#weekly-milonga" $baseURL -}}
+{{- $websiteID := printf "%s/#website" $baseURL -}}
 
 {{/* Organization / LocalBusiness Schema - appears on all pages */}}
 {{- $localBusiness := dict
   "@context" "https://schema.org"
   "@type" "LocalBusiness"
+  "@id" $businessID
   "name" "Tango Portugal – Alejandro Laguna"
-  "alternateName" "Milonga d'A Barraca"
   "description" $desc
   "url" (printf "%s/" $baseURL)
   "logo" (printf "%s/images/ale/image05.jpg" $baseURL)
@@ -19,14 +25,13 @@
   "geo" (dict "@type" "GeoCoordinates" "latitude" 38.7070606 "longitude" -9.1552984)
   "hasMap" "https://www.google.com/maps/place/Milonga+d'A+Barraca+-+Aulas+de+Tango+Argentino+em+Lisboa/@38.7070606,-9.1552984,700m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd19348360ddf579:0x9979a52da9ca6cfe!8m2!3d38.7070606!4d-9.1552984!16s%2Fg%2F1tj53w53"
   "openingHoursSpecification" (dict "@type" "OpeningHoursSpecification" "dayOfWeek" "Sunday" "opens" "19:15" "closes" "00:45")
-  "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/" "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna")
+  "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/")
   "priceRange" "€€"
   "currenciesAccepted" "EUR"
   "paymentAccepted" (slice "Cash" "CreditCard")
   "areaServed" (slice (dict "@type" "City" "name" "Lisbon" "alternateName" "Lisboa") (dict "@type" "Country" "name" "Portugal"))
   "knowsLanguage" (slice "pt" "en" "es")
-  "foundingDate" "1999-07-01"
-  "founder" (dict "@type" "Person" "name" "Alejandro Laguna" "alternateName" "Alejandro César Grosso Laguna" "jobTitle" "Tango Teacher & Researcher" "url" (printf "%s/" $baseURL) "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna"))
+  "founder" (dict "@id" $personID)
 -}}
 <script type="application/ld+json">{{ $localBusiness | jsonify | safeJS }}</script>
 
@@ -34,18 +39,19 @@
 {{- $danceSchool := dict
   "@context" "https://schema.org"
   "@type" "DanceSchool"
+  "@id" $schoolID
+  "parentOrganization" (dict "@id" $businessID)
   "name" "Aulas de Tango Argentino – Alejandro Laguna"
   "alternateName" "Argentine Tango Classes – Alejandro Laguna"
-  "description" "Professional Argentine Tango classes in Lisbon for all levels. Group classes, Ladies Tango, and private lessons with PhD researcher and professional dancer Alejandro Laguna."
+  "description" "Professional Argentine Tango classes in Lisbon for all levels. Group classes and private lessons with PhD researcher and professional dancer Alejandro Laguna."
   "url" (printf "%s/" $baseURL)
   "image" (printf "%s/images/ale/image01.jpg" $baseURL)
   "email" "milongabarraca@gmail.com"
   "address" (dict "@type" "PostalAddress" "streetAddress" "Largo de Santos, 2" "addressLocality" "Lisboa" "postalCode" "1200-808" "addressCountry" "PT")
   "geo" (dict "@type" "GeoCoordinates" "latitude" 38.7070606 "longitude" -9.1552984)
   "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Tango Classes" "itemListElement" (slice
-    (dict "@type" "Offer" "itemOffered" (dict "@type" "Course" "name" "Group Tango Classes" "description" "Argentine Tango group classes for beginners and open level. Sundays at 7:15 PM, 90 minutes." "provider" (dict "@type" "Person" "name" "Alejandro Laguna")))
-    (dict "@type" "Offer" "itemOffered" (dict "@type" "Course" "name" "Ladies Tango" "description" "Laboratory-style tango class for intermediate and advanced women. Mondays at 7:00 PM, 75 minutes." "provider" (dict "@type" "Person" "name" "Alejandro Laguna")))
-    (dict "@type" "Offer" "itemOffered" (dict "@type" "Course" "name" "Private Tango Lessons" "description" "One-on-one Argentine Tango lessons for all levels. 60-minute sessions." "provider" (dict "@type" "Person" "name" "Alejandro Laguna")))
+    (dict "@type" "Offer" "itemOffered" (dict "@type" "Course" "name" "Group Tango Classes" "description" "Argentine Tango group classes for beginners and open level. Sundays at 7:15 PM, 90 minutes." "provider" (dict "@id" $personID)))
+    (dict "@type" "Offer" "itemOffered" (dict "@type" "Course" "name" "Private Tango Lessons" "description" "One-on-one Argentine Tango lessons for all levels. 60-minute sessions." "provider" (dict "@id" $personID)))
   ))
 -}}
 <script type="application/ld+json">{{ $danceSchool | jsonify | safeJS }}</script>
@@ -54,15 +60,15 @@
 {{- $danceEvent := dict
   "@context" "https://schema.org"
   "@type" "DanceEvent"
+  "@id" $eventID
   "name" "Milonga d'A Barraca"
-  "sameAs" (slice "https://www.meetup.com/milonga-da-barraca/")
   "description" "Portugal's oldest weekly Argentine Tango milonga, founded in 1999. Social tango dancing every Sunday at Teatro Cinearte, Lisbon. Pre-milonga class at 7:15 PM."
   "url" (printf "%s/milonga/" $baseURL)
   "image" (printf "%s/images/ale/image03.jpg" $baseURL)
   "eventSchedule" (dict "@type" "Schedule" "repeatFrequency" "P1W" "byDay" "https://schema.org/Sunday" "startTime" "21:00" "endTime" "00:45")
   "location" (dict "@type" "Place" "name" "Teatro Cinearte Bar" "address" (dict "@type" "PostalAddress" "streetAddress" "Largo de Santos, 2" "addressLocality" "Lisboa" "postalCode" "1200-808" "addressCountry" "PT") "geo" (dict "@type" "GeoCoordinates" "latitude" 38.7070606 "longitude" -9.1552984))
-  "organizer" (dict "@type" "Person" "name" "Alejandro Laguna" "url" (printf "%s/" $baseURL))
-  "performer" (dict "@type" "Person" "name" "Alejandro Laguna")
+  "organizer" (dict "@id" $milongaID)
+  "performer" (dict "@id" $personID)
   "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
   "eventStatus" "https://schema.org/EventScheduled"
   "isAccessibleForFree" false
@@ -70,10 +76,26 @@
 -}}
 <script type="application/ld+json">{{ $danceEvent | jsonify | safeJS }}</script>
 
+{{/* Milonga d'A Barraca as an ongoing cultural organization */}}
+{{- $milonga := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "@id" $milongaID
+  "name" "Milonga d'A Barraca"
+  "url" (printf "%s/milonga/" $baseURL)
+  "description" "Weekly Argentine tango milonga in Lisbon, founded in July 1999 by Alejandro Laguna."
+  "foundingDate" "1999-07"
+  "founder" (dict "@id" $personID)
+  "location" (dict "@id" $businessID)
+  "sameAs" (slice "https://www.meetup.com/milonga-da-barraca/" "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/")
+-}}
+<script type="application/ld+json">{{ $milonga | jsonify | safeJS }}</script>
+
 {{/* Person Schema for Alejandro Laguna */}}
 {{- $person := dict
   "@context" "https://schema.org"
   "@type" "Person"
+  "@id" $personID
   "name" "Alejandro Laguna"
   "alternateName" (slice "Ale Laguna" "Alejandro Grosso Laguna" "Alejandro César Grosso Laguna" "Dr. Alejandro César Grosso Laguna")
   "givenName" "Alejandro"
@@ -89,7 +111,9 @@
   "alumniOf" (slice (dict "@type" "CollegeOrUniversity" "name" "University of Évora") (dict "@type" "CollegeOrUniversity" "name" "Higher Conservatory of Music of Buenos Aires"))
   "hasCredential" (dict "@type" "EducationalOccupationalCredential" "credentialCategory" "PhD in Performing Arts" "recognizedBy" (dict "@type" "CollegeOrUniversity" "name" "University of Évora"))
   "knowsAbout" (slice "Argentine Tango" "Milonga" "Tango Salón" "Villa Urquiza" "Fado" "Dance Research" "Movement Analysis")
-  "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/" "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna" "https://psycnet.apa.org/record/2025-91177-006" "https://en.wikipedia.org/wiki/Alejandro_Laguna" "https://visual-spatial-indicators.tumblr.com/")
+  "sameAs" (slice "https://www.instagram.com/milongabarraca/" "https://www.facebook.com/MilongadaBarraca/" "https://www.researchgate.net/profile/Alejandro-Grosso-Laguna" "https://en.wikipedia.org/wiki/Alejandro_Laguna" "https://visual-spatial-indicators.tumblr.com/")
+  "subjectOf" (dict "@type" "CreativeWork" "url" "https://psycnet.apa.org/record/2025-91177-006")
+  "worksFor" (dict "@id" $businessID)
 -}}
 <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
 
@@ -97,11 +121,12 @@
 {{- $website := dict
   "@context" "https://schema.org"
   "@type" "WebSite"
+  "@id" $websiteID
   "name" "Tango Portugal"
   "alternateName" "TangoPortugal.com"
   "url" (printf "%s/" $baseURL)
   "inLanguage" (slice "pt-PT" "en-US")
-  "publisher" (dict "@type" "Person" "name" "Alejandro Laguna")
+  "publisher" (dict "@id" $personID)
 -}}
 <script type="application/ld+json">{{ $website | jsonify | safeJS }}</script>
 
