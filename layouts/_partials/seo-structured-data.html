@@ -64,7 +64,7 @@
 
 {{/* Eight dated Sunday editions, refreshed whenever Hugo rebuilds the site. */}}
 {{- range $week := seq 0 7 -}}
-{{- $sunday := $nextSunday.AddDate 0 0 (mul $week 7) -}}
+{{- $sunday := $nextSunday.AddDate 0 0 (int (mul $week 7)) -}}
 {{- $monday := $sunday.AddDate 0 0 1 -}}
 {{- $eventStart := printf "%sT19:15:00%s" ($sunday.Format "2006-01-02") ($sunday.Format "-07:00") -}}
 {{- $eventEnd := printf "%sT00:45:00%s" ($monday.Format "2006-01-02") ($monday.Format "-07:00") -}}
