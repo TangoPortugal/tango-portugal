@@ -11,7 +11,7 @@
 {{/* Next Sunday in the site timezone (Europe/Lisbon, set in hugo.toml). */}}
 {{- $today := now -}}
 {{- $daysUntilSunday := mod (sub 7 (int $today.Weekday)) 7 -}}
-{{- $nextSunday := $today.AddDate 0 0 $daysUntilSunday -}}
+{{- $nextSunday := $today.AddDate 0 0 (int $daysUntilSunday) -}}
 
 {{/* Organization / LocalBusiness Schema - appears on all pages */}}
 {{- $localBusiness := dict
