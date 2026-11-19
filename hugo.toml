@@ -8,6 +8,8 @@ hasCJKLanguage = false
 defaultContentLanguage = "pt"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+# Exclude automatic tag/category archive pages; site currently has no published blog posts.
+disableKinds = ["taxonomy", "term"]
 
 [sitemap]
   changefreq = "weekly"
